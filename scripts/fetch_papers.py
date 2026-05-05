@@ -221,6 +221,56 @@ def select_top_n_per_keyword(
     return result
 
 
+def score_trending(paper: dict, cfg: dict) -> float:
+    """直近1年・引用速度重視のスコアリング。"""
+    cw = cfg.get("citation_weight", 0.2)
+    rw = cfg.get("recency_weight", 0.6)
+    vw = cfg.get("velocity_weight", 0.2)
+
+    current_year = date.today().year
+    year = paper.get("year") or (current_year - 10)
+    recency = max(0, 1 - (current_year - year) / 5)  # 5年スケール（直近重視）
+
+    citations = paper.get("citation_count", 0)
+    citation_score = min(citations / 200, 1.0)  # 200件で満点（新しい論文向け）
+
+    # 月あたり引用数（発表から今までの月数で割る）
+    months_since = max(1, (current_year - year) * 12)
+    velocity = min((citations / months_since) / 5, 1.0)  # 月5件で満点
+
+    return citation_score * cw + recency * rw + velocity * vw
+
+
+def select_trending(
+    all_papers: list[dict],
+    reported: set[str],
+    already_selected_uids: set[str],
+    cfg: dict,
+) -> dict | None:
+    """直近1年以内の論文から話題性スコア1位を選出する。"""
+    within_months = cfg.get("within_months", 12)
+    current_year = date.today().year
+    cutoff_year = current_year - 1  # 簡易判定（月単位は年で近似）
+
+    candidates = [
+        p for p in all_papers
+        if p.get("title")
+        and _uid(p) not in reported
+        and _uid(p) not in already_selected_uids
+        and (p.get("year") or 0) >= cutoff_year
+    ]
+
+    if not candidates:
+        print("  [Trending] 直近1年の未報告論文なし")
+        return None
+
+    scored = sorted(candidates, key=lambda p: score_trending(p, cfg), reverse=True)
+    best = scored[0]
+    best["is_trending"] = True
+    print(f"  [Trending] 選出: {best['title'][:60]}")
+    return best
+
+
 # ---------- エントリポイント ----------
 
 def fetch_and_select() -> tuple[list[dict], list[str]]:
@@ -228,10 +278,12 @@ def fetch_and_select() -> tuple[list[dict], list[str]]:
     keywords: list[str] = config.get("keywords", [])
     max_results: int = config.get("max_results", 20)
     top_n: int = config.get("top_n", 2)
+    trending_cfg: dict = config.get("trending", {})
     reported = load_reported()
 
     # キーワードごとに論文を収集・重複除去
     papers_by_keyword: dict[str, list[dict]] = {}
+    all_papers_flat: list[dict] = []
     for kw in keywords:
         kw_papers: list[dict] = []
 
@@ -252,11 +304,22 @@ def fetch_and_select() -> tuple[list[dict], list[str]]:
         merged_kw = merge_papers(kw_papers)
         print(f"  [{kw}] 取得論文数（重複除去後）: {len(merged_kw)}")
         papers_by_keyword[kw] = merged_kw
+        all_papers_flat.extend(merged_kw)
 
+    # 通常枠（キーワードごと top_n）
     top = select_top_n_per_keyword(papers_by_keyword, reported, top_n)
+    selected_uids = {_uid(p) for p in top}
+
+    # 5本目：Trending枠（キーワード横断・直近1年・引用速度重視）
+    if trending_cfg.get("enabled", True):
+        print("\n[Trending] 話題論文を選出中...")
+        all_merged = merge_papers(all_papers_flat)
+        trending = select_trending(all_merged, reported, selected_uids, trending_cfg)
+        if trending:
+            top.append(trending)
+
     new_uids = [_uid(p) for p in top]
-    total = len(keywords) * top_n
-    print(f"\n合計 {len(top)}/{total} 件選出完了")
+    print(f"\n合計 {len(top)} 件選出完了")
     return top, new_uids
 
 

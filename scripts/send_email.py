@@ -22,6 +22,7 @@ def _build_html_email(papers: list[dict], pages_url: str) -> str:
         oa_url = p.get("open_access_url", "")
         pubmed_url = p.get("pubmed_url", "")
         semantic_url = p.get("semantic_url", "")
+        is_trending = p.get("is_trending", False)
 
         point_html = "".join(
             f'<li style="margin-bottom:6px;">[{j}] {pt}</li>'
@@ -37,10 +38,11 @@ def _build_html_email(papers: list[dict], pages_url: str) -> str:
             links.append(f'<a href="{semantic_url}" style="color:#4f46e5;">Semantic Scholar</a>')
         link_html = " &nbsp;|&nbsp; ".join(links)
 
+        trending_tag = '<span style="background:#10b981;color:#fff;font-size:11px;font-weight:700;padding:2px 8px;border-radius:20px;margin-left:8px;">Trending</span>' if is_trending else ""
         cards += f"""
-<div style="background:#fff;border:1px solid #e5e7eb;border-radius:12px;
+<div style="background:#fff;border:1px solid {'#d1fae5' if is_trending else '#e5e7eb'};border-radius:12px;
             padding:20px;margin-bottom:20px;">
-  <p style="color:#818cf8;font-size:24px;font-weight:900;margin:0 0 4px;">#{i}</p>
+  <p style="color:#818cf8;font-size:24px;font-weight:900;margin:0 0 4px;">#{i}{trending_tag}</p>
   <h2 style="font-size:16px;font-weight:700;color:#111827;margin:0 0 6px;
              line-height:1.4;">{title}</h2>
   <p style="font-size:13px;color:#6b7280;margin:0 0 12px;">

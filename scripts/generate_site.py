@@ -16,6 +16,8 @@ IMPORTANCE_LABEL = {
     "low": ("参考", "#6b7280"),
 }
 
+TRENDING_BADGE = '<span class="text-xs font-semibold px-2 py-0.5 rounded-full text-white" style="background:#10b981">Trending</span>'
+
 HTML_TEMPLATE = """<!DOCTYPE html>
 <html lang="ja">
 <head>
@@ -68,6 +70,7 @@ PAPER_CARD_TEMPLATE = """
     <div class="flex-1 min-w-0">
       <div class="flex items-center gap-2 mb-1 flex-wrap">
         <span class="text-xs font-semibold px-2 py-0.5 rounded-full text-white" style="background:{importance_color}">{importance_label}</span>
+        {trending_badge}
         <span class="text-xs text-gray-400">{keyword_tag}</span>
       </div>
       <h2 class="text-base font-bold text-gray-900 leading-snug">{title}</h2>
@@ -141,6 +144,7 @@ def _render_keyword_badges(keywords: list[str]) -> str:
 def _render_paper_card(paper: dict, rank: int) -> str:
     imp = paper.get("ai_importance", "medium")
     imp_label, imp_color = IMPORTANCE_LABEL.get(imp, ("参考", "#6b7280"))
+    is_trending = paper.get("is_trending", False)
 
     journal = paper.get("journal", "")
     year = paper.get("year", "")
@@ -148,6 +152,11 @@ def _render_paper_card(paper: dict, rank: int) -> str:
     journal_parts = [j for j in [journal, str(year) if year else ""] if j]
     if citations:
         journal_parts.append(f"引用 {citations}")
+    if is_trending and year:
+        from datetime import date as _date
+        months = max(1, (_date.today().year - int(year)) * 12)
+        velocity = round(citations / months, 1)
+        journal_parts.append(f"月平均 {velocity} 引用")
     journal_line = " | ".join(journal_parts)
 
     points = paper.get("ai_points", [])
@@ -184,6 +193,7 @@ def _render_paper_card(paper: dict, rank: int) -> str:
         rank=rank,
         importance_color=imp_color,
         importance_label=imp_label,
+        trending_badge=TRENDING_BADGE if is_trending else "",
         keyword_tag=paper.get("keyword", ""),
         title=_escape(paper.get("title", "")),
         journal_line=_escape(journal_line),
