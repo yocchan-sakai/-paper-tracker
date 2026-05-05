@@ -1,0 +1,89 @@
+[
+  {
+    "doi": "10.1177/1947603520931170",
+    "pmid": "32551947",
+    "title": "PRP Injections for the Treatment of Knee Osteoarthritis: A Meta-Analysis of Randomized Controlled Trials",
+    "abstract": "",
+    "year": 2020,
+    "authors": [
+      "G. Filardo",
+      "Davide Previtali",
+      "Francesca Napoli",
+      "C. Candrian",
+      "S. Zaffagnini",
+      "A. Grassi"
+    ],
+    "journal": "Cartilage",
+    "citation_count": 242,
+    "open_access_url": "https://journals.sagepub.com/doi/pdf/10.1177/1947603520931170",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/32551947/",
+    "semantic_url": "https://www.semanticscholar.org/paper/f57d76e2fbe55fa69355fc6bd8499cd93f8e22d0",
+    "source": "semantic_scholar",
+    "keyword": "PRP",
+    "ai_summary": "",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1038/s41598-021-83025-2",
+    "pmid": "33597586",
+    "title": "Platelet-rich plasma (PRP) in osteoarthritis (OA) knee: Correct dose critical for long term clinical efficacy",
+    "abstract": "",
+    "year": 2021,
+    "authors": [
+      "H. Bansal",
+      "J. Leon",
+      "Jeremy L. Pont",
+      "D. A. Wilson",
+      "Anupam Bansal",
+      "Diwaker Agarwal",
+      "Iustin Preoteasa"
+    ],
+    "journal": "Scientific Reports",
+    "citation_count": 151,
+    "open_access_url": "https://www.nature.com/articles/s41598-021-83025-2.pdf",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/33597586/",
+    "semantic_url": "https://www.semanticscholar.org/paper/e81b77f77ba3a37431d1497d6fc8e59e1e4ce3b3",
+    "source": "semantic_scholar",
+    "keyword": "PRP",
+    "ai_summary": "",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1111/cas.70342",
+    "pmid": "41684271",
+    "title": "Mitochondrial Transfer in the Tumor Microenvironment.",
+    "abstract": "Mitochondria are not merely energy-producing organelles but also regulate metabolism, apoptosis, and inflammation. Recent studies have reported that mitochondria can be transferred between cells, and accumulating evidence suggests that this phenomenon is functionally relevant in the tumor context. Mitochondrial transfer is mediated by multiple routes such as tunneling nanotubes and extracellular vesicles. These pathways are regulated by Miro1/2, connexin 43, ICAM-1, VCAM-1, and intracellular reactive oxygen species. Within the tumor microenvironment, mitochondrial transfer from surrounding cells to tumor cells may serve as a mechanism by which tumor cells adapt to hostile metabolic conditions and evade therapeutic pressure. Furthermore, mitochondrial transfer from tumor cells to T cells in the tumor microenvironment reportedly impairs antitumor immunity. Based on these findings, novel therapeutic strategies targeting mitochondrial transfer are under investigation. Future challenges include the development of specific and safe methods to manipulate mitochondrial transfer in vivo. Understanding mitochondrial transfer and its regulation may offer new avenues to overcome resistance and improve cancer outcomes.",
+    "year": 2026,
+    "authors": [
+      "Omae Ryo",
+      "Ishino Takamasa",
+      "Togashi Yosuke"
+    ],
+    "journal": "Cancer science",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/41684271/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41684271/",
+    "source": "pubmed",
+    "keyword": "mitochondrial transfer",
+    "ai_summary": "Mitochondria are not merely energy-producing organelles but also regulate metabolism, apoptosis, and inflammation. Recent studies have reported that mitochondria can be transferred between cells, and ",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  }
+]
