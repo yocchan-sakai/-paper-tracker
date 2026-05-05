@@ -45,7 +45,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
   <main class="max-w-3xl mx-auto px-4 py-6 space-y-6">
     <div class="bg-white rounded-xl border border-gray-200 px-5 py-3 flex items-center gap-3">
       <span class="text-2xl font-bold text-indigo-600">{date_str}</span>
-      <span class="text-gray-500">の Top {top_n} 論文</span>
+      <span class="text-gray-500">の注目論文（キーワードごと Top {top_n}）</span>
     </div>
 
     {paper_cards}

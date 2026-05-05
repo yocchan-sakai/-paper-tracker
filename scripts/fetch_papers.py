@@ -205,10 +205,20 @@ def score_paper(paper: dict) -> float:
     return citation_score * 0.4 + recency * 0.4 + oa_bonus
 
 
-def select_top_n(papers: list[dict], reported: set[str], top_n: int) -> list[dict]:
-    unreported = [p for p in papers if _uid(p) not in reported and p.get("title")]
-    scored = sorted(unreported, key=score_paper, reverse=True)
-    return scored[:top_n]
+def select_top_n_per_keyword(
+    papers_by_keyword: dict[str, list[dict]],
+    reported: set[str],
+    top_n: int,
+) -> list[dict]:
+    """キーワードごとに top_n 件ずつ選出して結合する。"""
+    result = []
+    for kw, papers in papers_by_keyword.items():
+        unreported = [p for p in papers if _uid(p) not in reported and p.get("title")]
+        scored = sorted(unreported, key=score_paper, reverse=True)
+        selected = scored[:top_n]
+        print(f"  [{kw}] Top {top_n} 選出: {[p['title'][:50] for p in selected]}")
+        result.extend(selected)
+    return result
 
 
 # ---------- エントリポイント ----------
@@ -217,31 +227,36 @@ def fetch_and_select() -> tuple[list[dict], list[str]]:
     config = load_config()
     keywords: list[str] = config.get("keywords", [])
     max_results: int = config.get("max_results", 20)
-    top_n: int = config.get("top_n", 3)
+    top_n: int = config.get("top_n", 2)
     reported = load_reported()
 
-    all_papers: list[dict] = []
+    # キーワードごとに論文を収集・重複除去
+    papers_by_keyword: dict[str, list[dict]] = {}
     for kw in keywords:
+        kw_papers: list[dict] = []
+
         print(f"[PubMed] 検索中: {kw}")
         try:
-            all_papers.extend(search_pubmed(kw, max_results))
+            kw_papers.extend(search_pubmed(kw, max_results))
         except Exception as e:
             print(f"  PubMed エラー: {e}")
         time.sleep(0.5)
 
         print(f"[Semantic Scholar] 検索中: {kw}")
         try:
-            all_papers.extend(search_semantic_scholar(kw, max_results))
+            kw_papers.extend(search_semantic_scholar(kw, max_results))
         except Exception as e:
             print(f"  Semantic Scholar エラー: {e}")
         time.sleep(1)
 
-    merged = merge_papers(all_papers)
-    print(f"取得論文数（重複除去後）: {len(merged)}")
+        merged_kw = merge_papers(kw_papers)
+        print(f"  [{kw}] 取得論文数（重複除去後）: {len(merged_kw)}")
+        papers_by_keyword[kw] = merged_kw
 
-    top = select_top_n(merged, reported, top_n)
+    top = select_top_n_per_keyword(papers_by_keyword, reported, top_n)
     new_uids = [_uid(p) for p in top]
-    print(f"Top {top_n} 選出: {[p['title'][:60] for p in top]}")
+    total = len(keywords) * top_n
+    print(f"\n合計 {len(top)}/{total} 件選出完了")
     return top, new_uids
 
 
