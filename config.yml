@@ -1,0 +1,7 @@
+keywords:
+  - "mitochondrial transfer"
+  - "PRP"
+
+report_hour: 7    # 毎朝何時に実行するか（JST = UTC+9）
+top_n: 3          # 何本報告するか
+max_results: 20   # 各キーワードで取得する最大件数
