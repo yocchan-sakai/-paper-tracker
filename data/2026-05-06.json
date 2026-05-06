@@ -1,0 +1,169 @@
+[
+  {
+    "doi": "10.1038/s41467-025-56666-4",
+    "pmid": "39929810",
+    "title": "ER-mitochondria contacts mediate lipid radical transfer via RMDN3/PTPIP51 phosphorylation to reduce mitochondrial oxidative stress.",
+    "abstract": "The proximal domains of mitochondria and the endoplasmic reticulum (ER) are linked by tethering factors on each membrane, allowing the efficient transport of substances, including lipids and calcium, between them. However, little is known about the regulation and function of mitochondria-ER contacts (MERCs) dynamics under mitochondrial damage. In this study, we apply NanoBiT technology to develop the MERBiT system, which enables the measurement of reversible MERCs formation in living cells. Analysis using this system suggests that induction of mitochondrial ROS increases MERCs formation via RMDN3 (also known as PTPIP51)-VAPB tethering driven by RMDN3 phosphorylation. Disruption of this tethering caused lipid radical accumulation in mitochondria, leading to cell death. The lipid radical transfer activity of the TPR domain in RMDN3, as revealed by an in vitro liposome assay, suggests that RMDN3 transfers lipid radicals from mitochondria to the ER. Our findings suggest a potential role for MERCs in cell survival strategy by facilitating the removal of mitochondrial lipid radicals under mitochondrial damage.",
+    "year": 2025,
+    "authors": [
+      "Shiiba Isshin",
+      "Ito Naoki",
+      "Oshio Hijiri",
+      "Ishikawa Yuto",
+      "Nagao Takahiro",
+      "Shimura Hiroki",
+      "Oh Kyu-Wan",
+      "Takasaki Eiki",
+      "Yamaguchi Fuya",
+      "Konagaya Ryoan",
+      "Kadowaki Hisae",
+      "Nishitoh Hideki",
+      "Tanzawa Takehito",
+      "Nagashima Shun",
+      "Sugiura Ayumu",
+      "Fujikawa Yuuta",
+      "Umezawa Keitaro",
+      "Tamura Yasushi",
+      "Il Lee Byung",
+      "Hirabayashi Yusuke",
+      "Okazaki Yasushi",
+      "Sawa Tomohiro",
+      "Inatome Ryoko",
+      "Yanagi Shigeru"
+    ],
+    "journal": "Nature communications",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/39929810/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39929810/",
+    "source": "pubmed",
+    "keyword": "mitochondrial transfer",
+    "ai_summary": "The proximal domains of mitochondria and the endoplasmic reticulum (ER) are linked by tethering factors on each membrane, allowing the efficient transport of substances, including lipids and calcium, ",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.3390/ijms262110581",
+    "pmid": "41226616",
+    "title": "Mechanisms of Mitochondrial Transfer Through TNTs: From Organelle Dynamics to Cellular Crosstalk.",
+    "abstract": "Tunneling nanotubes (TNTs) are dynamic, actin-based intercellular structures that facilitate the transfer of organelles, including mitochondria, between cells. Unlike other protrusive structures such as filopodia and cytonemes, TNTs exhibit structural heterogeneity and functional versatility, enabling both short- and long-range cargo transport. This review explores the mechanisms underlying mitochondrial transfer via TNTs, with a particular focus on cytoskeletal dynamics and the role of key regulatory proteins such as Miro1, GFAP, MICAL2PV, CD38, Connexin 43, M-Sec, thymosin β4, and Talin 2. Miro1 emerges as a central mediator of mitochondrial trafficking, linking organelle motility to cellular stress responses and tissue repair. We delve into the translational implications of TNTs-mediated mitochondrial exchange in regenerative medicine and oncology, highlighting its potential to restore bioenergetics, mitigate oxidative stress, and reprogram cellular states. Despite growing interest, critical gaps remain in understanding the molecular determinants of TNT formation, the quality and fate of transferred mitochondria, and the optimal sources for mitochondrial isolation. Addressing these questions will be essential for harnessing TNTs and mitochondrial transplantation as therapeutic tools.",
+    "year": 2025,
+    "authors": [
+      "Zamberlan Margherita",
+      "Semenzato Martina"
+    ],
+    "journal": "International journal of molecular sciences",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/41226616/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41226616/",
+    "source": "pubmed",
+    "keyword": "mitochondrial transfer",
+    "ai_summary": "Tunneling nanotubes (TNTs) are dynamic, actin-based intercellular structures that facilitate the transfer of organelles, including mitochondria, between cells. Unlike other protrusive structures such ",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1007/s00441-019-02996-x",
+    "pmid": "30758709",
+    "title": "The use of PRP injections in the management of knee osteoarthritis",
+    "abstract": "",
+    "year": 2019,
+    "authors": [
+      "B. O’Connell",
+      "Nicholas M. Wragg",
+      "S. Wilson"
+    ],
+    "journal": "Cell and Tissue Research",
+    "citation_count": 132,
+    "open_access_url": "https://link.springer.com/content/pdf/10.1007/s00441-019-02996-x.pdf",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/30758709/",
+    "semantic_url": "https://www.semanticscholar.org/paper/11c57642762869e571b7862615ae14623461e88b",
+    "source": "semantic_scholar",
+    "keyword": "PRP",
+    "ai_summary": "",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.3390/ijms21020431",
+    "pmid": "31936605",
+    "title": "Impact of the Different Preparation Methods to Obtain Autologous Non-Activated Platelet-Rich Plasma (A-PRP) and Activated Platelet-Rich Plasma (AA-PRP) in Plastic Surgery: Wound Healing and Hair Regrowth Evaluation",
+    "abstract": "",
+    "year": 2020,
+    "authors": [
+      "P. Gentile",
+      "C. Calabrese",
+      "B. De Angelis",
+      "Laura Dionisi",
+      "J. Pizzicannella",
+      "A. Kothari",
+      "D. de Fazio",
+      "S. Garcovich"
+    ],
+    "journal": "International Journal of Molecular Sciences",
+    "citation_count": 106,
+    "open_access_url": "https://www.mdpi.com/1422-0067/21/2/431/pdf?version=1578657118",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/31936605/",
+    "semantic_url": "https://www.semanticscholar.org/paper/bb9f1e9b170155563f69a29b2d26bffa724eea56",
+    "source": "semantic_scholar",
+    "keyword": "PRP",
+    "ai_summary": "",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1186/s13287-025-04675-x",
+    "pmid": "41063290",
+    "title": "Mesenchymal stromal cell-mediated mitochondrial transfer unveils new frontiers in disease therapy.",
+    "abstract": "Mitochondrial dysfunction is a pivotal factor in the progression of various diseases, making it a critical therapeutic target. Mesenchymal stromal cells (MSCs) have shown promise in mitigating this dysfunction through the transfer of healthy mitochondria to damaged cells. This review comprehensively analyzes the mechanisms of MSC-derived mitochondrial transfer, including tunneling nanotubes (TNTs) and extracellular vesicles, and highlights their therapeutic potential across a spectrum of diseases, such as neurodegenerative disorders, ocular diseases, and inflammatory conditions. Additionally, strategies to enhance mitochondrial transfer efficiency-such as genetic modifications and optimization of MSC sources-are thoroughly explored. Despite these promising findings, challenges remain, including the need for a deeper understanding of transfer mechanisms, ensuring the quality and functionality of transferred mitochondria, and addressing potential immune responses. While MSC-derived mitochondrial transfer holds significant therapeutic potential, careful consideration of its dual nature, especially in specific pathological contexts such as cancer, is essential. With further research and technological advancements, this approach could become a cornerstone in the treatment of diseases characterized by mitochondrial dysfunction.",
+    "year": 2025,
+    "authors": [
+      "Chen Huan",
+      "Chen Xu",
+      "Zhou Zi-Hao",
+      "Zheng Jia-Rong",
+      "Lu Ye",
+      "Lin Pei",
+      "Lin Yun-Fan",
+      "Zheng Yu-Cheng",
+      "Xiong Bin",
+      "Xu Rong-Wei",
+      "Cui Li",
+      "Zhao Xin-Yuan"
+    ],
+    "journal": "Stem cell research & therapy",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/41063290/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41063290/",
+    "source": "pubmed",
+    "keyword": "mitochondrial transfer",
+    "is_trending": true,
+    "ai_summary": "Mitochondrial dysfunction is a pivotal factor in the progression of various diseases, making it a critical therapeutic target. Mesenchymal stromal cells (MSCs) have shown promise in mitigating this dy",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  }
+]
