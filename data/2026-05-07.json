@@ -1,0 +1,127 @@
+[
+  {
+    "doi": "10.1186/s12964-025-02237-5",
+    "pmid": "40394666",
+    "title": "From powerhouse to modulator: regulating immune system responses through intracellular mitochondrial transfer.",
+    "abstract": "Mitochondria are traditionally known as the cells' powerhouses; however, their roles go far beyond energy suppliers. They are involved in intracellular signaling and thus play a crucial role in shaping cells' destiny and functionality, including immune cells. Mitochondria can be actively exchanged between immune and non-immune cells via mechanisms such as nanotubes and extracellular vesicles. The mitochondria transfer from immune cells to different cells is associated with physiological and pathological processes, including inflammatory disorders, cardiovascular diseases, diabetes, and cancer. On the other hand, mitochondrial transfer from mesenchymal stem cells, bone marrow-derived stem cells, and adipocytes to immune cells significantly affects their functions. Mitochondrial transfer can prevent exhaustion/senescence in immune cells through intracellular signaling pathways and metabolic reprogramming. Thus, it is emerging as a promising therapeutic strategy for immune system diseases, especially those involving inflammation and autoimmune components. Transferring healthy mitochondria into damaged or dysfunctional cells can restore mitochondrial function, which is crucial for cellular energy production, immune regulation, and inflammation control. Also, mitochondrial transfer may enhance the potential of current therapeutic immune cell-based therapies such as CAR-T cell therapy.",
+    "year": 2025,
+    "authors": [
+      "Changaei Mostafa",
+      "Azimzadeh Tabrizi Zahra",
+      "Karimi Mozhdeh",
+      "Kashfi Seyed Adnan",
+      "Koochaki Chahardeh Tina",
+      "Hashemi Seyed Mahmoud",
+      "Soudi Sara"
+    ],
+    "journal": "Cell communication and signaling : CCS",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/40394666/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40394666/",
+    "source": "pubmed",
+    "keyword": "mitochondrial transfer",
+    "ai_summary": "Mitochondria are traditionally known as the cells' powerhouses; however, their roles go far beyond energy suppliers. They are involved in intracellular signaling and thus play a crucial role in shapin",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1016/j.phrs.2024.107382",
+    "pmid": "39218420",
+    "title": "Mitochondrial Transfer as a Strategy for Enhancing Cancer Cell Fitness:Current Insights and Future Directions.",
+    "abstract": "It is now recognized that tumors are not merely masses of transformed cells but are intricately interconnected with healthy cells in the tumor microenvironment (TME), forming complex and heterogeneous structures. Recent studies discovered that cancer cells can steal mitochondria from healthy cells to empower themselves, while reducing the functions of their target organ. Mitochondrial transfer, i.e. the intercellular movement of mitochondria, is recently emerging as a novel process in cancer biology, contributing to tumor growth, metastasis, and resistance to therapy by shaping the metabolic landscape of the tumor microenvironment. This review highlights the influence of transferred mitochondria on cancer bioenergetics, redox balance and apoptotic resistance, which collectively foster aggressive cancer phenotype. Furthermore, the therapeutic implications of mitochondrial transfer are discussed, emphasizing the potential of targeting these pathways to overcome drug resistance and improve treatment efficacy.",
+    "year": 2024,
+    "authors": [
+      "Marabitti Veronica",
+      "Vulpis Elisabetta",
+      "Nazio Francesca",
+      "Campello Silvia"
+    ],
+    "journal": "Pharmacological research",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/39218420/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39218420/",
+    "source": "pubmed",
+    "keyword": "mitochondrial transfer",
+    "ai_summary": "It is now recognized that tumors are not merely masses of transformed cells but are intricately interconnected with healthy cells in the tumor microenvironment (TME), forming complex and heterogeneous",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1007/s00401-019-02114-9",
+    "pmid": "31853635",
+    "title": "PrP is a central player in toxicity mediated by soluble aggregates of neurodegeneration-causing proteins",
+    "abstract": "",
+    "year": 2019,
+    "authors": [
+      "Grant T. Corbett",
+      "Zemin Wang",
+      "W. Hong",
+      "M. Colom‐Cadena",
+      "Jamie L. Rose",
+      "Meichen Liao",
+      "A. Asfaw",
+      "Tia C. Hall",
+      "Lai Ding",
+      "A. DeSousa",
+      "M. Frosch",
+      "J. Collinge",
+      "D. Harris",
+      "M. Perkinton",
+      "T. Spires-Jones",
+      "T. Young-Pearse",
+      "A. Billinton",
+      "D. Walsh"
+    ],
+    "journal": "Acta Neuropathologica",
+    "citation_count": 130,
+    "open_access_url": "https://link.springer.com/content/pdf/10.1007/s00401-019-02114-9.pdf",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/31853635/",
+    "semantic_url": "https://www.semanticscholar.org/paper/38c9a5b59f758e70973466a7eaa3ca2d4dd20f48",
+    "source": "semantic_scholar",
+    "keyword": "PRP",
+    "ai_summary": "",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.3390/ijms21165702",
+    "pmid": "32784862",
+    "title": "Systematic Review—The Potential Implications of Different Platelet-Rich Plasma (PRP) Concentrations in Regenerative Medicine for Tissue Repair",
+    "abstract": "",
+    "year": 2020,
+    "authors": [
+      "P. Gentile",
+      "S. Garcovich"
+    ],
+    "journal": "International Journal of Molecular Sciences",
+    "citation_count": 102,
+    "open_access_url": "https://www.mdpi.com/1422-0067/21/16/5702/pdf?version=1597224089",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/32784862/",
+    "semantic_url": "https://www.semanticscholar.org/paper/f5324762f91292a2683c561e149ae19cbb2e4de9",
+    "source": "semantic_scholar",
+    "keyword": "PRP",
+    "ai_summary": "",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  }
+]
