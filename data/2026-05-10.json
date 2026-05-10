@@ -1,0 +1,119 @@
+[
+  {
+    "doi": "10.3389/fendo.2023.1346441",
+    "pmid": "38313834",
+    "title": "Mitochondrial transfer - a novel promising approach for the treatment of metabolic diseases.",
+    "abstract": "Metabolic disorders remain a major global health concern in the 21st century, with increasing incidence and prevalence. Mitochondria play a critical role in cellular energy production, calcium homeostasis, signal transduction, and apoptosis. Under physiological conditions, mitochondrial transfer plays a crucial role in tissue homeostasis and development. Mitochondrial dysfunction has been implicated in the pathogenesis of metabolic disorders. Numerous studies have demonstrated that mitochondria can be transferred from stem cells to pathologically injured cells, leading to mitochondrial functional restoration. Compared to cell therapy, mitochondrial transplantation has lower immunogenicity, making exogenous transplantation of healthy mitochondria a promising therapeutic approach for treating diseases, particularly metabolic disorders. This review summarizes the association between metabolic disorders and mitochondria, the mechanisms of mitochondrial transfer, and the therapeutic potential of mitochondrial transfer for metabolic disorders. We hope this review provides novel insights into targeted mitochondrial therapy for metabolic disorders.",
+    "year": 2023,
+    "authors": [
+      "Chen Ruijing",
+      "Chen Jun"
+    ],
+    "journal": "Frontiers in endocrinology",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/38313834/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38313834/",
+    "source": "pubmed",
+    "keyword": "mitochondrial transfer",
+    "ai_summary": "Metabolic disorders remain a major global health concern in the 21st century, with increasing incidence and prevalence. Mitochondria play a critical role in cellular energy production, calcium homeost",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1111/cns.14344",
+    "pmid": "37424172",
+    "title": "Intercellular mitochondrial transfer in the brain, a new perspective for targeted treatment of central nervous system diseases.",
+    "abstract": "Mitochondria is one of the important organelles involved in cell energy metabolism and regulation and also play a key regulatory role in abnormal cell processes such as cell stress, cell damage, and cell canceration. Recent studies have shown that mitochondria can be transferred between cells in different ways and participate in the occurrence and development of many central nervous system diseases. We aim to review the mechanism of mitochondrial transfer in the progress of central nervous system diseases and the possibility of targeted therapy.",
+    "year": 2023,
+    "authors": [
+      "Geng Ziang",
+      "Guan Shu",
+      "Wang Siqi",
+      "Yu Zhongxue",
+      "Liu Tiancong",
+      "Du Shaonan",
+      "Zhu Chen"
+    ],
+    "journal": "CNS neuroscience & therapeutics",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/37424172/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37424172/",
+    "source": "pubmed",
+    "keyword": "mitochondrial transfer",
+    "ai_summary": "Mitochondria is one of the important organelles involved in cell energy metabolism and regulation and also play a key regulatory role in abnormal cell processes such as cell stress, cell damage, and c",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1002/prp2.1147",
+    "pmid": "37885364",
+    "title": "Experimental pharmacology in precision medicine.",
+    "abstract": "",
+    "year": 2023,
+    "authors": [
+      "Urbaniak Alicja",
+      "Thummel Kenneth E",
+      "Alade Ayoade N",
+      "Rettie Allan E",
+      "Prasad Bhagwat",
+      "De Nicolò Amedeo",
+      "Martin Jennifer H",
+      "Sheppard David N",
+      "Jarvis Michael F"
+    ],
+    "journal": "Pharmacology research & perspectives",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/37885364/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37885364/",
+    "source": "pubmed",
+    "keyword": "PRP",
+    "ai_summary": "",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1002/prp2.1127",
+    "pmid": "37589310",
+    "title": "Response to \"Evaluating Adverse Events in Databases\".",
+    "abstract": "",
+    "year": 2023,
+    "authors": [
+      "Calapai Fabrizio",
+      "Mannucci Carmen",
+      "Cardia Luigi",
+      "Currò Mariaconcetta",
+      "Calapai Gioacchino",
+      "Esposito Emanuela",
+      "Ammendolia Ilaria"
+    ],
+    "journal": "Pharmacology research & perspectives",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/37589310/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37589310/",
+    "source": "pubmed",
+    "keyword": "PRP",
+    "ai_summary": "",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  }
+]
