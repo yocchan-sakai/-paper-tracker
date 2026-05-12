@@ -1,0 +1,111 @@
+[
+  {
+    "doi": "10.1016/j.freeradbiomed.2022.07.015",
+    "pmid": "35933052",
+    "title": "Macrophages induce cardiomyocyte ferroptosis via mitochondrial transfer.",
+    "abstract": "Mitochondrial transfer is a new cell-to-cell communication manner. Whether the mitochondrial transfer is also involved in the macrophage infiltration-induced cardiac injury is unclear.",
+    "year": 2022,
+    "authors": [
+      "Chen Jun",
+      "Fu Chun-Yan",
+      "Shen Gerong",
+      "Wang Jingyu",
+      "Xu Lintao",
+      "Li Heyangzi",
+      "Cao Xi",
+      "Zheng Ming-Zhi",
+      "Shen Yue-Liang",
+      "Zhong Jinjie",
+      "Chen Ying-Ying",
+      "Wang Lin-Lin"
+    ],
+    "journal": "Free radical biology & medicine",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/35933052/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/35933052/",
+    "source": "pubmed",
+    "keyword": "mitochondrial transfer",
+    "ai_summary": "Mitochondrial transfer is a new cell-to-cell communication manner. Whether the mitochondrial transfer is also involved in the macrophage infiltration-induced cardiac injury is unclear.",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.3390/cells11223603",
+    "pmid": "36429030",
+    "title": "Mitochondria Transfer in Brain Injury and Disease.",
+    "abstract": "Intercellular mitochondria transfer is a novel form of cell signalling in which whole mitochondria are transferred between cells in order to enhance cellular functions or aid in the degradation of dysfunctional mitochondria. Recent studies have observed intercellular mitochondria transfer between glia and neurons in the brain, and mitochondrial transfer has emerged as a key neuroprotective mechanism in a range of neurological conditions. In particular, artificial mitochondria transfer has sparked widespread interest as a potential therapeutic strategy for brain disorders. In this review, we discuss the mechanisms and effects of intercellular mitochondria transfer in the brain. The role of mitochondrial transfer in neurological conditions, including neurodegenerative disease, brain injury, and neurodevelopmental disorders, is discussed as well as therapeutic strategies targeting mitochondria transfer in the brain.",
+    "year": 2022,
+    "authors": [
+      "Fairley Lauren H",
+      "Grimm Amandine",
+      "Eckert Anne"
+    ],
+    "journal": "Cells",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/36429030/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/36429030/",
+    "source": "pubmed",
+    "keyword": "mitochondrial transfer",
+    "ai_summary": "Intercellular mitochondria transfer is a novel form of cell signalling in which whole mitochondria are transferred between cells in order to enhance cellular functions or aid in the degradation of dys",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1002/prp2.1245",
+    "pmid": "38992909",
+    "title": "Food-drug interactions risk management: An emergent piece of pharmacovigilance systems.",
+    "abstract": "",
+    "year": 2024,
+    "authors": [
+      "Advinha Ana Margarida",
+      "Fernandes João Pedro",
+      "Perdigão Margarida"
+    ],
+    "journal": "Pharmacology research & perspectives",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/38992909/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38992909/",
+    "source": "pubmed",
+    "keyword": "PRP",
+    "ai_summary": "",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1002/prp2.948",
+    "pmid": "35514160",
+    "title": "Corrigendum.",
+    "abstract": "",
+    "year": 2022,
+    "authors": [],
+    "journal": "Pharmacology research & perspectives",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/35514160/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/35514160/",
+    "source": "pubmed",
+    "keyword": "PRP",
+    "ai_summary": "",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  }
+]
