@@ -1,0 +1,106 @@
+[
+  {
+    "doi": "10.3390/ijms22063245",
+    "pmid": "33806730",
+    "title": "Mitochondrial Transfer in Cancer: A Comprehensive Review.",
+    "abstract": "Depending on their tissue of origin, genetic and epigenetic marks and microenvironmental influences, cancer cells cover a broad range of metabolic activities that fluctuate over time and space. At the core of most metabolic pathways, mitochondria are essential organelles that participate in energy and biomass production, act as metabolic sensors, control cancer cell death, and initiate signaling pathways related to cancer cell migration, invasion, metastasis and resistance to treatments. While some mitochondrial modifications provide aggressive advantages to cancer cells, others are detrimental. This comprehensive review summarizes the current knowledge about mitochondrial transfers that can occur between cancer and nonmalignant cells. Among different mechanisms comprising gap junctions and cell-cell fusion, tunneling nanotubes are increasingly recognized as a main intercellular platform for unidirectional and bidirectional mitochondrial exchanges. Understanding their structure and functionality is an important task expected to generate new anticancer approaches aimed at interfering with gains of functions (e.g., cancer cell proliferation, migration, invasion, metastasis and chemoresistance) or damaged mitochondria elimination associated with mitochondrial transfer.",
+    "year": 2021,
+    "authors": [
+      "Zampieri Luca X",
+      "Silva-Almeida Catarina",
+      "Rondeau Justin D",
+      "Sonveaux Pierre"
+    ],
+    "journal": "International journal of molecular sciences",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/33806730/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/33806730/",
+    "source": "pubmed",
+    "keyword": "mitochondrial transfer",
+    "ai_summary": "Depending on their tissue of origin, genetic and epigenetic marks and microenvironmental influences, cancer cells cover a broad range of metabolic activities that fluctuate over time and space. At the",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1111/jpi.12747",
+    "pmid": "34085316",
+    "title": "Melatonin reshapes the mitochondrial network and promotes intercellular mitochondrial transfer via tunneling nanotubes after ischemic-like injury in hippocampal HT22 cells.",
+    "abstract": "Mitochondrial dysfunction is considered one of the hallmarks of ischemia/reperfusion injury. Mitochondria are plastic organelles that undergo continuous biogenesis, fusion, and fission. They can be transferred between cells through tunneling nanotubes (TNTs), dynamic structures that allow the exchange of proteins, soluble molecules, and organelles. Maintaining mitochondrial dynamics is crucial to cell function and survival. The present study aimed to assess the effects of melatonin on mitochondrial dynamics, TNT formation, and mitochondria transfer in HT22 cells exposed to oxygen/glucose deprivation followed by reoxygenation (OGD/R). The results showed that melatonin treatment during the reoxygenation phase reduced mitochondrial reactive oxygen species (ROS) production, improved cell viability, and increased the expression of PGC1α and SIRT3. Melatonin also preserved the expression of the membrane translocase proteins TOM20 and TIM23, and of the matrix protein HSP60, which are involved in mitochondrial biogenesis. Moreover, it promoted mitochondrial fusion and enhanced the expression of MFN2 and OPA1. Remarkably, melatonin also fostered mitochondrial transfer between injured HT22 cells through TNT connections. These results provide new insights into the effect of melatonin on mitochondrial network reshaping and cell survival. Fostering TNTs formation represents a novel mechanism mediating the protective effect of melatonin in ischemia/reperfusion injury.",
+    "year": 2021,
+    "authors": [
+      "Nasoni Maria Gemma",
+      "Carloni Silvia",
+      "Canonico Barbara",
+      "Burattini Sabrina",
+      "Cesarini Erica",
+      "Papa Stefano",
+      "Pagliarini Marica",
+      "Ambrogini Patrizia",
+      "Balduini Walter",
+      "Luchetti Francesca"
+    ],
+    "journal": "Journal of pineal research",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/34085316/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/34085316/",
+    "source": "pubmed",
+    "keyword": "mitochondrial transfer",
+    "ai_summary": "Mitochondrial dysfunction is considered one of the hallmarks of ischemia/reperfusion injury. Mitochondria are plastic organelles that undergo continuous biogenesis, fusion, and fission. They can be tr",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1002/prp2.858",
+    "pmid": "34472220",
+    "title": "Corrigendum.",
+    "abstract": "",
+    "year": 2021,
+    "authors": [],
+    "journal": "Pharmacology research & perspectives",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/34472220/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/34472220/",
+    "source": "pubmed",
+    "keyword": "PRP",
+    "ai_summary": "",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1002/prp2.889",
+    "pmid": "34687269",
+    "title": "Corrigendum.",
+    "abstract": "",
+    "year": 2021,
+    "authors": [],
+    "journal": "Pharmacology research & perspectives",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/34687269/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/34687269/",
+    "source": "pubmed",
+    "keyword": "PRP",
+    "ai_summary": "",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  }
+]
