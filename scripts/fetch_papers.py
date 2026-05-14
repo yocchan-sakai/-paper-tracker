@@ -241,24 +241,122 @@ def score_trending(paper: dict, cfg: dict) -> float:
     return citation_score * cw + recency * rw + velocity * vw
 
 
+def search_pubmed_recent(keywords: list[str], max_results: int) -> list[dict]:
+    """直近1年に絞った PubMed 検索（日付順）。"""
+    from datetime import date as _date
+    today = _date.today()
+    mindate = f"{today.year - 1}/{today.month:02d}/{today.day:02d}"
+    maxdate = today.strftime("%Y/%m/%d")
+    query = " OR ".join(f'"{kw}"' for kw in keywords)
+    params = {
+        "db": "pubmed",
+        "term": query,
+        "retmax": max_results,
+        "sort": "date",          # 日付の新しい順
+        "datetype": "pdat",
+        "mindate": mindate,
+        "maxdate": maxdate,
+        "retmode": "json",
+    }
+    r = requests.get(PUBMED_SEARCH, params=params, timeout=15)
+    r.raise_for_status()
+    ids = r.json().get("esearchresult", {}).get("idlist", [])
+    if not ids:
+        return []
+
+    time.sleep(0.5)
+    fetch_params = {
+        "db": "pubmed",
+        "id": ",".join(ids),
+        "rettype": "xml",
+        "retmode": "xml",
+    }
+    fr = requests.get(PUBMED_FETCH, params=fetch_params, timeout=30)
+    fr.raise_for_status()
+    # keyword タグを "trending" として記録
+    papers = _parse_pubmed_xml(fr.text, "trending")
+    return papers
+
+
+def search_semantic_scholar_recent(keywords: list[str], max_results: int) -> list[dict]:
+    """直近1年に絞った Semantic Scholar 検索。"""
+    from datetime import date as _date
+    year_from = _date.today().year - 1
+    query = " OR ".join(keywords)
+    params = {
+        "query": query,
+        "limit": max_results,
+        "fields": SEMANTIC_FIELDS,
+        "year": f"{year_from}-",   # year_from 以降
+    }
+    headers = {"User-Agent": "paper-tracker/1.0"}
+    r = requests.get(SEMANTIC_SEARCH, params=params, headers=headers, timeout=20)
+    if r.status_code == 429:
+        time.sleep(5)
+        r = requests.get(SEMANTIC_SEARCH, params=params, headers=headers, timeout=20)
+    r.raise_for_status()
+    data = r.json().get("data", [])
+    papers = []
+    for item in data:
+        doi = (item.get("externalIds") or {}).get("DOI", "")
+        pmid = str((item.get("externalIds") or {}).get("PubMed", ""))
+        oa = item.get("openAccessPdf") or {}
+        oa_url = oa.get("url", "")
+        papers.append({
+            "doi": doi,
+            "pmid": pmid,
+            "title": item.get("title", ""),
+            "abstract": "",
+            "year": item.get("year") or 0,
+            "authors": [a.get("name", "") for a in (item.get("authors") or [])],
+            "journal": item.get("venue", ""),
+            "citation_count": item.get("citationCount") or 0,
+            "open_access_url": oa_url,
+            "pubmed_url": f"https://pubmed.ncbi.nlm.nih.gov/{pmid}/" if pmid else "",
+            "semantic_url": item.get("url", ""),
+            "source": "semantic_scholar",
+            "keyword": "trending",
+        })
+    return papers
+
+
 def select_trending(
-    all_papers: list[dict],
     reported: set[str],
     already_selected_uids: set[str],
     cfg: dict,
+    keywords: list[str],
 ) -> dict | None:
-    """直近1年以内の論文から話題性スコア1位を選出する。"""
-    within_months = cfg.get("within_months", 12)
+    """直近1年に絞った専用検索を行い、話題性スコア1位を選出する。"""
+    max_results: int = cfg.get("max_results", 40)
     current_year = date.today().year
-    cutoff_year = current_year - 1  # 簡易判定（月単位は年で近似）
+    cutoff_year = current_year - 1
+
+    print("  [Trending] 直近1年の専用検索中...")
+    trending_papers: list[dict] = []
+    try:
+        trending_papers.extend(search_pubmed_recent(keywords, max_results))
+        print(f"    PubMed（直近1年）: {len(trending_papers)} 件")
+    except Exception as e:
+        print(f"    PubMed 直近検索エラー: {e}")
+    time.sleep(0.5)
+    try:
+        ss_papers = search_semantic_scholar_recent(keywords, max_results)
+        trending_papers.extend(ss_papers)
+        print(f"    Semantic Scholar（直近1年）: {len(ss_papers)} 件")
+    except Exception as e:
+        print(f"    Semantic Scholar 直近検索エラー: {e}")
+
+    merged = merge_papers(trending_papers)
+    print(f"    重複除去後: {len(merged)} 件")
 
     candidates = [
-        p for p in all_papers
+        p for p in merged
         if p.get("title")
         and _uid(p) not in reported
         and _uid(p) not in already_selected_uids
         and (p.get("year") or 0) >= cutoff_year
     ]
+    print(f"    未報告候補: {len(candidates)} 件")
 
     if not candidates:
         print("  [Trending] 直近1年の未報告論文なし")
@@ -310,11 +408,10 @@ def fetch_and_select() -> tuple[list[dict], list[str]]:
     top = select_top_n_per_keyword(papers_by_keyword, reported, top_n)
     selected_uids = {_uid(p) for p in top}
 
-    # 5本目：Trending枠（キーワード横断・直近1年・引用速度重視）
+    # 5本目：Trending枠（専用検索・直近1年・引用速度重視）
     if trending_cfg.get("enabled", True):
         print("\n[Trending] 話題論文を選出中...")
-        all_merged = merge_papers(all_papers_flat)
-        trending = select_trending(all_merged, reported, selected_uids, trending_cfg)
+        trending = select_trending(reported, selected_uids, trending_cfg, keywords)
         if trending:
             top.append(trending)
 
