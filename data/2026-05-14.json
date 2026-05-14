@@ -1,0 +1,157 @@
+[
+  {
+    "doi": "10.7150/thno.29400",
+    "pmid": "31037154",
+    "title": "Mitochondrial Transfer from Bone Marrow Mesenchymal Stem Cells to Motor Neurons in Spinal Cord Injury Rats via Gap Junction.",
+    "abstract": "Recent studies have demonstrated that bone marrow mesenchymal stem cells (BMSCs) protect the injured neurons of spinal cord injury (SCI) from apoptosis while the underlying mechanism of the protective effect of BMSCs remains unclear. In this study, we found the transfer of mitochondria from BMSCs to injured motor neurons and detected the functional improvement after transplanting. Methods: Primary rat BMSCs were co-cultured with oxygen-glucose deprivation (OGD) injured VSC4.1 motor neurons or primary cortical neurons. FACS analysis was used to detect the transfer of mitochondria from BMSCs to neurons. The bioenergetics profiling of neurons was detected by Extracellular Flux Analysis. Cell viability and apoptosis were also measured. BMSCs and isolated mitochondria were transplanted into SCI rats. TdT-mediated dUTP nick end labelling staining was used to detect apoptotic neurons in the ventral horn. Immunohistochemistry and Western blotting were used to measure protein expression. Re-myelination was examined by transmission electron microscope. BBB scores were used to assess locomotor function. Results: MitoTracker-Red labelled mitochondria of BMSCs could be transferred to the OGD injured neurons. The gap junction intercellular communication (GJIC) potentiator retinoid acid increased the quantity of mitochondria transfer from BMSCs to neurons, while GJIC inhibitor 18β glycyrrhetinic acid decreased mitochondria transfer. Internalization of mitochondria improved the bioenergetics profile, decreased apoptosis and promoted cell survival in post-OGD motor neurons. Furthermore, both transplantation of mitochondria and BMSCs to the injured spinal cord improved locomotor functional recovery in SCI rats. Conclusions: To our knowledge, this is the first evidence that BMSCs protect against SCI through GJIC to transfer mitochondrial to the injured neurons. Our findings suggested a new therapy strategy of mitochondria transfer for the patients with SCI.",
+    "year": 2019,
+    "authors": [
+      "Li Heyangzi",
+      "Wang Chao",
+      "He Teng",
+      "Zhao Tengfei",
+      "Chen Ying-Ying",
+      "Shen Yue-Liang",
+      "Zhang Xiaoming",
+      "Wang Lin-Lin"
+    ],
+    "journal": "Theranostics",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/31037154/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/31037154/",
+    "source": "pubmed",
+    "keyword": "mitochondrial transfer",
+    "ai_summary": "Recent studies have demonstrated that bone marrow mesenchymal stem cells (BMSCs) protect the injured neurons of spinal cord injury (SCI) from apoptosis while the underlying mechanism of the protective",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1126/sciadv.aaw7215",
+    "pmid": "31799389",
+    "title": "Endoplasmic reticulum mediates mitochondrial transfer within the osteocyte dendritic network.",
+    "abstract": "Mitochondrial transfer plays a crucial role in the regulation of tissue homeostasis and resistance to cancer chemotherapy. Osteocytes have interconnecting dendritic networks and are a model to investigate its mechanism. We have demonstrated, in primary murine osteocytes with photoactivatable mitochondria (PhAM)floxed and in MLO-Y4 cells, mitochondrial transfer in the dendritic networks visualized by high-resolution confocal imaging. Normal osteocytes transferred mitochondria to adjacent metabolically stressed osteocytes and restored their metabolic function. The coordinated movement and transfer of mitochondria within the dendritic network rely on contact between the endoplasmic reticulum (ER) and mitochondria. Mitofusin 2 (Mfn2), a GTPase that tethers ER to mitochondria, predominantly mediates the transfer. A decline in Mfn2 expression with age occurs concomitantly with both impaired mitochondrial distribution and transfer in the osteocyte dendritic network. These data show a previously unknown function of ER-mitochondrial contact in mediating mitochondrial transfer and provide a mechanism to explain the homeostasis of osteocytes.",
+    "year": 2019,
+    "authors": [
+      "Gao Junjie",
+      "Qin An",
+      "Liu Delin",
+      "Ruan Rui",
+      "Wang Qiyang",
+      "Yuan Jun",
+      "Cheng Tak Sum",
+      "Filipovska Aleksandra",
+      "Papadimitriou J M",
+      "Dai Kerong",
+      "Jiang Qing",
+      "Gao Xiang",
+      "Feng Jian Q",
+      "Takayanagi Hiroshi",
+      "Zhang Changqing",
+      "Zheng Ming H"
+    ],
+    "journal": "Science advances",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/31799389/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/31799389/",
+    "source": "pubmed",
+    "keyword": "mitochondrial transfer",
+    "ai_summary": "Mitochondrial transfer plays a crucial role in the regulation of tissue homeostasis and resistance to cancer chemotherapy. Osteocytes have interconnecting dendritic networks and are a model to investi",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.3390/ijms21207794",
+    "pmid": "33096812",
+    "title": "Platelet-Rich Plasma: New Performance Understandings and Therapeutic Considerations in 2020",
+    "abstract": "",
+    "year": 2020,
+    "authors": [
+      "P. Everts",
+      "K. Onishi",
+      "P. Jayaram",
+      "J. F. Lana",
+      "K. Mautner"
+    ],
+    "journal": "International Journal of Molecular Sciences",
+    "citation_count": 819,
+    "open_access_url": "https://doi.org/10.20944/preprints202010.0069.v1",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/33096812/",
+    "semantic_url": "https://www.semanticscholar.org/paper/1f09dec9498d612a44d20ddb48f1cda897d04bb0",
+    "source": "semantic_scholar",
+    "keyword": "platelet-rich plasma",
+    "ai_summary": "",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1159/000477353",
+    "pmid": "29457008",
+    "title": "A Review of Platelet-Rich Plasma: History, Biology, Mechanism of Action, and Classification",
+    "abstract": "",
+    "year": 2017,
+    "authors": [
+      "Rubina Alves",
+      "R. Grimalt"
+    ],
+    "journal": "Skin Appendage Disorders",
+    "citation_count": 612,
+    "open_access_url": "https://www.karger.com/Article/Pdf/477353",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/29457008/",
+    "semantic_url": "https://www.semanticscholar.org/paper/109a5aa35c280ef120f84ea9ecad07955833c435",
+    "source": "semantic_scholar",
+    "keyword": "platelet-rich plasma",
+    "ai_summary": "",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.4103/tcmj.TCMJ-D-25-00008",
+    "pmid": "42131405",
+    "title": "Comparison of platelet-rich plasma injection versus corticosteroid injection for the treatment of frozen shoulder in Asia: A systematic review and meta-analysis of randomized controlled trials.",
+    "abstract": "This study investigates the therapeutic performance of intra-articular platelet-rich plasma (PRP) versus intra-articular corticosteroid injections, specifically evaluating outcomes within Asian demographic groups. This review was conducted in accordance with the Preferred Reporting Items for Systematic reviews and Meta-Analyses 2020 statement. We assessed study quality with the Cochrane Risk of Bias 2 (RoB2) tool, Review Manager (RevMan) 5.4 for the meta-analysis, and GRADE analysis to assess the certainty of evidence. Our review includes 14 studies, with 11 analyzed through meta-analysis, involving 1295 patients. However, the included studies were limited to populations from India and Pakistan. In the short term, there were no significant differences between the PRP and corticosteroid groups in pain and disability scores. However, the PRP group showed significantly greater improvements in some aspects of range of motion (ROM). In the mid-term, the PRP group had significantly lower Visual Analog Scale (VAS) (mean difference [MD]: -9.67; 95% confidence interval [CI]: -19.36, -0.08), Disabilities of the Arm, Shoulder and Hand (DASH) (MD: -10.47, 95% CI: -20.82, -0.13), and Shoulder Pain and Disability Index (SPADI) scores (MD: -17.92, 95% CI: -28.14, -7.69) compared to corticosteroids, as well as greater ROM improvements across multiple measures (all P < 0.05). In the mid-long term, pooled analysis indicated that VAS (MD: -21.13, 95% CI: -33.35, -8.91), DASH (MD: -10.25, 95% CI: -16.87, -3.64), and SPADI scores (MD: -17.81, 95% CI: -30.89, -4.73) were significantly lower in the PRP group than in corticosteroids. Although PRP shows no immediate advantage over corticosteroids in pain and disability, it improves short-term ROM and provides superior mid- to mid-long-term outcomes. However, results should be interpreted cautiously due to high heterogeneity, varying RoB, and moderate to very low GRADE certainty.",
+    "year": 2026,
+    "authors": [
+      "Kusuma Hendrawan Chandra",
+      "Simatupang Mario Daniel",
+      "Ery Jesica",
+      "Danica Sabrina",
+      "Leoprayogo Billy",
+      "Lee Woo-Yong"
+    ],
+    "journal": "Tzu chi medical journal",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/42131405/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42131405/",
+    "source": "pubmed",
+    "keyword": "trending",
+    "is_trending": true,
+    "ai_summary": "This study investigates the therapeutic performance of intra-articular platelet-rich plasma (PRP) versus intra-articular corticosteroid injections, specifically evaluating outcomes within Asian demogr",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  }
+]
