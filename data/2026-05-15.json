@@ -1,0 +1,96 @@
+[
+  {
+    "doi": "10.1016/j.actbio.2025.07.050",
+    "pmid": "40712724",
+    "title": "Platelet-rich plasma - A comprehensive review of isolation, activation, and application.",
+    "abstract": "Platelets and platelet enriched products have been widely studied for their roles in promoting cell proliferation, migration, and tissue regeneration, making them highly interesting for clinical applications such as traumatology, dental, orthopaedic, and plastic surgery. However, their clinical adoption remains limited, partly due to fragmented and inconsistent data. Previous reviews have explored various applications of PRP therapies, but no comprehensive work has systematically mapped their processing methods, treatment modalities, and applications alongside clinical outcomes. This review thus aims to provide a thorough analysis of platelet-rich products, including platelet-rich plasma and platelet lysate, critically assessing their therapeutic potential. Variability in factors such as platelet and leukocyte content, red blood cell contamination, and activation methods complicates the clinical implementation and standardization of platelet-rich products. Herein, we examine platelet structure, function, and growth factors (e.g., PDGF, VEGF, and TGF-β) essential for tissue repair and regeneration, alongside manufacturing processes and isolation techniques impacting product quality. Additionally, we explore platelet recovery, activation strategies (chemical, physical, enzymatic), application forms, patient-related variables, and the immune-modulatory roles of platelets in inflammation, wound healing, and immune response regulation. Our findings highlight the urgent need for standardized protocols to improve consistency and efficacy of platelet-derived products, providing a framework to guide readers in selecting adequate procedures for specific clinical indications or research applications. STATEMENT OF SIGNIFICANCE: Platelet-rich plasma (PRP) has gained widespread attention for its regenerative potential, but its clinical outcomes remain inconsistent due to variability in preparation and application methods. This comprehensive review critically synthesizes the full PRP pipeline-from donor selection and processing to activation strategies and delivery modalities-highlighting key sources of heterogeneity. By integrating current evidence across disciplines, we provide a unified framework for optimizing PRP use in musculoskeletal repair and beyond. This work addresses a major knowledge gap and offers a timely resource for clinicians and researchers aiming to harness PRP more effectively.",
+    "year": 2025,
+    "authors": [
+      "Rath Matthias",
+      "Spinnen Jacob",
+      "Kuhrt Leonard D",
+      "Priglinger Eleni",
+      "Seika Philippa",
+      "Runge Domenique",
+      "Schubring Stephan",
+      "Laue Dominik",
+      "Wickert Maryam",
+      "Erdem Mehmet",
+      "Ertel Wolfgang",
+      "Shopperly Lennard K"
+    ],
+    "journal": "Acta biomaterialia",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/40712724/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40712724/",
+    "source": "pubmed",
+    "keyword": "platelet-rich plasma",
+    "ai_summary": "Platelets and platelet enriched products have been widely studied for their roles in promoting cell proliferation, migration, and tissue regeneration, making them highly interesting for clinical appli",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.17219/dmp/147298",
+    "pmid": "37023345",
+    "title": "Platelet-rich plasma and platelet-rich fibrin in oral surgery: A narrative review.",
+    "abstract": "Platelet-rich plasma (PRP) and platelet-rich fibrin (PRF) are biological products derived from the plasma fraction of autologous blood that have a platelet concentration above that of the original blood. Cytokines and growth factors are present in platelet-based preparations, and their application has gained great attention in dentistry. The aim of this review was to comprehensively examine the latest scientific evidence on the use of PRF and PRP in oral surgery, and to describe current operational protocols. Platelet-rich fibrin is used after third molar extractions, in the treatment of alveolar osteitis and trismus, and in implant surgery. Platelet-rich plasma is utilized in sinus lift procedures, after tooth extractions, and in patients undergoing the treatment of bisphosphonate-related osteonecrosis of the jaw. Based on this review, plenty of data indicates that the PRF-PRP usage in oral surgery shows promising results. However, no consistent protocols have been presented in the analyzed articles. Further research is needed to provide clinicians with evidence-based clinical recommendations and to develop protocols on the use of these preparations in dental surgery.",
+    "year": 2023,
+    "authors": [
+      "Egierska Dominika",
+      "Perszke Michał",
+      "Mazur Marta",
+      "Duś-Ilnicka Irena"
+    ],
+    "journal": "Dental and medical problems",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/37023345/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37023345/",
+    "source": "pubmed",
+    "keyword": "platelet-rich plasma",
+    "ai_summary": "Platelet-rich plasma (PRP) and platelet-rich fibrin (PRF) are biological products derived from the plasma fraction of autologous blood that have a platelet concentration above that of the original blo",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.3390/ijms27021058",
+    "pmid": "41596701",
+    "title": "Platelet-Rich Plasma from the Research to the Clinical Arena: A Journey Toward the Precision Regenerative Medicine",
+    "abstract": "",
+    "year": 2026,
+    "authors": [
+      "E. Mormone",
+      "V. D’Esposito",
+      "Paola De Luca",
+      "F. Ferrara",
+      "Francesca P. Bellotti",
+      "P. Formisano",
+      "E. Caradonna"
+    ],
+    "journal": "International Journal of Molecular Sciences",
+    "citation_count": 1,
+    "open_access_url": "",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41596701/",
+    "semantic_url": "https://www.semanticscholar.org/paper/2ccbbcea4aab0d332a796e5aa8f52a2638da6249",
+    "source": "semantic_scholar",
+    "keyword": "trending",
+    "is_trending": true,
+    "ai_summary": "",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  }
+]
