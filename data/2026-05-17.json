@@ -1,0 +1,88 @@
+[
+  {
+    "doi": "10.3390/ijerph19095284",
+    "pmid": "35564681",
+    "title": "Platelet Rich Plasma in Gynecology-Discovering Undiscovered-Review.",
+    "abstract": "Regenerative medicine combines elements of tissue engineering and molecular biology aiming to support the regeneration and repair processes of damaged tissues, cells and organs. The most commonly used preparation in regenerative medicine is platelet rich plasma (PRP) containing numerous growth factors present in platelet granularities. This therapy is increasingly used in various fields of medicine. This article is a review of literature on the use of PRP in gynecology and obstetrics. There is no doubt that the released growth factors and proteins have a beneficial effect on wound healing and regeneration processes. So far, its widest application is in reproductive medicine, especially in cases of thin endometrium, Asherman's syndrome, or premature ovarian failure (POF) but also in wound healing and lower urinary tract symptoms (LUTS), such as urinary incontinence or recurrent genitourinary fistula auxiliary treatment. Further research is, however, needed to confirm the effectiveness and the possibility of its application in many other disorders.",
+    "year": 2022,
+    "authors": [
+      "Streit-Ciećkiewicz Dominika",
+      "Kołodyńska Aleksandra",
+      "Futyma-Gąbka Karolina",
+      "Grzybowska Magdalena Emilia",
+      "Gołacki Jakub",
+      "Futyma Konrad"
+    ],
+    "journal": "International journal of environmental research and public health",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/35564681/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/35564681/",
+    "source": "pubmed",
+    "keyword": "platelet-rich plasma",
+    "ai_summary": "Regenerative medicine combines elements of tissue engineering and molecular biology aiming to support the regeneration and repair processes of damaged tissues, cells and organs. The most commonly used",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1007/s10815-021-02385-w",
+    "pmid": "35175511",
+    "title": "Ovarian response to intraovarian platelet-rich plasma (PRP) administration: hypotheses and potential mechanisms of action.",
+    "abstract": "Platelet-rich plasma (PRP) therapy has been used as an adjunct to fertility treatments in women with very low ovarian reserve and premature ovarian insufficiency. Recent literature in both humans and animals suggest that intraovarian PRP administration in the setting of poor ovarian reserve may help ovarian function and increase the chances of pregnancy.",
+    "year": 2022,
+    "authors": [
+      "Seckin Serin",
+      "Ramadan Hadi",
+      "Mouanness Marco",
+      "Kohansieh Michelle",
+      "Merhi Zaher"
+    ],
+    "journal": "Journal of assisted reproduction and genetics",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/35175511/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/35175511/",
+    "source": "pubmed",
+    "keyword": "platelet-rich plasma",
+    "ai_summary": "Platelet-rich plasma (PRP) therapy has been used as an adjunct to fertility treatments in women with very low ovarian reserve and premature ovarian insufficiency. Recent literature in both humans and ",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1016/j.jconrel.2026.115027",
+    "pmid": "42142742",
+    "title": "Rapidly gelling platelet-rich plasma-loaded carboxymethyl hydroxybutyl chitosan hydrogel for colonic repair and adhesion reduction.",
+    "abstract": "Colonic wound repair remains limited by poor material adhesion and postoperative intra-abdominal adhesions. We developed a thermosensitive carboxymethyl hydroxybutyl chitosan (CHC) hydrogel that efficiently integrates with platelet-rich plasma (PRP). CHC remains fluid at 4 °C, allowing homogeneous mixing with PRP at a 4:1 ratio while preserving growth factor bioactivity. Upon exposure to 37 °C, the mixture rapidly gels within 10 s, achieving a shear adhesive strength of 75 kPa, sufficient to withstand intestinal pressure fluctuations and enable sustained growth factor release. In rat and New Zealand rabbit full-thickness colonic defect models, the composite hydrogel significantly accelerated mucosal repair and reduced postoperative adhesions. Mechanistically, PRP activated the PI3K/Akt pathway, promoting macrophage polarization toward the M2 phenotype and shifting cellular metabolism toward oxidative phosphorylation, thereby establishing a local anti-inflammatory microenvironment. Together, the strong tissue adhesion of CHC and the immunomodulatory function of PRP provide a promising sutureless strategy for repairing high-risk intra-abdominal visceral injuries.",
+    "year": 2026,
+    "authors": [
+      "Li Jinjian",
+      "Shen Jiliang",
+      "Ge Wenwen",
+      "Yu Xin",
+      "Yu Hong"
+    ],
+    "journal": "Journal of controlled release : official journal of the Controlled Release Society",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/42142742/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42142742/",
+    "source": "pubmed",
+    "keyword": "trending",
+    "is_trending": true,
+    "ai_summary": "Colonic wound repair remains limited by poor material adhesion and postoperative intra-abdominal adhesions. We developed a thermosensitive carboxymethyl hydroxybutyl chitosan (CHC) hydrogel that effic",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  }
+]
