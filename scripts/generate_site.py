@@ -72,6 +72,7 @@ PAPER_CARD_TEMPLATE = """
         <span class="text-xs font-semibold px-2 py-0.5 rounded-full text-white" style="background:{importance_color}">{importance_label}</span>
         {trending_badge}
         <span class="text-xs text-gray-400">{keyword_tag}</span>
+        {group_badge}
       </div>
       <h2 class="text-base font-bold text-gray-900 leading-snug">{title}</h2>
       <p class="text-xs text-gray-500 mt-1">{journal_line}</p>
@@ -146,6 +147,14 @@ def _render_paper_card(paper: dict, rank: int) -> str:
     imp_label, imp_color = IMPORTANCE_LABEL.get(imp, ("参考", "#6b7280"))
     is_trending = paper.get("is_trending", False)
 
+    group = paper.get("group", "")
+    group_colors = {
+        "ミトコンドリア移植": "bg-purple-100 text-purple-700",
+        "PRP": "bg-orange-100 text-orange-700",
+    }
+    group_color = group_colors.get(group, "bg-gray-100 text-gray-600")
+    group_badge = f'<span class="text-xs font-medium px-2 py-0.5 rounded-full {group_color}">{group}</span>' if group else ""
+
     journal = paper.get("journal", "")
     year = paper.get("year", "")
     citations = paper.get("citation_count", 0)
@@ -195,6 +204,7 @@ def _render_paper_card(paper: dict, rank: int) -> str:
         importance_label=imp_label,
         trending_badge=TRENDING_BADGE if is_trending else "",
         keyword_tag=paper.get("keyword", ""),
+        group_badge=group_badge,
         title=_escape(paper.get("title", "")),
         journal_line=_escape(journal_line),
         summary=_escape(paper.get("ai_summary", paper.get("abstract", "")[:200])),

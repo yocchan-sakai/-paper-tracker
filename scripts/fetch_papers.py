@@ -395,47 +395,73 @@ def select_trending(
 
 # ---------- エントリポイント ----------
 
+def _fetch_group_papers(keywords: list[str], group_name: str, max_results: int) -> list[dict]:
+    """グループ内の全キーワードで検索し、重複除去した論文リストを返す。"""
+    all_kw_papers: list[dict] = []
+    for kw in keywords:
+        print(f"  [PubMed] {kw}")
+        try:
+            papers = search_pubmed(kw, max_results)
+            for p in papers:
+                p["group"] = group_name
+            all_kw_papers.extend(papers)
+        except Exception as e:
+            print(f"    PubMed エラー: {e}")
+        time.sleep(0.5)
+
+        print(f"  [Semantic Scholar] {kw}")
+        try:
+            papers = search_semantic_scholar(kw, max_results)
+            for p in papers:
+                p["group"] = group_name
+            all_kw_papers.extend(papers)
+        except Exception as e:
+            print(f"    Semantic Scholar エラー: {e}")
+        time.sleep(1)
+
+    merged = merge_papers(all_kw_papers)
+    print(f"  [{group_name}] 取得論文数（重複除去後）: {len(merged)}")
+    return merged
+
+
 def fetch_and_select() -> tuple[list[dict], list[str]]:
     config = load_config()
-    keywords: list[str] = config.get("keywords", [])
-    max_results: int = config.get("max_results", 20)
-    top_n: int = config.get("top_n", 2)
+    groups: list[dict] = config.get("keyword_groups", [])
+    max_results: int = config.get("max_results", 100)
     trending_cfg: dict = config.get("trending", {})
     reported = load_reported()
 
-    # キーワードごとに論文を収集・重複除去
-    papers_by_keyword: dict[str, list[dict]] = {}
-    all_papers_flat: list[dict] = []
-    for kw in keywords:
-        kw_papers: list[dict] = []
+    # グループごとに論文を収集してTop N選出
+    top: list[dict] = []
+    all_keywords: list[str] = []
 
-        print(f"[PubMed] 検索中: {kw}")
-        try:
-            kw_papers.extend(search_pubmed(kw, max_results))
-        except Exception as e:
-            print(f"  PubMed エラー: {e}")
-        time.sleep(0.5)
+    for group in groups:
+        group_name: str = group.get("name", "")
+        keywords: list[str] = group.get("keywords", [])
+        top_n: int = group.get("top_n", 2)
+        all_keywords.extend(keywords)
 
-        print(f"[Semantic Scholar] 検索中: {kw}")
-        try:
-            kw_papers.extend(search_semantic_scholar(kw, max_results))
-        except Exception as e:
-            print(f"  Semantic Scholar エラー: {e}")
-        time.sleep(1)
+        print(f"\n=== グループ: {group_name} ===")
+        group_papers = _fetch_group_papers(keywords, group_name, max_results)
 
-        merged_kw = merge_papers(kw_papers)
-        print(f"  [{kw}] 取得論文数（重複除去後）: {len(merged_kw)}")
-        papers_by_keyword[kw] = merged_kw
-        all_papers_flat.extend(merged_kw)
+        # グループ内でスコアリングしてTop N選出
+        already_uids = {_uid(p) for p in top}
+        unreported = [
+            p for p in group_papers
+            if _uid(p) not in reported
+            and _uid(p) not in already_uids
+            and p.get("title")
+        ]
+        scored = sorted(unreported, key=score_paper, reverse=True)
+        selected = scored[:top_n]
+        print(f"  [{group_name}] Top {top_n} 選出: {[p['title'][:50] for p in selected]}")
+        top.extend(selected)
 
-    # 通常枠（キーワードごと top_n）
-    top = select_top_n_per_keyword(papers_by_keyword, reported, top_n)
-    selected_uids = {_uid(p) for p in top}
-
-    # 5本目：Trending枠（専用検索・直近1年・引用速度重視）
+    # Trending枠（専用検索・直近1年・引用速度重視）
     if trending_cfg.get("enabled", True):
-        print("\n[Trending] 話題論文を選出中...")
-        trending = select_trending(reported, selected_uids, trending_cfg, keywords)
+        print("\n=== Trending 枠 ===")
+        selected_uids = {_uid(p) for p in top}
+        trending = select_trending(reported, selected_uids, trending_cfg, all_keywords)
         if trending:
             top.append(trending)
 

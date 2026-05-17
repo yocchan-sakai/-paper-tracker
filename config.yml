@@ -1,12 +1,18 @@
-keywords:
-  - "mitochondrial transfer"
-  - "mitochondria transplantation"
-  - "intercellular mitochondria transfer"
-  - "platelet-rich plasma"
+keyword_groups:
+  - name: "ミトコンドリア移植"
+    keywords:
+      - "mitochondrial transfer"
+      - "mitochondria transplantation"
+      - "intercellular mitochondria transfer"
+    top_n: 2
+
+  - name: "PRP"
+    keywords:
+      - "platelet-rich plasma"
+    top_n: 2
 
 report_hour: 6        # 毎朝何時に実行するか（JST = UTC+9）
-top_n: 2              # 各キーワードから何本報告するか
-max_results: 100      # 各キーワードで取得する最大件数（→100に増加）
+max_results: 100      # 各キーワードで取得する最大件数
 reported_expiry_days: 90  # 報告済み論文の有効期限（日）。経過後は再候補に
 
 # 5本目：直近1年の話題論文（キーワード横断・専用検索）
