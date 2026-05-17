@@ -23,12 +23,30 @@ CONFIG_PATH = ROOT / "config.yml"
 
 
 def update_reported(new_uids: list[str]) -> None:
-    reported = list(load_reported())
+    """
+    reported.json を新フォーマット（doi + reported_at）で更新する。
+    旧フォーマット（文字列リスト）が残っている場合は自動的に移行する。
+    """
+    today_str = date.today().isoformat()
+
+    # 既存データを読み込み（旧フォーマット対応）
+    existing: list[dict] = []
+    if REPORTED_PATH.exists():
+        raw = json.loads(REPORTED_PATH.read_text())
+        for entry in raw:
+            if isinstance(entry, str):
+                # 旧フォーマット → 今日の日付で移行（保守的）
+                existing.append({"doi": entry, "reported_at": today_str})
+            elif isinstance(entry, dict):
+                existing.append(entry)
+
+    existing_dois = {e["doi"] for e in existing}
     for uid in new_uids:
-        if uid not in reported:
-            reported.append(uid)
-    REPORTED_PATH.write_text(json.dumps(reported, ensure_ascii=False, indent=2))
-    print(f"reported.json 更新: {len(reported)} 件")
+        if uid not in existing_dois:
+            existing.append({"doi": uid, "reported_at": today_str})
+
+    REPORTED_PATH.write_text(json.dumps(existing, ensure_ascii=False, indent=2))
+    print(f"reported.json 更新: {len(existing)} 件（新規追加: {len(new_uids)} 件）")
 
 
 def main() -> None:

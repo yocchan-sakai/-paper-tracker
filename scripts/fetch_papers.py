@@ -29,10 +29,34 @@ def load_config() -> dict:
 
 
 def load_reported() -> set[str]:
-    if REPORTED_PATH.exists():
-        data = json.loads(REPORTED_PATH.read_text())
-        return set(data)
-    return set()
+    """
+    reported.json を読み込み、有効期限内（reported_expiry_days 以内）の DOI セットを返す。
+    旧フォーマット（文字列リスト）にも対応。
+    """
+    if not REPORTED_PATH.exists():
+        return set()
+
+    config = load_config()
+    expiry_days: int = config.get("reported_expiry_days", 90)
+    cutoff = date.today().toordinal() - expiry_days
+
+    raw = json.loads(REPORTED_PATH.read_text())
+    reported: set[str] = set()
+    for entry in raw:
+        if isinstance(entry, str):
+            # 旧フォーマット：DOI 文字列のみ → 報告日不明なので有効期限内とみなす
+            reported.add(entry)
+        elif isinstance(entry, dict):
+            doi = entry.get("doi", "")
+            reported_at_str = entry.get("reported_at", "")
+            try:
+                reported_date = date.fromisoformat(reported_at_str).toordinal()
+                if reported_date >= cutoff:
+                    reported.add(doi)
+                # cutoff より古ければ除外（再候補になる）
+            except (ValueError, TypeError):
+                reported.add(doi)  # 日付不明は有効とみなす
+    return reported
 
 
 # ---------- PubMed ----------
