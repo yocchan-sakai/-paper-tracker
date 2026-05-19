@@ -1,0 +1,150 @@
+[
+  {
+    "doi": "10.1111/cpr.70121",
+    "pmid": "40862609",
+    "title": "Mechanical Force Promotes Mitochondrial Transfer From Macrophages to BMSCs to Enhance Bone Formation.",
+    "abstract": "Macrophages and bone marrow mesenchymal stem cells (BMSCs) share a close relationship within the osteoimmune microenvironment. During mechanically induced bone formation, macrophages respond to stimuli and regulate this microenvironment, influencing BMSCs' proliferation and differentiation. However, the underlying mechanisms remain incompletely understood. In our study, we employed a cellular tension system and found that mechanical tension altered mitochondrial dynamics in macrophages, leading to increased mitochondrial fission. Using a macrophage-BMSC direct co-culture system, we demonstrated that macrophages transferred mitochondria to BMSCs, a process enhanced by tension. This enhancement was associated with Drp1-mediated mitochondrial fission, as Drp1 knockdown in macrophages abolished the effect. Additionally, using in vitro co-culture and in vivo tibial injection models, we found that mitochondria-rich extracellular vesicles (Mito-EVs) secreted by mechanically stretched macrophages promoted BMSCs' osteogenesis and enhanced bone formation via the CD200 receptor (CD200R)-CD200 interaction. Our findings reveal a pivotal role for mitochondrial transfer in promoting osteogenesis during mechanotransduction, highlighting a novel mechanism of intercellular communication in bone biology.",
+    "year": 2026,
+    "authors": [
+      "Li Yingyi",
+      "Yan Ziwei",
+      "Dai Yueming",
+      "Cai Hanjia",
+      "Chen Yue",
+      "Chen Yuyi",
+      "Jin Ruofan",
+      "Sun Wen",
+      "Wang Hua"
+    ],
+    "journal": "Cell proliferation",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/40862609/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40862609/",
+    "source": "pubmed",
+    "keyword": "mitochondrial transfer",
+    "group": "ミトコンドリア移植",
+    "ai_summary": "Macrophages and bone marrow mesenchymal stem cells (BMSCs) share a close relationship within the osteoimmune microenvironment. During mechanically induced bone formation, macrophages respond to stimul",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1016/j.celrep.2026.117057",
+    "pmid": "41811849",
+    "title": "Mitochondrial transfer to granulocytic myeloid-derived suppressor cells augments immunosuppressive activity.",
+    "abstract": "The anti-inflammatory properties of granulocytic myeloid-derived suppressor cells (G-MDSCs) promote Staphylococcus aureus (S. aureus) biofilm persistence. Evidence suggests that G-MDSC activity is shaped not only by S. aureus products but also by intrinsic metabolic programs. This study explores whether G-MDSC activity can be modulated by increasing mitochondrial abundance using a co-culture paradigm with macrophages as a mitochondrial donor. Macrophages transfer mitochondria directly to G-MDSCs via tunneling nanotubes, enhancing G-MDSC respiration, as reflected by increased basal, maximal, and spare respiratory capacity. Augmenting mitochondrial abundance in G-MDSCs enhances T cell-suppressive activity and reduces tumor necrosis factor (TNF) and interleukin 6 (IL-6) production. In a mouse model of S. aureus prosthetic joint infection, adoptively transferred macrophages deliver mitochondria to G-MDSCs, enhancing their suppressive activity and increasing bacterial burden, which is reversed when macrophages with non-functional mitochondria are introduced. These findings support the theory that G-MDSCs exploit mitochondria to augment their anti-inflammatory properties in response to S. aureus biofilm.",
+    "year": 2026,
+    "authors": [
+      "Arumugam Prabhakar",
+      "Heim Cortney E",
+      "Fallet Rachel W",
+      "Shinde Dhananjay D",
+      "Thomas Vinai C",
+      "Argüello Rafael J",
+      "Kielian Tammy"
+    ],
+    "journal": "Cell reports",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/41811849/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41811849/",
+    "source": "pubmed",
+    "keyword": "mitochondrial transfer",
+    "group": "ミトコンドリア移植",
+    "ai_summary": "The anti-inflammatory properties of granulocytic myeloid-derived suppressor cells (G-MDSCs) promote Staphylococcus aureus (S. aureus) biofilm persistence. Evidence suggests that G-MDSC activity is sha",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1111/prd.12565",
+    "pmid": "38600634",
+    "title": "How to explain the beneficial effects of platelet-rich plasma.",
+    "abstract": "Platelet-rich plasma (PRP) is the platelet and leukocyte-containing plasmatic fraction of anticoagulated autologous blood. While evidence supporting the clinical use of PRP in dentistry is low, PRP is widely used in sports medicine, orthopedics, and dermatology. Its beneficial activity is commonly attributed to the growth factors released from platelets accumulating in PRP; however, evidence is indirect and not comprehensive. There is thus a demand to revisit PRP with respect to basic and translational science. This review is to (i) recapitulate protocols and tools to prepare PRP; (ii) to discuss the cellular and molecular composition of PRP with a focus on platelets, leukocytes, and the fibrin-rich extracellular matrix of coagulated plasma; and finally (iii) to discuss potential beneficial effects of PRP on a cellular and molecular level with an outlook on its current use in dentistry and other medical fields.",
+    "year": 2025,
+    "authors": [
+      "Gruber Reinhard"
+    ],
+    "journal": "Periodontology 2000",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/38600634/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38600634/",
+    "source": "pubmed",
+    "keyword": "platelet-rich plasma",
+    "group": "PRP",
+    "ai_summary": "Platelet-rich plasma (PRP) is the platelet and leukocyte-containing plasmatic fraction of anticoagulated autologous blood. While evidence supporting the clinical use of PRP in dentistry is low, PRP is",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1007/s10238-025-01651-w",
+    "pmid": "40372505",
+    "title": "Platelet-rich plasma-derived exosomes accelerate the healing of diabetic foot ulcers by promoting macrophage polarization toward the M2 phenotype.",
+    "abstract": "Diabetic foot ulcers (DFUs) impose a significant clinical and socioeconomic burden on patients and healthcare systems. Although platelet-rich plasma (PRP) and platelet-rich plasma-derived exosomes (PRP-Exos) have emerged as promising therapeutic agents in tissue regeneration, the mechanisms underlying the immunomodulatory effects of PRP and PRP-Exos-particularly their role in macrophage polarization-remain poorly understood. In this study, we isolated and characterized PRP-Exos and systematically evaluated their therapeutic potential in diabetic wound healing via comprehensive in vivo and in vitro experiments. Our results revealed that both PRP-gel and PRP-Exos significantly enhanced diabetic wound healing by promoting macrophage polarization toward the anti-inflammatory M2 phenotype. These findings suggest that PRP-Exos represent a novel and effective therapeutic strategy for DFUs, providing a robust rationale for future clinical translation.",
+    "year": 2025,
+    "authors": [
+      "He Ling",
+      "Zhao Nan",
+      "Chen Xiaoling",
+      "Zhang Wenjie",
+      "Lv Kun",
+      "Xu Yuanhong"
+    ],
+    "journal": "Clinical and experimental medicine",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/40372505/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40372505/",
+    "source": "pubmed",
+    "keyword": "platelet-rich plasma",
+    "group": "PRP",
+    "ai_summary": "Diabetic foot ulcers (DFUs) impose a significant clinical and socioeconomic burden on patients and healthcare systems. Although platelet-rich plasma (PRP) and platelet-rich plasma-derived exosomes (PR",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1007/s00266-026-05871-7",
+    "pmid": "42151612",
+    "title": "Synergistic Effect of Platelet-Rich Plasma and Stromal Vascular Fraction in Atrophic Acne Scar Management: A Mechanistic and Clinical Pilot RCT.",
+    "abstract": "Atrophic acne scarring presents a significant therapeutic challenge with a profound psychosocial impact, and conventional treatments often yield suboptimal results. Autologous biologics, specifically stromal vascular fraction (SVF) and platelet-rich plasma (PRP), have emerged as promising regenerative strategies to address this issue.",
+    "year": 2026,
+    "authors": [
+      "Abdalla Marwa S",
+      "Karras Mary S",
+      "Zohdy Marwa",
+      "El-Mongy Shaymaa E",
+      "El Fahar Mohammed H"
+    ],
+    "journal": "Aesthetic plastic surgery",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/42151612/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42151612/",
+    "source": "pubmed",
+    "keyword": "trending",
+    "is_trending": true,
+    "ai_summary": "Atrophic acne scarring presents a significant therapeutic challenge with a profound psychosocial impact, and conventional treatments often yield suboptimal results. Autologous biologics, specifically ",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  }
+]
