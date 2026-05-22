@@ -1,0 +1,167 @@
+[
+  {
+    "doi": "10.1073/pnas.2512592123",
+    "pmid": "41642981",
+    "title": "Mitochondrial transfer in the HSC-HCC-macrophage network shapes hepatocellular carcinoma progression.",
+    "abstract": "Mitochondrial crosstalk between tumor cells and components of the tumor microenvironment (TME) is a critical yet underexplored mechanism driving hepatocellular carcinoma (HCC) progression. Here, we demonstrate that in HCC, mitochondria can be transferred from hepatic stellate cells to cancer cells via tunneling nanotubes (TNTs), supplying essential energy for tumor growth. Simultaneously, cancer cells offload damaged mitochondria to macrophages through extracellular vesicles (EVs), facilitating their clearance and promoting tumor development. To disrupt this mitochondrial exchange, we developed a responsive liposomal nanocarrier (L&G@LipoPPV) coencapsulating L-778123 and GW4869 to simultaneously inhibit TNT-mediated and vesicle-mediated mitochondrial transfer. This work provides the first comprehensive evidence of mitochondrial transfer dynamics in the TME, with tumor cells as the central hub, and highlights L&G@LipoPPV as an innovative and effective strategy to block mitochondrial crosstalk. Our findings address critical challenges of drug solubility and delivery, offering a rational approach to reprogram the TME and suppress liver cancer progression.",
+    "year": 2026,
+    "authors": [
+      "Zhang La",
+      "Ren Cong",
+      "He Miao",
+      "Chen Xinyu",
+      "Liu Hongqing",
+      "Liu Yilin",
+      "Luo Jing",
+      "Li Zhenghang",
+      "Wang Jianwei",
+      "Miao Wenjun",
+      "Peng Qiling",
+      "Jiang Ning"
+    ],
+    "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/41642981/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41642981/",
+    "source": "pubmed",
+    "keyword": "mitochondrial transfer",
+    "group": "ミトコンドリア移植",
+    "ai_summary": "Mitochondrial crosstalk between tumor cells and components of the tumor microenvironment (TME) is a critical yet underexplored mechanism driving hepatocellular carcinoma (HCC) progression. Here, we de",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1177/0271678X241306054",
+    "pmid": "39668588",
+    "title": "Astrocytic mitochondrial transfer to brain endothelial cells and pericytes in vivo increases with aging.",
+    "abstract": "Intercellular mitochondrial transfer (IMT) is an intriguing biological phenomenon where mitochondria are transferred between different cells and notably, cell types. IMT is physiological, occurring in normal conditions, but also is utilized to deliver healthy mitochondria to cells in distress. Transferred mitochondria can be integrated to improve cellular metabolism, and mitochondrial function. Research on the mitochondrial transfer axis between astrocytes and brain capillaries in vivo is limited by the cellular heterogeneity of the neurovascular unit. To this end, we developed an inducible mouse model that expresses mitochondrial Dendra2 only in astrocytes and then isolated brain capillaries to remove all intact astrocytes. This method allows the visualization of in vivo astrocyte- endothelial cell (EC) and astrocyte-pericyte IMT. We demonstrate evidence of astrocyte-EC and astrocyte-pericyte mitochondrial transfer within brain capillaries. We also show that healthy aging enhances mitochondrial transfer from astrocytes to brain capillaries, revealing a potential link between brain aging and cellular mitochondrial dynamics. Finally, we observe that astrocyte-derived extracellular vesicles transfer mitochondria to brain microvascular endothelial cells, showing the potential route of in vivo IMT. These results represent a breakthrough in our understanding of IMT in the brain and a new target in brain aging and neurovascular metabolism.",
+    "year": 2026,
+    "authors": [
+      "Velmurugan Gopal V",
+      "Vekaria Hemendra J",
+      "Patel Samir P",
+      "Sullivan Patrick G",
+      "Hubbard W Brad"
+    ],
+    "journal": "Journal of cerebral blood flow and metabolism : official journal of the International Society of Cerebral Blood Flow and Metabolism",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/39668588/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39668588/",
+    "source": "pubmed",
+    "keyword": "mitochondrial transfer",
+    "group": "ミトコンドリア移植",
+    "ai_summary": "Intercellular mitochondrial transfer (IMT) is an intriguing biological phenomenon where mitochondria are transferred between different cells and notably, cell types. IMT is physiological, occurring in",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1088/2516-1091/ad1338",
+    "pmid": "39655847",
+    "title": "Recent advances in platelet-rich plasma and its derivatives: therapeutic agents for tissue engineering and regenerative medicine.",
+    "abstract": "Platelet rich plasma (PRP) is a suspension of bioactive factors and chemokine enriched plasma. Platelets are a distinctive source of membrane bound and soluble proteins that are released upon their activation. The higher count of platelets renders PRP with an array of tissue regenerative abilities. PRP can be employed in the form of platelet containing plasma, platelet lysate plasma, or in the form of a pre-gelled fibrin matrix. PRP has been an essential alternative source of growth factors in the healing and regeneration of various tissues, such as musculoskeletal, cardiovascular, and dermal tissue, with additional applications in other tissues, such as hepatic and neural. A wide range of preparative and isolation strategies have been developed for various forms of PRP at laboratory and commercial scales. Concomitantly, PRP has found its applicability as an active component in several tissue regenerative approaches, including 3D printed/bioprinted constructs, injectable hydrogels, and crosslinked scaffolds. This review focuses on the various forms of PRP and their preparation methods, the latest tissue engineering applications of PRP, and the various tissue-specific clinical trials and findings conducted using PRP. We have further discussed the optimizations required in the methods of preparation, delivery, and long-term storage of PRP. Therefore, this review seeks to benefit the scope of research on PRP-based therapeutic agents in tissue engineering by providing comprehensive insights into the widespread application. We envisage PRP could be instrumental in future patient-specific tissue engineering applications in both pre-clinical and clinical settings.",
+    "year": 2024,
+    "authors": [
+      "Shome Sayanti",
+      "Kodieswaran M",
+      "Dadheech Rajat",
+      "Chevella Maheshwari",
+      "Sensharma Sreemoyee",
+      "Awasthi Sanu",
+      "Bandyopadhyay Ashutosh",
+      "Mandal Biman B"
+    ],
+    "journal": "Progress in biomedical engineering (Bristol, England)",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/39655847/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39655847/",
+    "source": "pubmed",
+    "keyword": "platelet-rich plasma",
+    "group": "PRP",
+    "ai_summary": "Platelet rich plasma (PRP) is a suspension of bioactive factors and chemokine enriched plasma. Platelets are a distinctive source of membrane bound and soluble proteins that are released upon their ac",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1021/acs.jproteome.4c00030",
+    "pmid": "38619924",
+    "title": "Platelet-Rich Plasma in Young and Elderly Humans Exhibits a Different Proteomic Profile.",
+    "abstract": "As people age, their ability to resist injury and repair damage decreases significantly. Platelet-rich plasma (PRP) has demonstrated diverse therapeutic effects on tissue repair. However, the inconsistency of patient outcomes poses a challenge to the practical application of PRP in clinical practice. Furthermore, a comprehensive understanding of the specific impact of aging on PRP requires a systematic investigation. We derived PRP from 6 young volunteers and 6 elderly volunteers, respectively. Subsequently, 95% of high-abundance proteins were removed, followed by mass spectrometry analysis. Data are available via ProteomeXchange with the identifier PXD050061. We detected a total of 739 proteins and selected 311 proteins that showed significant differences, including 76 upregulated proteins in the young group and 235 upregulated proteins in the elderly group. Functional annotation and enrichment analysis unveiled upregulation of proteins associated with cell apoptosis, angiogenesis, and complement and coagulation cascades in the elderly. Conversely, IGF1 was found to be upregulated in the young group, potentially serving as the central source of enhanced cell proliferation ability. Our investigation not only provides insights into standardizing PRP preparation but also offers novel strategies for augmenting the functionality of aging cells or tissues.",
+    "year": 2024,
+    "authors": [
+      "Jiang Zhitong",
+      "Huang Can",
+      "Guo Erliang",
+      "Zhu Xiangbin",
+      "Li Na",
+      "Huang Yu",
+      "Wang Peihe",
+      "Shan Hui",
+      "Yin Yuxin",
+      "Wang Hong",
+      "Huang Lei",
+      "Han Zhen",
+      "Ouyang Kunfu",
+      "Sun Lu"
+    ],
+    "journal": "Journal of proteome research",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/38619924/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38619924/",
+    "source": "pubmed",
+    "keyword": "platelet-rich plasma",
+    "group": "PRP",
+    "ai_summary": "As people age, their ability to resist injury and repair damage decreases significantly. Platelet-rich plasma (PRP) has demonstrated diverse therapeutic effects on tissue repair. However, the inconsis",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.18295/2075-0528.2987",
+    "pmid": "42170550",
+    "title": "Comparison of Efficacy of Autologous Platelet Rich Plasma Versus Silicone Products for Treatment of Scars.",
+    "abstract": "This study aimed to compare the efficacy of intralesional autologous platelet rich plasma (PRP) injection in post-traumatic and post-surgical scars to a control group managed with silicone-based products. In addition, this study aimed to determine the success rate via aesthetic result, symptom improvement and outcome in terms of complications using autologous PRP on scars caused by burns or trauma.",
+    "year": 2026,
+    "authors": [
+      "Giri Sanjay Kumar",
+      "Bandyopadhyay Ahana",
+      "Suba Santanu",
+      "Singh Sweta",
+      "Pattnaik Bramhadatta",
+      "Chhabra Gaurav"
+    ],
+    "journal": "Sultan Qaboos University medical journal",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/42170550/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42170550/",
+    "source": "pubmed",
+    "keyword": "trending",
+    "is_trending": true,
+    "ai_summary": "This study aimed to compare the efficacy of intralesional autologous platelet rich plasma (PRP) injection in post-traumatic and post-surgical scars to a control group managed with silicone-based produ",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  }
+]
