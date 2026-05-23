@@ -1,0 +1,166 @@
+[
+  {
+    "doi": "10.1016/j.cmet.2020.11.008",
+    "pmid": "33278339",
+    "title": "Intercellular Mitochondria Transfer to Macrophages Regulates White Adipose Tissue Homeostasis and Is Impaired in Obesity.",
+    "abstract": "Recent studies suggest that mitochondria can be transferred between cells to support the survival of metabolically compromised cells. However, whether intercellular mitochondria transfer occurs in white adipose tissue (WAT) or regulates metabolic homeostasis in vivo remains unknown. We found that macrophages acquire mitochondria from neighboring adipocytes in vivo and that this process defines a transcriptionally distinct macrophage subpopulation. A genome-wide CRISPR-Cas9 knockout screen revealed that mitochondria uptake depends on heparan sulfates (HS). High-fat diet (HFD)-induced obese mice exhibit lower HS levels on WAT macrophages and decreased intercellular mitochondria transfer from adipocytes to macrophages. Deletion of the HS biosynthetic gene Ext1 in myeloid cells decreases mitochondria uptake by WAT macrophages, increases WAT mass, lowers energy expenditure, and exacerbates HFD-induced obesity in vivo. Collectively, this study suggests that adipocytes and macrophages employ intercellular mitochondria transfer as a mechanism of immunometabolic crosstalk that regulates metabolic homeostasis and is impaired in obesity.",
+    "year": 2021,
+    "authors": [
+      "Brestoff Jonathan R",
+      "Wilen Craig B",
+      "Moley John R",
+      "Li Yongjia",
+      "Zou Wei",
+      "Malvin Nicole P",
+      "Rowen Marina N",
+      "Saunders Brian T",
+      "Ma Hongming",
+      "Mack Madison R",
+      "Hykes Barry L",
+      "Balce Dale R",
+      "Orvedahl Anthony",
+      "Williams Jesse W",
+      "Rohatgi Nidhi",
+      "Wang Xiaoyan",
+      "McAllaster Michael R",
+      "Handley Scott A",
+      "Kim Brian S",
+      "Doench John G",
+      "Zinselmeyer Bernd H",
+      "Diamond Michael S",
+      "Virgin Herbert W",
+      "Gelman Andrew E",
+      "Teitelbaum Steven L"
+    ],
+    "journal": "Cell metabolism",
+    "citation_count": 303,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/33278339/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/33278339/",
+    "source": "pubmed",
+    "keyword": "intercellular mitochondria transfer",
+    "group": "ミトコンドリア移植",
+    "semantic_url": "https://www.semanticscholar.org/paper/2e3ab05ac627ccb55f16f7ca345bfb33b283d189",
+    "ai_summary": "Recent studies suggest that mitochondria can be transferred between cells to support the survival of metabolically compromised cells. However, whether intercellular mitochondria transfer occurs in whi",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.3389/fcell.2016.00107",
+    "pmid": "27734015",
+    "title": "Mitochondria Know No Boundaries: Mechanisms and Functions of Intercellular Mitochondrial Transfer.",
+    "abstract": "Mitochondria regulate multiple cell processes, including calcium signaling, apoptosis and cell metabolism. Mitochondria contain their own circular genome encoding selected subunits of the oxidative phosphorylation complexes. Recent findings reveal that, in addition to being maternally inherited, mitochondria can traverse cell boundaries and thus be horizontally transferred between cells. Although, the physiological relevance of this phenomenon is still under debate, mitochondria uptake rescues mitochondrial respiration defects in recipient cells and regulates signaling, proliferation or chemotherapy resistance in vitro and in vivo. In this review, we outline the pathophysiological consequences of horizontal mitochondrial transfer and offer a perspective on the cellular and molecular mechanisms mediating their intercellular transmission, including tunneling nanotubes, extracellular vesicles, cellular fusion, and GAP junctions. The physiological relevance of mitochondrial transfer and the potential therapeutic application of this exchange for treating mitochondrial-related diseases are discussed.",
+    "year": 2016,
+    "authors": [
+      "Torralba Daniel",
+      "Baixauli Francesc",
+      "Sánchez-Madrid Francisco"
+    ],
+    "journal": "Frontiers in cell and developmental biology",
+    "citation_count": 377,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/27734015/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/27734015/",
+    "source": "pubmed",
+    "keyword": "intercellular mitochondria transfer",
+    "group": "ミトコンドリア移植",
+    "semantic_url": "https://www.semanticscholar.org/paper/b7d5e825324d91472d72c708abdffa68a0f19634",
+    "ai_summary": "Mitochondria regulate multiple cell processes, including calcium signaling, apoptosis and cell metabolism. Mitochondria contain their own circular genome encoding selected subunits of the oxidative ph",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1111/wrr.13060",
+    "pmid": "36458897",
+    "title": "Hormesis mediates platelet-rich plasma and wound healing.",
+    "abstract": "Platelet-rich plasma (PRP) has become an accepted and general wound healing approach with an extremely wide range of applications. Despite considerable diversity in the composition of platelet-rich plasma products that are applied in specific wound healing usage, it is widely recognised that such diverse platelet-rich plasma complex mixtures routinely display hormetic-like biphasic concentrations that are independent of the tissue treated and endpoints measured. The present paper is the first to place the area of platelet-rich plasma-biomedical research and applications within an hormetic framework. The platelet-rich plasma area is also unique as it represents the application of the hormetic concept to the issue of complex biological mixtures.",
+    "year": 2023,
+    "authors": [
+      "Calabrese Edward J",
+      "Kapoor Rachna",
+      "Dhawan Gaurav",
+      "Calabrese Vittorio"
+    ],
+    "journal": "Wound repair and regeneration : official publication of the Wound Healing Society [and] the European Tissue Repair Society",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/36458897/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/36458897/",
+    "source": "pubmed",
+    "keyword": "platelet-rich plasma",
+    "group": "PRP",
+    "ai_summary": "Platelet-rich plasma (PRP) has become an accepted and general wound healing approach with an extremely wide range of applications. Despite considerable diversity in the composition of platelet-rich pl",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.36849/JDD.1023",
+    "pmid": "37943278",
+    "title": "Platelet-Rich Plasma Across the Spectrum of Alopecias: Where Are We Now?",
+    "abstract": "",
+    "year": 2023,
+    "authors": [
+      "Azim Sara Abdel",
+      "Whiting Cleo",
+      "Friedman Adam"
+    ],
+    "journal": "Journal of drugs in dermatology : JDD",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/37943278/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37943278/",
+    "source": "pubmed",
+    "keyword": "platelet-rich plasma",
+    "group": "PRP",
+    "ai_summary": "",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1177/19458924261449364",
+    "pmid": "42175591",
+    "title": "Efficacy of Local Application of Platelet-Rich Plasma (PRP) on Mucosal Healing and Clinical Outcomes After Functional Endoscopic Sinus Surgery for Chronic Rhinosinusitis with Nasal Polyps: A Retrospective Cohort Study.",
+    "abstract": "BackgroundPoor mucosal wound healing and recurrence of polyps remain significant challenges following functional endoscopic sinus surgery (FESS) for chronic rhinosinusitis with nasal polyps (CRSwNP). While platelet-rich plasma (PRP) shows regenerative potential in various fields, its rhinologic application remains understudied.ObjectiveTo evaluate the efficacy of local PRP application on postoperative time to epithelialization, endoscopic appearance, long-term recurrence, and quality of life in patients undergoing FESS for CRSwNP.MethodsA retrospective cohort study was conducted on 120 CRSwNP patients undergoing FESS (2022-2025). The PRP group (n = 60) received intraoperative and postoperative local PRP application to the ethmoid cavity and middle meatus. The control group (n = 60) received standard care. The primary outcome was time to complete epithelialization. Secondary outcomes, assessed at scheduled intervals up to 48 weeks, included Lund-Kennedy Endoscopic Scores (LKES), SNOT-22, debridement frequency, 1-year polyp recurrence, and complications.ResultsBaseline demographics were comparable. The PRP group demonstrated a significantly shorter mean time to epithelialization compared to controls (3.4 ± 0.8 vs 5.1 ± 1.2 weeks, P < .001). Longitudinal analysis revealed better LKES in the PRP group at 8 (P = .012) and 12 weeks (P = .004). SNOT-22 score improvements were more pronounced in the PRP group at 3 months (P = .021). Crucially, the PRP group required significantly fewer postoperative debridements (1.5 ± 0.6 vs 2.8 ± 0.9, P < .001). The 1-year polyp recurrence rate (8.3% vs 23.3%, P = .024) and synechiae incidence (5.0% vs 16.7%, P = .041) were significantly lower in the PRP group.ConclusionLocal application of autologous PRP accelerates mucosal epithelialization, reduces the need for postoperative debridement, decreases 1-year polyp recurrence, and improves early-to-intermediate endoscopic outcomes in CRSwNP patients. It represents an effective adjunctive therapy for enhancing functional recovery.",
+    "year": 2026,
+    "authors": [
+      "Su Jing",
+      "Bai Yinhong",
+      "Wu Guangli",
+      "Li Dan",
+      "Li Hao",
+      "Lu Ruiyun",
+      "Ma Qian"
+    ],
+    "journal": "American journal of rhinology & allergy",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/42175591/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42175591/",
+    "source": "pubmed",
+    "keyword": "trending",
+    "is_trending": true,
+    "ai_summary": "BackgroundPoor mucosal wound healing and recurrence of polyps remain significant challenges following functional endoscopic sinus surgery (FESS) for chronic rhinosinusitis with nasal polyps (CRSwNP). ",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  }
+]
