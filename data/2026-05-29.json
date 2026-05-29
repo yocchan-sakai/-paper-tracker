@@ -1,0 +1,143 @@
+[
+  {
+    "doi": "10.1038/s41419-023-05835-8",
+    "pmid": "37202391",
+    "title": "Tunnelling nanotubes between neuronal and microglial cells allow bi-directional transfer of α-Synuclein and mitochondria.",
+    "abstract": "Tunnelling Nanotubes (TNTs) facilitate contact-mediated intercellular communication over long distances. Material transfer via TNTs can range from ions and intracellular organelles to protein aggregates and pathogens. Prion-like toxic protein aggregates accumulating in several neurodegenerative pathologies, such as Alzheimer's, Parkinson's, and Huntington's diseases, have been shown to spread via TNTs not only between neurons, but also between neurons-astrocytes, and neurons-pericytes, indicating the importance of TNTs in mediating neuron-glia interactions. TNT-like structures were also reported between microglia, however, their roles in neuron-microglia interaction remain elusive. In this work, we quantitatively characterise microglial TNTs and their cytoskeletal composition, and demonstrate that TNTs form between human neuronal and microglial cells. We show that α-Synuclein (α-Syn) aggregates increase the global TNT-mediated connectivity between cells, along with the number of TNT connections per cell pair. Homotypic TNTs formed between microglial cells, and heterotypic TNTs between neuronal and microglial cells are furthermore shown to be functional, allowing movement of both α-Syn and mitochondria. Quantitative analysis shows that α-Syn aggregates are transferred predominantly from neuronal to microglial cells, possibly as a mechanism to relieve the burden of accumulated aggregates. By contrast, microglia transfer mitochondria preferably to α-Syn burdened neuronal cells over the healthy ones, likely as a potential rescue mechanism. Besides describing novel TNT-mediated communication between neuronal and microglial cells, this work allows us to better understand the cellular mechanisms of spreading neurodegenerative diseases, shedding light on the role of microglia.",
+    "year": 2023,
+    "authors": [
+      "Chakraborty Ranabir",
+      "Nonaka Takashi",
+      "Hasegawa Masato",
+      "Zurzolo Chiara"
+    ],
+    "journal": "Cell death & disease",
+    "citation_count": 128,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/37202391/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37202391/",
+    "source": "pubmed",
+    "keyword": "intercellular mitochondria transfer",
+    "group": "ミトコンドリア移植",
+    "semantic_url": "https://www.semanticscholar.org/paper/834227a817e2228a500d280a7ad508c6402cfd0e",
+    "ai_summary": "Tunnelling Nanotubes (TNTs) facilitate contact-mediated intercellular communication over long distances. Material transfer via TNTs can range from ions and intracellular organelles to protein aggregat",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1038/s41392-024-02081-y",
+    "pmid": "40025039",
+    "title": "Engineered mitochondria in diseases: mechanisms, strategies, and applications",
+    "abstract": "Mitochondrial diseases represent one of the most prevalent and debilitating categories of hereditary disorders, characterized by significant genetic, biological, and clinical heterogeneity, which has driven the development of the field of engineered mitochondria. With the growing recognition of the pathogenic role of damaged mitochondria in aging, oxidative disorders, inflammatory diseases, and cancer, the application of engineered mitochondria has expanded to those non-hereditary contexts (sometimes referred to as mitochondria-related diseases). Due to their unique non-eukaryotic origins and endosymbiotic relationship, mitochondria are considered highly suitable for gene editing and intercellular transplantation, and remarkable progress has been achieved in two promising therapeutic strategies-mitochondrial gene editing and artificial mitochondrial transfer (collectively referred to as engineered mitochondria in this review) over the past two decades. Here, we provide a comprehensive review of the mechanisms and recent advancements in the development of engineered mitochondria for therapeutic applications, alongside a concise summary of potential clinical implications and supporting evidence from preclinical and clinical studies. Additionally, an emerging and potentially feasible approach involves ex vivo mitochondrial editing, followed by selection and transplantation, which holds the potential to overcome limitations such as reduced in vivo operability and the introduction of allogeneic mitochondrial heterogeneity, thereby broadening the applicability of engineered mitochondria.",
+    "year": 2025,
+    "authors": [
+      "Mingyang Li",
+      "Limin Wu",
+      "Hai-bo Si",
+      "Yuangang Wu",
+      "Yuan Liu",
+      "Yi Zeng",
+      "Bin Shen"
+    ],
+    "journal": "Signal Transduction and Targeted Therapy",
+    "citation_count": 40,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/40025039/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40025039/",
+    "semantic_url": "https://www.semanticscholar.org/paper/5615bbe64d835a9490c1fa2c031b7de2f0c59b83",
+    "source": "semantic_scholar",
+    "keyword": "mitochondria transplantation",
+    "group": "ミトコンドリア移植",
+    "ai_summary": "Mitochondrial diseases represent one of the most prevalent and debilitating categories of hereditary disorders, characterized by significant genetic, biological, and clinical heterogeneity, which has ",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1007/978-1-0716-2839-3_28",
+    "pmid": "36355307",
+    "title": "Platelet-Rich Plasma for Intra-articular Injections: Preclinical and Clinical Evidence.",
+    "abstract": "The use of platelet-rich plasma (PRP) has been supported by encouraging data from in vitro and preclinical in vivo studies, both in terms of safety and efficacy. This led to the wide use of PRP injections in the clinical practice, with promising results especially as a minimally invasive treatment for cartilage degeneration and osteoarthritis (OA). While many controversies remain on the best PRP formulation, the overall available clinical studies support the benefits of PRP, with functional improvement and reduction of pain-related symptoms up to 12 months, especially in young patients and early OA stages.",
+    "year": 2023,
+    "authors": [
+      "Boffa Angelo",
+      "Filardo Giuseppe"
+    ],
+    "journal": "Methods in molecular biology (Clifton, N.J.)",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/36355307/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/36355307/",
+    "source": "pubmed",
+    "keyword": "platelet-rich plasma",
+    "group": "PRP",
+    "ai_summary": "The use of platelet-rich plasma (PRP) has been supported by encouraging data from in vitro and preclinical in vivo studies, both in terms of safety and efficacy. This led to the wide use of PRP inject",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1111/jocd.14662",
+    "pmid": "34897939",
+    "title": "Platelet-rich plasma in hair loss-Mechanism, preparation, and classification.",
+    "abstract": "Platelet-rich plasma is the autologous plasma containing platelet concentration more than the baseline separated after centrifugation. It has become a very popular option for the treatment of hair loss in the past few decades. Used alone or in combination with other treatment options it has found a place as a hair restoration procedure throughout the world. However, evidence supporting its credibility is quite ambiguous with contradictory reports available in the literature. In this article, we try to analyze the available data regarding its mechanism of action, preparation protocols, and classification, with regard to hair loss.",
+    "year": 2022,
+    "authors": [
+      "Alexander Sajin",
+      "Horo Ilse",
+      "Johnson Sobha",
+      "Daniel Sheela"
+    ],
+    "journal": "Journal of cosmetic dermatology",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/34897939/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/34897939/",
+    "source": "pubmed",
+    "keyword": "platelet-rich plasma",
+    "group": "PRP",
+    "ai_summary": "Platelet-rich plasma is the autologous plasma containing platelet concentration more than the baseline separated after centrifugation. It has become a very popular option for the treatment of hair los",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1093/intimm/dxag027",
+    "pmid": "42212533",
+    "title": "Mitochondrial Transfer-Driven Immune Evasion in the Tumor Microenvironment.",
+    "abstract": "The tumor microenvironment (TME) is a complex landscape where metabolic interactions significantly dictate antitumor immunity. Immune evasion in cancer is typically discussed in terms of inhibitory receptors and ligands, suppressive cytokines, defective antigen presentation, and metabolic competition. However, recent evidence reveals that intercellular mitochondrial transfer adds a new mechanism of immune evasion in the TME. The mitochondrial fitness of T cells is central to sustained effector function, memory formation, and responsiveness to immune checkpoint blockade. Tumor cells can act as pathogenic mitochondrial donors, transferring functional or dysfunctional mitochondria to neighboring T cells via tunneling nanotubes and extracellular vesicles. This process involves a mitophagy imbalance that leads to the homoplasmic replacement of endogenous mitochondria, thereby driving T-cell senescence, impairing memory formation and long-term antitumor function, and ultimately weakening cancer immunosurveillance. Overall, mitochondrial transfer should be considered a new part of the tumor immune evasion framework. It also provides new therapeutic opportunities for improving cancer immunotherapy.",
+    "year": 2026,
+    "authors": [
+      "Zhu Li",
+      "Togashi Yosuke"
+    ],
+    "journal": "International immunology",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/42212533/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42212533/",
+    "source": "pubmed",
+    "keyword": "trending",
+    "is_trending": true,
+    "ai_summary": "The tumor microenvironment (TME) is a complex landscape where metabolic interactions significantly dictate antitumor immunity. Immune evasion in cancer is typically discussed in terms of inhibitory re",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  }
+]
