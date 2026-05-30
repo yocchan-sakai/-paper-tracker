@@ -1,0 +1,150 @@
+[
+  {
+    "doi": "10.1177/0271678X251338971",
+    "pmid": "40367392",
+    "title": "Therapeutic and diagnostic potential of extracellular vesicle (EV)-mediated intercellular transfer of mitochondria and mitochondrial components.",
+    "abstract": "Extracellular vesicles (EVs) facilitate the transfer of biological materials between cells throughout the body. Mitochondria, membrane-bound organelles present in the cytoplasm of nearly all eukaryotic cells, are vital for energy production and cellular homeostasis. Recent studies highlight the critical role of the transport of diverse mitochondrial content, such as mitochondrial DNA (mt-DNA), mitochondrial RNA (mt-RNA), mitochondrial proteins (mt-Prots), and intact mitochondria by small EVs (<200 nm) and large EVs (>200 nm) to recipient cells, where these cargos contribute to cellular and mitochondrial homeostasis. The interplay between EVs and mitochondrial components has significant implications for health, metabolic regulation, and potential as biomarkers. Despite advancements, the mechanisms governing EV-mitochondria crosstalk and the regulatory effect of mitochondrial EVs remain poorly understood. This review explores the roles of EVs and their mitochondrial cargos in health and disease, examines potential mechanisms underlying their interactions, and emphasizes the therapeutic potential of EVs for neurological and systemic conditions associated with mitochondrial dysfunction.",
+    "year": 2026,
+    "authors": [
+      "Wang Mingjin",
+      "Wang Weida",
+      "Chopp Michael",
+      "Zhang Zheng Gang",
+      "Zhang Yi"
+    ],
+    "journal": "Journal of cerebral blood flow and metabolism : official journal of the International Society of Cerebral Blood Flow and Metabolism",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/40367392/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40367392/",
+    "source": "pubmed",
+    "keyword": "intercellular mitochondria transfer",
+    "group": "ミトコンドリア移植",
+    "ai_summary": "Extracellular vesicles (EVs) facilitate the transfer of biological materials between cells throughout the body. Mitochondria, membrane-bound organelles present in the cytoplasm of nearly all eukaryoti",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1177/03635465261424875",
+    "pmid": "41797314",
+    "title": "Blood Flow Restriction Therapy Stimulates Intercellular Mitochondria Transfer and Improves Muscle Regeneration and Shoulder Function in a Murine Rotator Cuff Injury Model.",
+    "abstract": "Rotator cuff (RC) tears are among the most common causes of shoulder dysfunction in sports medicine. Muscle atrophy and degeneration are important risk factors for RC tendon retearing and suboptimal recovery of shoulder function after tendon repair. Although blood flow restriction (BFR) can stimulate muscle regeneration after lower extremity trauma and anterior cruciate ligament reconstruction, the mechanisms that underlie BFR remain unknown, and its application to RC tears has not yet been explored.",
+    "year": 2026,
+    "authors": [
+      "Milan Nesa",
+      "Wague Aboubacar",
+      "Sang Luke",
+      "Youn Alex",
+      "Sadjadi Ryan",
+      "Samimi Yusef",
+      "Montenegro Cristhian",
+      "Lizarraga Miguel",
+      "Lau Justin",
+      "Basbaum Allan I",
+      "Davies Michael R",
+      "Kim Hubert T",
+      "Feeley Brian T",
+      "Weinrich Jarret A P",
+      "Liu Xuhui"
+    ],
+    "journal": "The American journal of sports medicine",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/41797314/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41797314/",
+    "source": "pubmed",
+    "keyword": "intercellular mitochondria transfer",
+    "group": "ミトコンドリア移植",
+    "ai_summary": "Rotator cuff (RC) tears are among the most common causes of shoulder dysfunction in sports medicine. Muscle atrophy and degeneration are important risk factors for RC tendon retearing and suboptimal r",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1111/rda.14213",
+    "pmid": "35871399",
+    "title": "Platelet-rich plasma in animal reproductive medicine: Prospective and applications.",
+    "abstract": "Platelet-rich plasma (PRP) is the fraction of the plasma enriched with a platelet level above baseline, and it plays an essential role in tissue regeneration. The attention to PRP as unconventional therapy has increased during the past two decades. In animals, applications of PRP showed various degrees of success in a wide range of medical applications, from musculoskeletal injuries to ovarian insufficiency. Therapeutic applications with PRP in farm animals are still scarce, but the promising results offered by several studies are expected to trigger more interest in its application by both veterinarians and farmers. In this review, we highlight some efforts made in the field of animal reproduction regarding the use of PRP to potentiate the ovarian hypofunction, treat endometritis, improve the follicular development, oocyte competence and uterine environment for embryo implantation as well as restore testicular and erectile function in male, and as a treatment for mastitis.",
+    "year": 2022,
+    "authors": [
+      "Borş Silviu-Ionuț",
+      "Ibănescu Iulian",
+      "Borş Alina",
+      "Abdoon Ahmed Sabry S"
+    ],
+    "journal": "Reproduction in domestic animals = Zuchthygiene",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/35871399/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/35871399/",
+    "source": "pubmed",
+    "keyword": "platelet-rich plasma",
+    "group": "PRP",
+    "ai_summary": "Platelet-rich plasma (PRP) is the fraction of the plasma enriched with a platelet level above baseline, and it plays an essential role in tissue regeneration. The attention to PRP as unconventional th",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1016/j.cvsm.2022.02.005",
+    "pmid": "35562219",
+    "title": "Platelet-Rich Plasma as an Orthobiologic: Clinically Relevant Considerations.",
+    "abstract": "Platelet-rich plasma (PRP) is an autologous blood-derived product processed to concentrate platelets and the associated growth factors. PRP has been shown to be relatively well-tolerated and safe to use for a number of conditions in humans, equines, and canines. There are multiple commercial systems that have been validated for canine use. These systems use a variety of methodologies to produce a PRP product. However, PRP products have been shown to differ greatly between systems. Further study is needed to fully elucidate optimal component concentrations for various indications.",
+    "year": 2022,
+    "authors": [
+      "Carr Brittany Jean"
+    ],
+    "journal": "The Veterinary clinics of North America. Small animal practice",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/35562219/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/35562219/",
+    "source": "pubmed",
+    "keyword": "platelet-rich plasma",
+    "group": "PRP",
+    "ai_summary": "Platelet-rich plasma (PRP) is an autologous blood-derived product processed to concentrate platelets and the associated growth factors. PRP has been shown to be relatively well-tolerated and safe to u",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1111/coa.70128",
+    "pmid": "42215853",
+    "title": "Efficacy of Platelet-Rich Plasma in Post-Tonsillectomy Wound Healing and Pain Management: A Randomized Controlled Study.",
+    "abstract": "Tonsillectomy is one of the most common surgical procedures in otolaryngology, but the healing process remains unknown in individual patients. Several interventions, including platelet-rich plasma, have been investigated to improve healing and pain control due to their regenerative properties.",
+    "year": 2026,
+    "authors": [
+      "Mahathanaruk Nilnetre",
+      "Jongkittipong Chattarin",
+      "Marpukdee Vipa Rath"
+    ],
+    "journal": "Clinical otolaryngology : official journal of ENT-UK ; official journal of Netherlands Society for Oto-Rhino-Laryngology & Cervico-Facial Surgery",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/42215853/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42215853/",
+    "source": "pubmed",
+    "keyword": "trending",
+    "is_trending": true,
+    "ai_summary": "Tonsillectomy is one of the most common surgical procedures in otolaryngology, but the healing process remains unknown in individual patients. Several interventions, including platelet-rich plasma, ha",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  }
+]
