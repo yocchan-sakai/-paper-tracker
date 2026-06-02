@@ -1,0 +1,157 @@
+[
+  {
+    "doi": "10.7150/ijbs.129709",
+    "pmid": "41943850",
+    "title": "Mitochondria transfer in tissue homeostasis and diseases.",
+    "abstract": "Mitochondria serve as the essential powerhouse for virtually all eukaryotic cells and have been implicated in other crucial functions in both physiological and disease contexts. As cytoplasmic organelles, mitochondria are segregated and transported from parent to daughter cells during division or differentiation, a process known as vertical mitochondria transfer (VMT). A growing body of literature indicates that various cell types can export mitochondria for delivery to developmentally unrelated cell types without division, a process termed horizontal mitochondria transfer (HMT). In this review, we summarize current understanding of the modes of mitochondria transfer and illustrate the phenomenon of HMT across different tissue backgrounds, including the immune, cardiovascular, respiratory, hepatic, renal, musculoskeletal, adipose, and reproductive systems. Moreover, updated applications and functions of mitochondria transfer are discussed. Additionally, we also highlight the therapeutic potential of mitochondria transfer in current preclinical and clinical trials for inherited mitochondrial diseases, cancer, wound healing, and injuries of the respiratory and central nervous systems.",
+    "year": 2026,
+    "authors": [
+      "Qin Lei",
+      "Gan Donghao",
+      "Chen Zecai",
+      "Xu Zhen",
+      "Wu Mingyue",
+      "Gao Bimin",
+      "Long Yufeng",
+      "Mou Xihong",
+      "Li Wenqing",
+      "Yi Weihong",
+      "Xiao Guozhi"
+    ],
+    "journal": "International journal of biological sciences",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/41943850/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41943850/",
+    "source": "pubmed",
+    "keyword": "intercellular mitochondria transfer",
+    "group": "ミトコンドリア移植",
+    "ai_summary": "Mitochondria serve as the essential powerhouse for virtually all eukaryotic cells and have been implicated in other crucial functions in both physiological and disease contexts. As cytoplasmic organel",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1016/j.arr.2025.102856",
+    "pmid": "40774649",
+    "title": "Strategies to rescue mitochondria in Parkinson's disease: The significance of mitochondrial transfer.",
+    "abstract": "Parkinson's disease (PD) is a common neurodegenerative disorder characterized by dopaminergic neuronal degeneration and pathological α-synuclein accumulation. Mitochondrial dysfunction is a central feature in PD pathogenesis, contributing to impaired bioenergetics, oxidative stress, neuroinflammation, and defective organelle communication. This review synthesizes the current understanding of mitochondrial quality control mechanisms, including fission, fusion, mitophagy, and biogenesis, and their disruption in PD. Particular emphasis is placed on the role of intercellular mitochondrial transfer as a compensatory mechanism. Emerging evidence suggests that mitochondria can be transferred between neurons and glial cells through tunneling nanotubes, extracellular vesicles, and gap junctions, offering protective effects by restoring metabolic function and attenuating cellular stress. We examine the molecular mediators of these transfer pathways, the influence of PD-associated mutations, and the bidirectional dynamics between donor and recipient cells. Additionally, we explore translational strategies, including mitochondrial transplantation, bioengineered mitochondria, and stem cell-based delivery systems. While preclinical models demonstrate promising therapeutic outcomes, clinical translation faces challenges, including targeting specificity, mitochondrial viability, and immune compatibility. By integrating mechanistic insights with therapeutic developments, this review highlights mitochondrial transfer as a novel and promising approach in the future treatment of PD, potentially addressing longstanding limitations in conventional neuroprotective strategies.",
+    "year": 2025,
+    "authors": [
+      "Liang Junhan",
+      "Su Zhaoqin",
+      "Su Gongmeiyue",
+      "Rasheed Madiha",
+      "Tang Shiyi",
+      "Sunniya Hafsa",
+      "Maazouzi Mohamed",
+      "Cui Yaoyuan",
+      "Wang Junxiao",
+      "Wang Xuezhe",
+      "Yang Jing",
+      "Ding Mingchao",
+      "Li Zhao",
+      "Deng Yulin"
+    ],
+    "journal": "Ageing research reviews",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/40774649/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40774649/",
+    "source": "pubmed",
+    "keyword": "mitochondrial transfer",
+    "group": "ミトコンドリア移植",
+    "ai_summary": "Parkinson's disease (PD) is a common neurodegenerative disorder characterized by dopaminergic neuronal degeneration and pathological α-synuclein accumulation. Mitochondrial dysfunction is a central fe",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1093/milmed/usae025",
+    "pmid": "38349194",
+    "title": "Platelet-Rich Plasma Injections for the Treatment of Degenerative Orthopedic Conditions.",
+    "abstract": "Platelet-rich plasma injections for the treatment of degenerative orthopedic conditions have good evidence for safety, pain relief, and functional improvement. The U.S. Military is providing platelet-rich plasma services for military services members and TRICARE beneficiaries. The use of this safe and effective treatment should be continued and expanded.",
+    "year": 2024,
+    "authors": [
+      "Means Gary E",
+      "Muench Peter"
+    ],
+    "journal": "Military medicine",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/38349194/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/38349194/",
+    "source": "pubmed",
+    "keyword": "platelet-rich plasma",
+    "group": "PRP",
+    "ai_summary": "Platelet-rich plasma injections for the treatment of degenerative orthopedic conditions have good evidence for safety, pain relief, and functional improvement. The U.S. Military is providing platelet-",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "",
+    "pmid": "35051139",
+    "title": "Autologous Platelet-Rich Plasma Applications in Chronic Pain Medicine: Establishing a Framework for Future Research - A Narrative Review.",
+    "abstract": "During the last decades, platelet-rich plasma has been studied for the treatment of multiple chronic pain conditions, in addition to being employed in the enhancement of healing after tissue injury.",
+    "year": 2022,
+    "authors": [
+      "Ferreira-Dos-Santos Guilherme",
+      "Hurdle Mark Friedrich B",
+      "Clendenen Steven R",
+      "Eldrige Jason S",
+      "Qu Wenchun"
+    ],
+    "journal": "Pain physician",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/35051139/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/35051139/",
+    "source": "pubmed",
+    "keyword": "platelet-rich plasma",
+    "group": "PRP",
+    "ai_summary": "During the last decades, platelet-rich plasma has been studied for the treatment of multiple chronic pain conditions, in addition to being employed in the enhancement of healing after tissue injury.",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1007/s00266-026-05946-5",
+    "pmid": "42228070",
+    "title": "The Efficacy and Safety of Platelet-Rich Plasma in the Treatment of Melasma: A Systematic Review and Meta-analysis.",
+    "abstract": "Platelet-rich plasma (PRP) therapy has emerged as a potential treatment for melasma, though its efficacy remains incompletely evaluated. This systematic review and meta-analysis assessed the clinical efficacy, patient satisfaction, and safety of PRP for melasma compared to alternative treatments.",
+    "year": 2026,
+    "authors": [
+      "Ma Chen",
+      "Wang Qixuan",
+      "Zhang Ling"
+    ],
+    "journal": "Aesthetic plastic surgery",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/42228070/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42228070/",
+    "source": "pubmed",
+    "keyword": "trending",
+    "is_trending": true,
+    "ai_summary": "Platelet-rich plasma (PRP) therapy has emerged as a potential treatment for melasma, though its efficacy remains incompletely evaluated. This systematic review and meta-analysis assessed the clinical ",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  }
+]
