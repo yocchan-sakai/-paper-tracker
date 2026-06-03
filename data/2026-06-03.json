@@ -1,0 +1,152 @@
+[
+  {
+    "doi": "10.1016/j.biomaterials.2026.123989",
+    "pmid": "41539186",
+    "title": "Iron oxide nanoparticles-driven mitochondrial renewal rejuvenates the aged bone marrow niche.",
+    "abstract": "With the aging population, treating age-related osteoporosis remains challenging due to the dysfunctional bone marrow microenvironment characterized by chronic inflammation, metabolic dysregulation, and impaired mitochondrial function in senescent cells. While mitochondrial transfer from macrophages to bone marrow mesenchymal stem cells (BMSCs) offers a promising therapeutic avenue, its efficacy is limited in aged niches where donor mitochondria exhibit functional deficits and poor recipient compatibility. We engineered KGM-PEG-SPIONs, functionalized Fe3O4 nanoparticles that enhance donor mitochondrial quality via autophagy activation and Fe-S cluster biogenesis, promote M2 macrophage polarization, and improve compatibility with the oxidative and inflammatory environment of senescent BMSCs. These M2-like mitochondria are transferred through connexin 43 gap junctions, restoring membrane potential, ATP production, calcium homeostasis, and osteogenic differentiation in recipient cells. In aged osteoporotic models, KGM-PEG-SPION-functionalized scaffolds remodel immune niches and promote bone formation. By integrating organelle quality control with environment-adapted mitochondrial transfer, this strategy surpasses approaches focusing solely on transfer quantity or polarization, establishing a programmable nanoplatform for organelle-based regeneration.",
+    "year": 2026,
+    "authors": [
+      "Sun Xiaoqing",
+      "Wang Xingyou",
+      "Zhang Meihua",
+      "Liu Shuyao",
+      "Zhu Yue",
+      "He Jing",
+      "Wu Yao"
+    ],
+    "journal": "Biomaterials",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/41539186/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41539186/",
+    "source": "pubmed",
+    "keyword": "mitochondrial transfer",
+    "group": "ミトコンドリア移植",
+    "ai_summary": "With the aging population, treating age-related osteoporosis remains challenging due to the dysfunctional bone marrow microenvironment characterized by chronic inflammation, metabolic dysregulation, a",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.3390/molecules23030687",
+    "pmid": "29562677",
+    "title": "Miro1 Enhances Mitochondria Transfer from Multipotent Mesenchymal Stem Cells (MMSC) to Neural Cells and Improves the Efficacy of Cell Recovery",
+    "abstract": "",
+    "year": 2018,
+    "authors": [
+      "V. Babenko",
+      "D. Silachev",
+      "V. Popkov",
+      "L. Zorova",
+      "I. Pevzner",
+      "E. Plotnikov",
+      "G. Sukhikh",
+      "D. Zorov"
+    ],
+    "journal": "Molecules",
+    "citation_count": 193,
+    "open_access_url": "https://www.mdpi.com/1420-3049/23/3/687/pdf?version=1525344388",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/29562677/",
+    "semantic_url": "https://www.semanticscholar.org/paper/6cdd7d34a578bbe216b06dfe4c982d97e40cf8a8",
+    "source": "semantic_scholar",
+    "keyword": "intercellular mitochondria transfer",
+    "group": "ミトコンドリア移植",
+    "ai_summary": "",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1111/jocd.14760",
+    "pmid": "35049123",
+    "title": "Meta-analysis of platelet-rich plasma therapy for anal fistula.",
+    "abstract": "To systematically evaluate the efficacy of platelet-rich plasma (PRP) in treating anal fistula.",
+    "year": 2022,
+    "authors": [
+      "Luo Qinghua",
+      "Zhou Ping",
+      "Chang Shuangqing"
+    ],
+    "journal": "Journal of cosmetic dermatology",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/35049123/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/35049123/",
+    "source": "pubmed",
+    "keyword": "platelet-rich plasma",
+    "group": "PRP",
+    "ai_summary": "To systematically evaluate the efficacy of platelet-rich plasma (PRP) in treating anal fistula.",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.2217/rme-2022-0118",
+    "pmid": "36169230",
+    "title": "Platelet-rich plasma: are the obtaining methods, classification and clinical outcome always connected?",
+    "abstract": "",
+    "year": 2022,
+    "authors": [
+      "Anitua Eduardo",
+      "Padilla Sabino",
+      "Prado Roberto",
+      "Alkhraisat Mohammad H"
+    ],
+    "journal": "Regenerative medicine",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/36169230/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/36169230/",
+    "source": "pubmed",
+    "keyword": "platelet-rich plasma",
+    "group": "PRP",
+    "ai_summary": "",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1177/03635465261440395",
+    "pmid": "42233488",
+    "title": "Fibrin-Based Scaffold Augmentation During Meniscal Repair May Enhance Healing and Functional Outcomes: A Systematic Review.",
+    "abstract": "Biologic augmentation techniques, such as fibrin-based scaffolds, have been proposed to enhance healing of meniscal tears, particularly in avascular zones. However, clinical outcomes remain variably reported.",
+    "year": 2026,
+    "authors": [
+      "Skaik Khaled",
+      "Kahlon Harjind",
+      "Bouchard Marc Daniel",
+      "Vivekanantha Prushoth",
+      "Belzile Etienne L",
+      "Matache Bogdan A",
+      "Abouali Jihad"
+    ],
+    "journal": "The American journal of sports medicine",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/42233488/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42233488/",
+    "source": "pubmed",
+    "keyword": "trending",
+    "is_trending": true,
+    "ai_summary": "Biologic augmentation techniques, such as fibrin-based scaffolds, have been proposed to enhance healing of meniscal tears, particularly in avascular zones. However, clinical outcomes remain variably r",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  }
+]
