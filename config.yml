@@ -11,7 +11,8 @@ keyword_groups:
       - "platelet-rich plasma"
     top_n: 2
 
-report_hour: 6        # 毎朝何時に実行するか（JST = UTC+9）
+report_hour: 6        # 何時に実行するか（JST = UTC+9）
+report_interval_days: 3  # 何日に1回実行するか
 max_results: 100      # 各キーワードで取得する最大件数
 reported_expiry_days: 90  # 報告済み論文の有効期限（日）。経過後は再候補に
 
