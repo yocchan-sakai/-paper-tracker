@@ -1,0 +1,154 @@
+[
+  {
+    "doi": "10.1016/j.jpha.2024.101141",
+    "pmid": "40115812",
+    "title": "The role of mitochondria transfer in cancer biological behavior, the immune system and therapeutic resistance.",
+    "abstract": "Mitochondria play a crucial role as organelles, managing several physiological processes such as redox balance, cell metabolism, and energy synthesis. Initially, the assumption was that mitochondria primarily resided in the host cells and could exclusively transmit from oocytes to offspring by a mechanism known as vertical inheritance of mitochondria. Recent scholarly works, however, suggest that certain cell types transmit their mitochondria to other developmental cell types via a mechanism referred to as intercellular or horizontal mitochondrial transfer. This review details the process of which mitochondria are transferred across cells and explains the impact of mitochondrial transfer between cells on the efficacy and functionality of cancer cells in various cancer forms. Specifically, we review the role of mitochondria transfer in regulating cellular metabolism restoration, excess reactive oxygen species (ROS) generation, proliferation, invasion, metastasis, mitophagy activation, mitochondrial DNA (mtDNA) inheritance, immune system modulation and therapeutic resistance in cancer. Additionally, we highlight the possibility of using intercellular mitochondria transfer as a therapeutic approach to treat cancer and enhance the efficacy of cancer treatments.",
+    "year": 2025,
+    "authors": [
+      "Lyu Xintong",
+      "Yu Yangyang",
+      "Jiang Yuanjun",
+      "Li Zhiyuan",
+      "Qiao Qiao"
+    ],
+    "journal": "Journal of pharmaceutical analysis",
+    "citation_count": 13,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/40115812/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40115812/",
+    "source": "pubmed",
+    "keyword": "intercellular mitochondria transfer",
+    "group": "ミトコンドリア移植",
+    "semantic_url": "https://www.semanticscholar.org/paper/b08821315962bf77055e67a6125a0dfeeafdb6d4",
+    "ai_summary": "Mitochondria play a crucial role as organelles, managing several physiological processes such as redox balance, cell metabolism, and energy synthesis. Initially, the assumption was that mitochondria p",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1186/s13287-020-01704-9",
+    "pmid": "32586355",
+    "title": "Mitochondria transfer enhances proliferation, migration, and osteogenic differentiation of bone marrow mesenchymal stem cell and promotes bone defect healing.",
+    "abstract": "Bone marrow-derived mesenchymal stem cell (BMSC) transplantation is considered a promising therapeutic approach for bone defect repair. However, during the transplantation procedure, the functions and viability of BMSCs may be impaired due to extended durations of in vitro culture, aging, and disease conditions of patients. Inspired by spontaneous intercellular mitochondria transfer that naturally occurs within injured tissues to rescue cellular or tissue function, we investigated whether artificial mitochondria transfer into pre-transplant BMSCs in vitro could improve cellular function and enhance their therapeutic effects on bone defect repair in situ.",
+    "year": 2020,
+    "authors": [
+      "Guo Yusi",
+      "Chi Xiaopei",
+      "Wang Yifan",
+      "Heng Boon Chin",
+      "Wei Yan",
+      "Zhang Xuehui",
+      "Zhao Han",
+      "Yin Ying",
+      "Deng Xuliang"
+    ],
+    "journal": "Stem cell research & therapy",
+    "citation_count": 136,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/32586355/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/32586355/",
+    "source": "pubmed",
+    "keyword": "intercellular mitochondria transfer",
+    "group": "ミトコンドリア移植",
+    "semantic_url": "https://www.semanticscholar.org/paper/ea972f4add9dcc76c07c598e1c6b794131c42ef7",
+    "ai_summary": "Bone marrow-derived mesenchymal stem cell (BMSC) transplantation is considered a promising therapeutic approach for bone defect repair. However, during the transplantation procedure, the functions and",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.2217/rme-2022-0063",
+    "pmid": "35703033",
+    "title": "Photoactivated platelet-rich plasma: is it the future of platelet-rich plasma?",
+    "abstract": "",
+    "year": 2022,
+    "authors": [
+      "Jeyaraman Madhan",
+      "Muthu Sathish",
+      "Jeyaraman Naveen",
+      "Gupta Ashim"
+    ],
+    "journal": "Regenerative medicine",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/35703033/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/35703033/",
+    "source": "pubmed",
+    "keyword": "platelet-rich plasma",
+    "group": "PRP",
+    "ai_summary": "",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1111/jocd.15050",
+    "pmid": "35524443",
+    "title": "Efficacy of autologous platelet-rich plasma in the treatment of vitiligo: A 10-patient prospective study.",
+    "abstract": "Vitiligo is an autoimmune disorder characterized by loss of epidermal melanocytes. It has cosmetic and psychosocial impact. The objective of this paper is to evaluate the interest of platelet-rich-plasma in the treatment of vitiligo.",
+    "year": 2022,
+    "authors": [
+      "Rekik Mariem",
+      "Mseddi Madiha",
+      "Kammoun Nadine",
+      "Sellami Khadija",
+      "Turki Hamida"
+    ],
+    "journal": "Journal of cosmetic dermatology",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/35524443/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/35524443/",
+    "source": "pubmed",
+    "keyword": "platelet-rich plasma",
+    "group": "PRP",
+    "ai_summary": "Vitiligo is an autoimmune disorder characterized by loss of epidermal melanocytes. It has cosmetic and psychosocial impact. The objective of this paper is to evaluate the interest of platelet-rich-pla",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1161/CIRCRESAHA.125.328003",
+    "pmid": "42233210",
+    "title": "Astrocytic Mitochondrial Transfer Stabilizes Endothelial Barrier in BAVM.",
+    "abstract": "",
+    "year": 2026,
+    "authors": [
+      "Tu Tianqi",
+      "Ye Jiasen",
+      "Peng Zhenghong",
+      "Zhou Jian",
+      "Peng Jianhua",
+      "Jiang Yong",
+      "Li Tao"
+    ],
+    "journal": "Circulation research",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/42233210/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42233210/",
+    "source": "pubmed",
+    "keyword": "trending",
+    "is_trending": true,
+    "ai_summary": "",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  }
+]
