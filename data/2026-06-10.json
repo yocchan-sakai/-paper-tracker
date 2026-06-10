@@ -1,0 +1,166 @@
+[
+  {
+    "doi": "10.1038/s41556-026-01896-x",
+    "pmid": "41760931",
+    "title": "An extracellular vesicle-mediated mitochondrial transfer network critical for testosterone synthesis.",
+    "abstract": "Testosterone production by testicular Leydig cells (LCs) in male mammals is energetically demanding and prone to mitochondrial damage. Despite these challenges, LCs exhibit remarkable longevity and minimal turnover, suggesting the existence of specialized mechanisms that maintain LC mitochondrial homeostasis under such constrains. Here we identify a mitochondrial transfer network between LCs and different testicular macrophage (tMac) subpopulations. Leydig cells release extracellular vesicles containing defective mitochondria, which are eliminated by CD206hi tMacs in a TREM2-dependent process. Deletion of Trem2 in tMacs disrupts this transfer, leading to impaired testosterone synthesis. Conversely, LCs acquire extracellular vesicles containing functional mitochondria from MHCIIhi tMacs through ITGβ1-VCAM1 interactions. Loss of Vcam1 in LCs hinders this mitochondrial transfer, thereby compromising testosterone production. Together, our findings reveal an unrecognized mitochondrial transfer network between LCs and tMacs that safeguards LC homeostasis and testosterone production, offering valuable insights into intercellular communication mechanisms that maintain tissue homeostasis.",
+    "year": 2026,
+    "authors": [
+      "Xia Kai",
+      "Zhang Suyuan",
+      "Peng Hao",
+      "Chen Hainan",
+      "Yang Cuifeng",
+      "Yu Jiajie",
+      "Luo Peng",
+      "Lu Qiying",
+      "Chen Hong",
+      "Huang Li",
+      "Xiong Yifei",
+      "Zhao Lerong",
+      "Jia Lei",
+      "Li Lu",
+      "Qiu Yuan",
+      "Guo Yan",
+      "Liu Congyuan",
+      "Fan Hang",
+      "Dai Ziran",
+      "Liu Guihua",
+      "Ke Qiong",
+      "Wang Tao",
+      "Li Weiqiang",
+      "Chen Lili",
+      "Deng Chunhua",
+      "Xiao Haipeng",
+      "Xiang Andy Peng"
+    ],
+    "journal": "Nature cell biology",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/41760931/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41760931/",
+    "source": "pubmed",
+    "keyword": "intercellular mitochondria transfer",
+    "group": "ミトコンドリア移植",
+    "ai_summary": "Testosterone production by testicular Leydig cells (LCs) in male mammals is energetically demanding and prone to mitochondrial damage. Despite these challenges, LCs exhibit remarkable longevity and mi",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1007/s00018-022-04207-3",
+    "pmid": "35247083",
+    "title": "Mesenchymal stem cell-mediated transfer of mitochondria: mechanisms and functional impact.",
+    "abstract": "There is a steadily growing interest in the use of mitochondria as therapeutic agents. The use of mitochondria derived from mesenchymal stem/stromal cells (MSCs) for therapeutic purposes represents an innovative approach to treat many diseases (immune deregulation, inflammation-related disorders, wound healing, ischemic events, and aging) with an increasing amount of promising evidence, ranging from preclinical to clinical research. Furthermore, the eventual reversal, induced by the intercellular mitochondrial transfer, of the metabolic and pro-inflammatory profile, opens new avenues to the understanding of diseases' etiology, their relation to both systemic and local risk factors, and also leads to new therapeutic tools for the control of inflammatory and degenerative diseases. To this end, we illustrate in this review, the triggers and mechanisms behind the transfer of mitochondria employed by MSCs and the underlying benefits as well as the possible adverse effects of MSCs mitochondrial exchange. We relay the rationale and opportunities for the use of these organelles in the clinic as cell-based product.",
+    "year": 2022,
+    "authors": [
+      "Velarde Francesca",
+      "Ezquerra Sarah",
+      "Delbruyere Xavier",
+      "Caicedo Andres",
+      "Hidalgo Yessia",
+      "Khoury Maroun"
+    ],
+    "journal": "Cellular and molecular life sciences : CMLS",
+    "citation_count": 85,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/35247083/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/35247083/",
+    "source": "pubmed",
+    "keyword": "mitochondria transplantation",
+    "group": "ミトコンドリア移植",
+    "semantic_url": "https://www.semanticscholar.org/paper/0cd6447e13eb011c8cd186fc9ea901d4b50f1b7b",
+    "ai_summary": "There is a steadily growing interest in the use of mitochondria as therapeutic agents. The use of mitochondria derived from mesenchymal stem/stromal cells (MSCs) for therapeutic purposes represents an",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1080/17474086.2021.1860002",
+    "pmid": "33275468",
+    "title": "Evidence-based indications of platelet-rich plasma therapy.",
+    "abstract": "Introduction: Platelet-rich plasma (PRP) is an autologous blood-derived product that contains platelet concentrations at least 2/3 times above the normal level and includes platelet-related growth factors. The concept of PRP began in the 1970s in the field of hematology to treat patients with thrombocytopenia. In the 1980s and 1990s, PRP began to be used in surgical procedures such as maxillofacial surgery and plastic surgery. Since then, PRP had been used in orthopedic procedures, cardiac surgery, sports injuries, plastic surgery, gynecology, urology, and more recently in medical esthetics. Areas covered: This review analyzes the mechanisms of action, current indications, clinical evidence, safety and future directions of PRP in the management of various medical conditions. The literature search methodology included using medical subject headings terms to search in PubMed. Articles used were screened and critically appraised by the coauthors of this review. Expert Opinion: Platelet-rich plasma is a therapeutic option used to treat many medical conditions. PRP could be used alone or in combination with other procedures. The effectiveness and safety of PRP has been demonstrated in many medical scenarios, however there is limited availability of large randomized clinical trials.",
+    "year": 2021,
+    "authors": [
+      "Gupta Shyla",
+      "Paliczak Anna",
+      "Delgado Diego"
+    ],
+    "journal": "Expert review of hematology",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/33275468/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/33275468/",
+    "source": "pubmed",
+    "keyword": "platelet-rich plasma",
+    "group": "PRP",
+    "ai_summary": "Introduction: Platelet-rich plasma (PRP) is an autologous blood-derived product that contains platelet concentrations at least 2/3 times above the normal level and includes platelet-related growth fac",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1097/DSS.0000000000002357",
+    "pmid": "32141932",
+    "title": "Platelet-Rich Plasma: Cure-All at What Cost?",
+    "abstract": "",
+    "year": 2021,
+    "authors": [
+      "Cartron Alexander M",
+      "Shaikh Gibran"
+    ],
+    "journal": "Dermatologic surgery : official publication for American Society for Dermatologic Surgery [et al.]",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/32141932/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/32141932/",
+    "source": "pubmed",
+    "keyword": "platelet-rich plasma",
+    "group": "PRP",
+    "ai_summary": "",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1093/burnst/tkag018",
+    "pmid": "42267173",
+    "title": "Mitochondrion-targeted therapies for diabetic wound healing: from mechanism to therapeutic opportunity.",
+    "abstract": "Diabetic wounds are a major clinical challenge. They are driven by persistent hyperglycemia and chronic inflammation that synergistically disrupt mitochondrial homeostasis, manifesting as impaired bioenergetics, excessive reactive oxygen species (ROS) accumulation, and dysregulated mitochondrial quality control. Mitochondrial dysfunction critically undermines cellular proliferation, angiogenesis, and immunomodulation, which are essential for effective tissue repair. Intercellular mitochondrial transfer, mediated through tunneling nanotubes (TNTs), extracellular vesicles (EVs), gap junctions (GJs), and cell fusion, has recently emerged as a biologically compelling endogenous rescue mechanism capable of restoring bioenergetic capacity and redox homeostasis in metabolically compromised recipient cells. In this review, we systematically examine the mechanistic basis of mitochondrial dysfunction in the diabetic wound microenvironment, critically evaluate the therapeutic potential of intercellular mitochondrial transfer, and propose an integrated mechanism-to-translational framework coupling transfer-based strategies with bioresponsive and mitochondrion-targeted biomaterials tailored to the pathological wound milieu. Furthermore, we identify key translational barriers-including insufficient protocol standardization, the absence of robust characterization criteria, and a lack of quantitative benchmarks for transfer efficacy-that must be addressed to advance these strategies toward clinical application, thereby offering a conceptual foundation and translational roadmap for mitochondrion-centered regenerative approaches in diabetic wound care.",
+    "year": 2026,
+    "authors": [
+      "Wu Qipeng",
+      "Xiao Fei",
+      "Wang Han",
+      "Xiong Yuan",
+      "Mi Bobin"
+    ],
+    "journal": "Burns & trauma",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/42267173/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42267173/",
+    "source": "pubmed",
+    "keyword": "trending",
+    "is_trending": true,
+    "ai_summary": "Diabetic wounds are a major clinical challenge. They are driven by persistent hyperglycemia and chronic inflammation that synergistically disrupt mitochondrial homeostasis, manifesting as impaired bio",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  }
+]
