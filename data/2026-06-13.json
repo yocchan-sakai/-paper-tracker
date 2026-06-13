@@ -1,0 +1,155 @@
+[
+  {
+    "doi": "10.1016/j.redox.2026.104236",
+    "pmid": "42208262",
+    "title": "Redox control at the ER-mitochondria interface in kidney transplantation: MAM-centered stress signaling and translational organoid platforms.",
+    "abstract": "Kidney transplantation is inevitably accompanied by ischemia-reperfusion injury in which oxidative stress and endoplasmic reticulum (ER) stress act as tightly interconnected drivers of mitochondrial dysfunction, inflammation, and long-term graft failure. Excessive reactive oxygen species disrupt mitochondrial homeostasis, while unresolved ER stress activates maladaptive unfolded protein response signaling, together shaping tubular cell fate. Although these processes have been extensively studied, their spatial and functional integration remains incompletely understood. Growing evidence indicates that oxidative stress and ER stress converge at mitochondria-associated membranes (MAMs), where calcium signaling, redox regulation, and stress-adaptive networks are integrated. However, the dynamic and context-dependent nature of MAM remodeling remains poorly defined and difficult to investigate using conventional experimental systems. In this review, we propose a MAM-centered framework that integrates cellular stress responses, with a particular focus on ischemia-reperfusion in kidney transplantation. We further highlight therapeutic strategies targeting MAM-associated pathways, including mitochondria-directed antioxidants, ER oxidoreductases and structural and signaling proteins of MAM. In parallel, we summarize emerging kidney organoid platforms as human-relevant translational systems for modeling MAM dynamics under controlled conditions. By integrating mechanistic insights with organoid-based investigations, this review bridges a critical gap between molecular understanding and translational application, and offers a conceptual framework for MAM-targeted strategies aimed at improving graft resilience and long-term transplant outcomes.",
+    "year": 2026,
+    "authors": [
+      "Kuang Baicheng",
+      "Han Lin",
+      "Tan Sopheaktra",
+      "Tan Sokun",
+      "Bou Sopheap",
+      "Zhao Yuanyuan",
+      "Li Yan",
+      "Yu Jiasheng",
+      "Gong Nianqiao"
+    ],
+    "journal": "Redox biology",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/42208262/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42208262/",
+    "source": "pubmed",
+    "keyword": "mitochondria transplantation",
+    "group": "ミトコンドリア移植",
+    "ai_summary": "Kidney transplantation is inevitably accompanied by ischemia-reperfusion injury in which oxidative stress and endoplasmic reticulum (ER) stress act as tightly interconnected drivers of mitochondrial d",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1002/jcp.70086",
+    "pmid": "40838510",
+    "title": "Connexin 43 Role in Mitochondrial Transfer and Homeostasis in the Central Nervous System.",
+    "abstract": "Connexin 43 (Cx43) is a transmembrane protein involved in the assembly of gap junctions (GJs) and hemichannels (HCs), organized structures that allow the transferring of ions and small signaling molecules between cells and/or extracellular environment, thereby contributing to tissue homeostasis intercellular communication. Cx43 has recently been identified within the mitochondria of cells, suggesting that it may have additional functions beyond its canonical role. Most studies of mitochondrial Cx43 (mt-Cx43) have been limited to cells of the cardiovascular system, where it appears to play a role in ATP production, calcium homeostasis, and the response to oxidative stress. However, its functions within the central nervous system (CNS) are not fully understood. Recently, it has been observed that Cx43-forming GJs is one of the key mechanisms that cells use for the transfer of organelles, including mitochondria. Cx43-mediated mitochondrial transfer is crucial in the CNS, supporting cellular homeostasis and neuroprotection under both physiological and pathological conditions. The dual roles of Cx43 in regulating mitochondrial function and in mediating mitochondrial transfer, raise important questions about how it coordinates these mechanisms. Herein, we reviewed recent findings on the importance of Cx43 and mt-Cx43 in the healthy and altered CNS environment, with the aim of shedding light on its potential role in CNS homeostasis and as a therapeutic target in neurological disorder in which Cx43 plays a predominant function.",
+    "year": 2025,
+    "authors": [
+      "Gervasi Anna",
+      "D'Aprile Simona",
+      "Denaro Simona",
+      "Amorini Maria Angela",
+      "Vicario Nunzio",
+      "Parenti Rosalba"
+    ],
+    "journal": "Journal of cellular physiology",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/40838510/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40838510/",
+    "source": "pubmed",
+    "keyword": "mitochondrial transfer",
+    "group": "ミトコンドリア移植",
+    "ai_summary": "Connexin 43 (Cx43) is a transmembrane protein involved in the assembly of gap junctions (GJs) and hemichannels (HCs), organized structures that allow the transferring of ions and small signaling molec",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.3390/jfb9010010",
+    "pmid": "29346333",
+    "title": "Platelet Rich Plasma: New Insights for Cutaneous Wound Healing Management",
+    "abstract": "",
+    "year": 2018,
+    "authors": [
+      "D. Chicharro-Alcántara",
+      "M. Rubio-Zaragoza",
+      "E. Damiá-Giménez",
+      "J. Carrillo-Poveda",
+      "B. Cuervo-Serrato",
+      "P. Peláez-Gorrea",
+      "J. Sopena-Juncosa"
+    ],
+    "journal": "Journal of Functional Biomaterials",
+    "citation_count": 269,
+    "open_access_url": "https://www.mdpi.com/2079-4983/9/1/10/pdf?version=1516625362",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/29346333/",
+    "semantic_url": "https://www.semanticscholar.org/paper/0a3ec7029bfc44c7cd4c7eded6d09ba425e3dd2e",
+    "source": "semantic_scholar",
+    "keyword": "platelet-rich plasma",
+    "group": "PRP",
+    "ai_summary": "",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1302/2058-5241.6.200017",
+    "pmid": "34040800",
+    "title": "Platelet-rich plasma: a narrative review",
+    "abstract": "",
+    "year": 2021,
+    "authors": [
+      "T. Collins",
+      "Dinesh P. Alexander",
+      "B. Barkatali"
+    ],
+    "journal": "EFORT Open Reviews",
+    "citation_count": 180,
+    "open_access_url": "https://eor.bioscientifica.com/downloadpdf/journals/eor/6/4/2058-5241.6.200017.pdf",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/34040800/",
+    "semantic_url": "https://www.semanticscholar.org/paper/7a7119fc52fcbe27df48a42b9908ef5812befd55",
+    "source": "semantic_scholar",
+    "keyword": "platelet-rich plasma",
+    "group": "PRP",
+    "ai_summary": "",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1155/prm/6521682",
+    "pmid": "42287090",
+    "title": "Comparison of Clinical Efficiency and Safety Between Intra-Articular Injection of Platelet-Rich Plasma and Hyaluronic Acid for Hip Osteoarthritis: A Systematic Review and Meta-Analysis.",
+    "abstract": "The aim of this study is to compare the clinical efficacy and safety of platelet-rich plasma (PRP) and hyaluronic acid in the treatment of hip osteoarthritis.",
+    "year": 2026,
+    "authors": [
+      "Zhang Di",
+      "Ma Shen Hong",
+      "Wang He Ling",
+      "Han Qiao Hua",
+      "Shen Kai",
+      "Zhuang Weisheng"
+    ],
+    "journal": "Pain research & management",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/42287090/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42287090/",
+    "source": "pubmed",
+    "keyword": "trending",
+    "is_trending": true,
+    "ai_summary": "The aim of this study is to compare the clinical efficacy and safety of platelet-rich plasma (PRP) and hyaluronic acid in the treatment of hip osteoarthritis.",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  }
+]
