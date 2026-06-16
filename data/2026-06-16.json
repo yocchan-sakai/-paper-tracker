@@ -1,0 +1,153 @@
+[
+  {
+    "doi": "10.1073/pnas.2505237122",
+    "pmid": "41134634",
+    "title": "Nanomaterial-induced mitochondrial biogenesis enhances intercellular mitochondrial transfer efficiency.",
+    "abstract": "Intercellular mitochondrial transfer, the spontaneous exchange of mitochondria between cells, is a recently described phenomenon crucial for cellular repair, regeneration, and disease management. Enhancing this natural process holds promise for developing novel therapies targeting diseases associated with mitochondrial dysfunction. Here, we introduce a nanomaterial-based approach employing molybdenum disulfide (MoS2) nanoflowers with atomic-scale vacancies to stimulate mitochondrial biogenesis in cells to make them mitochondrial biofactories. Upon cellular uptake, these nanoflowers result in a two-fold increase in mitochondrial mass and enhancing mitochondrial transfer to recipient cells by several-fold. This enhanced efficiency of transfer significantly improves mitochondrial respiratory capacity and adenosine triphosphate production in recipient cells under physiological conditions. In cellular models of mitochondrial and cellular damage, MoS2 enhanced mitochondrial transfer achieved remarkable restoration of cell function. This proof-of-concept study demonstrates that nanomaterial-boosted intercellular mitochondrial transfer can enhance cell survivability and function under diseased conditions, offering a promising strategy for treating mitochondrial dysfunction-related diseases.",
+    "year": 2025,
+    "authors": [
+      "Soukar John",
+      "Singh Kanwar Abhay",
+      "Aviles Ari",
+      "Hargett Sarah",
+      "Kaur Harman",
+      "Foster Samantha",
+      "Roy Shounak",
+      "Zhao Feng",
+      "Gohil Vishal M",
+      "Singh Irtisha",
+      "Gaharwar Akhilesh K"
+    ],
+    "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+    "citation_count": 8,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/41134634/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41134634/",
+    "source": "pubmed",
+    "keyword": "intercellular mitochondria transfer",
+    "group": "ミトコンドリア移植",
+    "semantic_url": "https://www.semanticscholar.org/paper/4bb79be519bd578c62fdaadcbf2d7c00a3494787",
+    "ai_summary": "Intercellular mitochondrial transfer, the spontaneous exchange of mitochondria between cells, is a recently described phenomenon crucial for cellular repair, regeneration, and disease management. Enha",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1111/febs.70002",
+    "pmid": "39934946",
+    "title": "Intercellular mitochondrial transfer contributes to microenvironmental redirection of cancer cell fate.",
+    "abstract": "The mammary microenvironment has been shown to suppress tumor progression by redirecting cancer cells to adopt a normal mammary epithelial progenitor fate in vivo. However, the mechanism(s) by which this alteration occurs has yet to be defined. Here, we test the hypothesis that mitochondrial transfer from normal mammary epithelial cells to breast cancer cells plays a role in this redirection process. We evaluate mitochondrial transfer in 2D and 3D organoids using our unique 3D bioprinting system to produce chimeric organoids containing normal and cancer cells. We demonstrate that breast cancer tumoroid growth is hindered following interaction with mammary epithelial cells in both 2D and 3D environments. Furthermore, we show mitochondrial transfer occurs between donor mammary epithelial cells and recipient cancer cells primarily through tunneling nanotubes (TNTs) with minimal amounts seen from extracellular transfer of mitochondria, likely via extracellular vesicles (EVs). This organelle exchange results in various cellular and metabolic alterations within cancer cells, reducing their proliferative potential, and making them susceptible to microenvironmental control. Our results demonstrate that mitochondrial transfer contributes to microenvironmental redirection of cancer cells through alteration of metabolic and molecular functions of the recipient cancer cells. To the best of our knowledge, this is the first description of a 3D bioprinter-assisted organoid system for studying mitochondrial transfer. These studies are also the first mechanistic insights into the process of mammary microenvironmental redirection of cancer and provide a framework for new therapeutic strategies to control cancer.",
+    "year": 2025,
+    "authors": [
+      "Bjerring Julie Sofie",
+      "Khodour Yara",
+      "Peterson Emilee Anne",
+      "Sachs Patrick Christian",
+      "Bruno Robert David"
+    ],
+    "journal": "The FEBS journal",
+    "citation_count": 8,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/39934946/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39934946/",
+    "source": "pubmed",
+    "keyword": "intercellular mitochondria transfer",
+    "group": "ミトコンドリア移植",
+    "semantic_url": "https://www.semanticscholar.org/paper/d74a99d567922b268e37075173798f1b540e4d47",
+    "ai_summary": "The mammary microenvironment has been shown to suppress tumor progression by redirecting cancer cells to adopt a normal mammary epithelial progenitor fate in vivo. However, the mechanism(s) by which t",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1080/09537104.2020.1869717",
+    "pmid": "33400591",
+    "title": "Platelet Rich Plasma in Orthopedic Surgical Medicine.",
+    "abstract": "There is a global interest in optimizing post-surgical tissue repair strategies, leading to better patient outcomes and fewer complications, most ideally with reduced overall cost. In this regard, in recent years, the interest in autologous biological treatments in orthopedic surgery and sports medicine has increased greatly, and the addition of platelet-rich plasma (PRP) to the surgical armamentarium is of particular note. Unfortunately, the number of PRP preparation devices has also grown immensely over the recent decades, raising meaningful concern for the considerable variation in the qualities of currently available PRP preparations. The lack of consensus on the standardization of PRP preparation and of agreement on condition specific PRP formulations is largely responsible for the sometimes contradictory outcomes in the literature. Furthermore, the full potential of PRP technology, the concept of individualized treatment protocols based on bioformulation options, and platelet dosing, angiogenesis, and antimicrobial and painkilling effects of PRP relevant to orthopedic surgery have rarely been addressed. In this review, we will discuss recent developments regarding PRP preparations and potential therapeutic effects. Additionally, we present a synopsis of several published data regarding PRP applications in orthopedic surgery for treating tendon injuries, inducing bone repair, strengthening spinal fusion outcomes, and supporting major joint replacements.",
+    "year": 2021,
+    "authors": [
+      "Everts Peter A",
+      "van Erp Albert",
+      "DeSimone Alfred",
+      "Cohen Dan S",
+      "Gardner Ronald D"
+    ],
+    "journal": "Platelets",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/33400591/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/33400591/",
+    "source": "pubmed",
+    "keyword": "platelet-rich plasma",
+    "group": "PRP",
+    "ai_summary": "There is a global interest in optimizing post-surgical tissue repair strategies, leading to better patient outcomes and fewer complications, most ideally with reduced overall cost. In this regard, in ",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1016/j.transci.2020.102964",
+    "pmid": "33127309",
+    "title": "Platelet-rich plasma for the treatment of burn wounds: A meta-analysis of randomized controlled trials.",
+    "abstract": "To evaluate the efficacy and safety of platelet-rich plasma in the treatment of burn wounds through a meta-analysis of randomized controlled trials.",
+    "year": 2021,
+    "authors": [
+      "Huang Hao",
+      "Sun Xiaowei",
+      "Zhao Yang"
+    ],
+    "journal": "Transfusion and apheresis science : official journal of the World Apheresis Association : official journal of the European Society for Haemapheresis",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/33127309/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/33127309/",
+    "source": "pubmed",
+    "keyword": "platelet-rich plasma",
+    "group": "PRP",
+    "ai_summary": "To evaluate the efficacy and safety of platelet-rich plasma in the treatment of burn wounds through a meta-analysis of randomized controlled trials.",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1097/PHM.0000000000003065",
+    "pmid": "42296465",
+    "title": "Ultrasound-Guided Aspiration of Baker's Cyst Combined With Intracystic Platelet-Rich Plasma Injection in Knee Osteoarthritis: A Randomized Controlled Trial.",
+    "abstract": "The aim of the study was to evaluate whether ultrasound (US)-guided aspiration of Baker's cyst (BC) followed by intracystic platelet-rich plasma (PRP) injection reduces pain, improves functional outcomes, and decreases cyst size.",
+    "year": 2026,
+    "authors": [
+      "Akarsu Oğuz",
+      "Aşkin Ayhan",
+      "Bayram Korhan Barış",
+      "Mert Dilek",
+      "Şengül İlker"
+    ],
+    "journal": "American journal of physical medicine & rehabilitation",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/42296465/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42296465/",
+    "source": "pubmed",
+    "keyword": "trending",
+    "is_trending": true,
+    "ai_summary": "The aim of the study was to evaluate whether ultrasound (US)-guided aspiration of Baker's cyst (BC) followed by intracystic platelet-rich plasma (PRP) injection reduces pain, improves functional outco",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  }
+]
