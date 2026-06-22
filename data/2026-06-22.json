@@ -1,0 +1,165 @@
+[
+  {
+    "doi": "10.1016/j.cmet.2020.12.006",
+    "pmid": "33400911",
+    "title": "Platelets Facilitate the Wound-Healing Capability of Mesenchymal Stem Cells by Mitochondrial Transfer and Metabolic Reprogramming.",
+    "abstract": "Platelets are known to enhance the wound-healing activity of mesenchymal stem cells (MSCs). However, the mechanism by which platelets improve the therapeutic potential of MSCs has not been elucidated. Here, we provide evidence that, upon their activation, platelets transfer respiratory-competent mitochondria to MSCs primarily via dynamin-dependent clathrin-mediated endocytosis. We found that this process enhances the therapeutic efficacy of MSCs following their engraftment in several mouse models of tissue injury, including full-thickness cutaneous wound and dystrophic skeletal muscle. By combining in vitro and in vivo experiments, we demonstrate that platelet-derived mitochondria promote the pro-angiogenic activity of MSCs via their metabolic remodeling. Notably, we show that activation of the de novo fatty acid synthesis pathway is required for increased secretion of pro-angiogenic factors by platelet-preconditioned MSCs. These results reveal a new mechanism by which platelets potentiate MSC properties and underline the importance of testing platelet mitochondria quality prior to their clinical use.",
+    "year": 2020,
+    "authors": [
+      "Jennyfer Levoux",
+      "A. Prola",
+      "P. Lafuste",
+      "M. Gervais",
+      "N. Chevallier",
+      "Zeynab Koumaiha",
+      "Kaouthar Kefi",
+      "Laura Braud",
+      "A. Schmitt",
+      "Azzedine Yacia",
+      "Aurélie Schirmann",
+      "B. Hersant",
+      "Mounia Sid-Ahmed",
+      "Sabrina Ben Larbi",
+      "Katerina Komrskova",
+      "J. Rohlena",
+      "F. Relaix",
+      "J. Neuzil",
+      "A. Rodriguez"
+    ],
+    "journal": "Cell Metabolism",
+    "citation_count": 224,
+    "open_access_url": "http://www.cell.com/article/S1550413120306616/pdf",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/33400911/",
+    "semantic_url": "https://www.semanticscholar.org/paper/7ffbc25aa01ee99a8776a9746c8e83d9f6919268",
+    "source": "semantic_scholar",
+    "keyword": "mitochondrial transfer",
+    "group": "ミトコンドリア移植",
+    "ai_summary": "Platelets are known to enhance the wound-healing activity of mesenchymal stem cells (MSCs). However, the mechanism by which platelets improve the therapeutic potential of MSCs has not been elucidated.",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.15252/embr.201948052",
+    "pmid": "31984629",
+    "title": "Mitochondrial transfer from MSCs to T cells induces Treg differentiation and restricts inflammatory response",
+    "abstract": "",
+    "year": 2020,
+    "authors": [
+      "A. Court",
+      "Alice Le-Gatt",
+      "P. Luz‐Crawford",
+      "E. Parra",
+      "Víctor Aliaga-Tobar",
+      "L. Bátiz",
+      "R. Contreras",
+      "M. Ortúzar",
+      "M. Kurte",
+      "R. Elizondo-Vega",
+      "Vinicius Maracaja‐Coutinho",
+      "Karina Pino-Lagos",
+      "F. Figueroa",
+      "M. Khoury"
+    ],
+    "journal": "EMBO Reports",
+    "citation_count": 215,
+    "open_access_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.15252/embr.201948052",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/31984629/",
+    "semantic_url": "https://www.semanticscholar.org/paper/c07b775cc89befed6605f07f774c6f3a46ffbc6a",
+    "source": "semantic_scholar",
+    "keyword": "mitochondrial transfer",
+    "group": "ミトコンドリア移植",
+    "ai_summary": "",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1016/j.det.2026.02.002",
+    "pmid": "42303354",
+    "title": "Platelet-Rich Plasma Devices in Dermatology.",
+    "abstract": "Platelet-rich plasma (PRP) has become an important therapeutic tool in dermatology, with expanding applications in both medical and cosmetic practice. This article highlights the wide variety of PRP preparation and delivery devices, emphasizing how centrifugation protocols, device design, and administration techniques influence platelet concentration, safety, and clinical outcomes. Options such as microneedling, mesotherapy, needleless systems, and supportive anesthetic devices allow for individualized treatment approaches, while emerging technologies like artificial intelligence promise more objective monitoring. Understanding these differences enables dermatologists to optimize PRP quality, enhance patient comfort, and achieve reproducible results in practice.",
+    "year": 2026,
+    "authors": [
+      "Williams Kimberly N",
+      "Tosti Antonella"
+    ],
+    "journal": "Dermatologic clinics",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/42303354/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42303354/",
+    "source": "pubmed",
+    "keyword": "platelet-rich plasma",
+    "group": "PRP",
+    "ai_summary": "Platelet-rich plasma (PRP) has become an important therapeutic tool in dermatology, with expanding applications in both medical and cosmetic practice. This article highlights the wide variety of PRP p",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1111/dth.14343",
+    "pmid": "32979292",
+    "title": "Platelet-rich plasma-Where do we stand today? A critical narrative review and analysis.",
+    "abstract": "\"Sometimes you have to travel a long way to find what is near.\" This quote by Paulo Coelho stands true for platelet-rich plasma (PRP) as we know of it today. Large strides have been made to understand this \"youth\" in blood, but there still seems a long way to go in our understanding of it. Despite advances, clarity in its preparation, biology, and the properties of the final product still remains elusive. The concepts of an ideal number or concentration of platelets in the final enriched plasma, best devices to prepare PRP, an ideal hardware, standard parameters for its preparation, the need for its activation or buffering of the final preparation or whether anticoagulants should be used or not, have evolved, since it was first described. The authors present an analysis of PRP present day status and its usefulness in field of medicine with a review of published literature from \"Medline\" (via \"PubMed\"), \"Cochrane,\" the Virtual Health Library, and Google Scholar related to PRP, its biology, types, and classifications, preparation, and use.",
+    "year": 2021,
+    "authors": [
+      "Arora Gulhima",
+      "Arora Sandeep"
+    ],
+    "journal": "Dermatologic therapy",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/32979292/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/32979292/",
+    "source": "pubmed",
+    "keyword": "platelet-rich plasma",
+    "group": "PRP",
+    "ai_summary": "\"Sometimes you have to travel a long way to find what is near.\" This quote by Paulo Coelho stands true for platelet-rich plasma (PRP) as we know of it today. Large strides have been made to understand",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1016/j.arrct.2025.100573",
+    "pmid": "42326600",
+    "title": "Comparative Clinical Effectiveness of Intra-Articular Leukocyte-Rich Platelet-Rich Plasma and Hyaluronic Acid in Treating Knee Osteoarthritis Pain: An Updated Systematic Review and Meta-Analysis of Randomized Controlled Trials.",
+    "abstract": "To investigate the clinical effectiveness of intra-articular leukocyte-rich-platelet-rich plasma (LR-PRP) injections versus hyaluronic acid (HA) for pain management in patients with knee osteoarthritis (OA).",
+    "year": 2026,
+    "authors": [
+      "Peng Yu-Ning",
+      "Huang Di",
+      "Chou I-Ling",
+      "Lew Henry L"
+    ],
+    "journal": "Archives of rehabilitation research and clinical translation",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/42326600/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42326600/",
+    "source": "pubmed",
+    "keyword": "trending",
+    "is_trending": true,
+    "ai_summary": "To investigate the clinical effectiveness of intra-articular leukocyte-rich-platelet-rich plasma (LR-PRP) injections versus hyaluronic acid (HA) for pain management in patients with knee osteoarthriti",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  }
+]
