@@ -1,0 +1,143 @@
+[
+  {
+    "doi": "10.1186/s12967-026-07868-x",
+    "pmid": "41742267",
+    "title": "From the energy factory to the intercellular communication medium: the emerging role of intercellular mitochondrial transfer and mitochondrial transplantation therapy in diabetes and diabetic complications.",
+    "abstract": "BACKGROUND: Diabetes is a global chronic metabolic disorder that frequently results in multiple chronic complications. However, current therapeutic agents for diabetes and its complications fail to alleviate the core pathological process of mitochondrial dysfunction in affected target organs, rendering them incapable of fundamentally retarding the progression of these complications. MAINBODY: Mitochondrial transfer is a novel type of intercellular communication. Mitochondria can be transferred between cells and improve mitochondrial dysfunction in either the donor cell or the recipient cell. Accumulating evidence indicates that mitochondrial transfer exerts multiple regulatory effects to delay the progression of diabetes and its complications, including promoting insulin secretion, improving insulin resistance, facilitating the migration of vascular endothelial cells, and enhancing mitochondrial function in renal parenchymal cells. This review systematically summarizes the characteristics and molecular mechanisms of mitochondrial transfer, explores its pathophysiological implications in diabetes and related complications, and briefly discusses the application prospects of mitochondrial transplantation therapy in the management of diabetes and its complications based on the mitochondrial transfer theory. CONCLUSIONS: This review offers valuable insights and novel research directions for the design of innovative therapeutic strategies targeting diabetes and its complications.",
+    "year": 2026,
+    "authors": [
+      "Li Dongze",
+      "Liu Xiaolan",
+      "Zhang Li",
+      "Gong Qiming",
+      "Huang Wei",
+      "Xu Yong"
+    ],
+    "journal": "Journal of translational medicine",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/41742267/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41742267/",
+    "source": "pubmed",
+    "keyword": "mitochondrial transfer",
+    "group": "ミトコンドリア移植",
+    "ai_summary": "BACKGROUND: Diabetes is a global chronic metabolic disorder that frequently results in multiple chronic complications. However, current therapeutic agents for diabetes and its complications fail to al",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.3390/cells15121101",
+    "pmid": "42346128",
+    "title": "Compensatory Intercellular Mitochondrial Transfer Improves Bioenergetics in P301L Tau-Affected Neuronal Cells.",
+    "abstract": "Tauopathies are a group of neurodegenerative diseases characterized by the accumulation of abnormal tau protein, leading to mitochondrial dysfunction. Because of neurons' high energy demands, such impairments significantly contribute to neuronal vulnerability. Recent evidence indicates that mitochondria can be transferred between cells to support energy-deficient cells through intercellular mitochondrial transfer (IMT). Given the impact of pathological tau on mitochondrial transport and cytoskeletal dynamics, we hypothesized that IMT is altered in tauopathies. We investigated IMT from astrocytes to neurons, as well as the influence of abnormal tau protein on this process, using co-cultures of SH-SY5Y cells (neuronal model) and A172 cells (astrocytic model). Key data were then confirmed in human iPSC-derived neurons and astrocytes. We show that IMT is enhanced in the presence of abnormal tau and occurs predominantly through contact-dependent mechanisms. Transferred mitochondria were either integrated into the host mitochondrial network, degraded in lysosomes, or remained isolated in the recipient cells' cytosol. This transfer improved cellular respiration and was associated with increased bioenergetics in pathological cells. Together, our results highlight IMT as a link between tau pathology and neuronal metabolic adaptation, suggesting that this process reflects an endogenous metabolic adaptation holding therapeutic potential to mitigate energy deficits in neurodegenerative diseases.",
+    "year": 2026,
+    "authors": [
+      "Riou Aurélien",
+      "Broeglin Aline",
+      "Papassotiropoulos Andreas",
+      "Eckert Anne",
+      "Grimm Amandine"
+    ],
+    "journal": "Cells",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/42346128/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42346128/",
+    "source": "pubmed",
+    "keyword": "mitochondrial transfer",
+    "group": "ミトコンドリア移植",
+    "ai_summary": "Tauopathies are a group of neurodegenerative diseases characterized by the accumulation of abnormal tau protein, leading to mitochondrial dysfunction. Because of neurons' high energy demands, such imp",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1016/j.det.2021.04.001",
+    "pmid": "34053596",
+    "title": "Platelet-rich Plasma and Cell Therapy: The New Horizon in Hair Loss Treatment.",
+    "abstract": "Current medicinal therapies for treating hair loss have shortcomes due to variability and ineffectiveness, noncompliance, and adverse effects. The prevalence of hair loss and its associated negative psychological impact have driven research into regenerative medicine approaches, such as platelet-rich plasma (PRP) and cell-based therapies, in an attempt to find alternative, safe, effective, and reproducible treatments. Current research shows promising results from these therapies; however, more robust trials are needed to confirm the reported efficacies of PRP and cell-based therapies. Moreover, standardization of treatment preparation as well as dose and regimen are needed.",
+    "year": 2021,
+    "authors": [
+      "Gupta Aditya K",
+      "Renaud Helen J",
+      "Rapaport Jeffrey A"
+    ],
+    "journal": "Dermatologic clinics",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/34053596/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/34053596/",
+    "source": "pubmed",
+    "keyword": "platelet-rich plasma",
+    "group": "PRP",
+    "ai_summary": "Current medicinal therapies for treating hair loss have shortcomes due to variability and ineffectiveness, noncompliance, and adverse effects. The prevalence of hair loss and its associated negative p",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1111/jocd.14326",
+    "pmid": "34214233",
+    "title": "History of autologous platelet-rich plasma: A short review.",
+    "abstract": "Platelet-rich plasma (PRP) is a medical material with numerous applications. It produces particularly spectacular effects when applied in cosmetic dermatology.",
+    "year": 2021,
+    "authors": [
+      "Mościcka Patrycja",
+      "Przylipiak Andrzej"
+    ],
+    "journal": "Journal of cosmetic dermatology",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/34214233/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/34214233/",
+    "source": "pubmed",
+    "keyword": "platelet-rich plasma",
+    "group": "PRP",
+    "ai_summary": "Platelet-rich plasma (PRP) is a medical material with numerous applications. It produces particularly spectacular effects when applied in cosmetic dermatology.",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1016/j.thromres.2026.109765",
+    "pmid": "42364348",
+    "title": "The mechanisms of contractile dysfunction following chronic limited platelet activation in (pro)thrombotic conditions.",
+    "abstract": "Patients with (pro)thrombotic conditions often exhibit a combination of platelet activation and dysfunction, including impaired contractility, which may contribute to thrombosis progression.",
+    "year": 2026,
+    "authors": [
+      "Khabirova Alina I",
+      "Khismatullin Rafael R",
+      "Saliakhutdinova Shakhnoza M",
+      "Litvinov Rustem I",
+      "Weisel John W"
+    ],
+    "journal": "Thrombosis research",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/42364348/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42364348/",
+    "source": "pubmed",
+    "keyword": "trending",
+    "is_trending": true,
+    "ai_summary": "Patients with (pro)thrombotic conditions often exhibit a combination of platelet activation and dysfunction, including impaired contractility, which may contribute to thrombosis progression.",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  }
+]
