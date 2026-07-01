@@ -1,0 +1,160 @@
+[
+  {
+    "doi": "10.1016/j.hbpd.2025.10.003",
+    "pmid": "41193376",
+    "title": "From preservation to repair: Mitochondrial transplantation as a paradigm shift in organ transplantation.",
+    "abstract": "Organ transplantation faces a persistent mismatch between the number of available donor organs and the growing demand for transplants. Conventional preservation techniques primarily focus on delaying deterioration rather than actively restoring organ function, especially at the mitochondrial level, a key site of injury during ischemia-reperfusion. Mitochondrial transplantation, a novel regenerative strategy, offers a compelling solution by delivering viable mitochondria to damaged tissues ex vivo, particularly during machine perfusion. This approach not only improves bioenergetic recovery and reduces oxidative stress but also reconditions marginal organs to meet transplantation standards. Preclinical studies across heart, lung, and kidney models demonstrate the potential of mitochondrial transplantation to bridge preservation and repair, expanding the transplantable organ pool. This review highlights mitochondrial transplantation as a transformative intervention poised to reshape the future of organ preservation and transplant viability.",
+    "year": 2026,
+    "authors": [
+      "Peveri Emma",
+      "Sganga Timothy",
+      "Peveri Emilio",
+      "Jones Adam",
+      "Ritchey Thomas",
+      "Lablanche Sandrine",
+      "Fisherwellman Kelsey",
+      "Asthana Amish",
+      "Orlando Giuseppe",
+      "Perrier Quentin"
+    ],
+    "journal": "Hepatobiliary & pancreatic diseases international : HBPD INT",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/41193376/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41193376/",
+    "source": "pubmed",
+    "keyword": "mitochondria transplantation",
+    "group": "ミトコンドリア移植",
+    "ai_summary": "Organ transplantation faces a persistent mismatch between the number of available donor organs and the growing demand for transplants. Conventional preservation techniques primarily focus on delaying ",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1186/s13062-026-00775-7",
+    "pmid": "41947228",
+    "title": "Identification and functional validation of mitochondria-related genes associated with tubular injury in kidney transplantation and ischemia-reperfusion injury.",
+    "abstract": "BACKGROUND: Ischemia–reperfusion injury (IRI) limits graft function and long-term outcomes after kidney transplantation. Proximal tubular (PT) cells are highly mitochondria-rich and metabolically active, making them vulnerable to ischemic and oxidative stress. However, the molecular mechanisms linking mitochondrial dysfunction to graft function remain incompletely understood. METHODS: We integrated single-nucleus RNA sequencing, bioinformatics analyses, and experimental validation to identify mitochondria-associated genes in PT cells related to graft injury and vulnerability in the transplant setting. Mitochondria-related differentially expressed genes (Mito-DEGs) were used to construct machine learning models for delayed graft function (DGF) risk stratification. The candidate gene HAO2 was further evaluated by immunohistochemistry (IHC) in kidney transplant biopsies, a murine IRI model, and H₂O₂-treated HK-2 cells. Human biopsy samples were obtained at or prior to reperfusion and may not fully capture the extent of post-transplant IRI. Both overexpression and siRNA-mediated knockdown were performed to assess its function. Cell viability, apoptosis, and mitochondrial function were assessed using standard assays. RESULTS: PT cells from acute kidney injury samples exhibited mitochondrial dysfunction and metabolic impairment. Donor kidney clustering suggested heterogeneity in DGF risk associated with mitochondrial bioenergetic capacity. An eight-gene Mito-DEG signature demonstrated moderate performance in stratifying DGF risk. IHC analysis demonstrated that HAO2 expression was reduced in DGF recipient biopsies. Consistently, HAO2 was downregulated in murine IRI kidneys and injured HK-2 cells. Functionally, HAO2 overexpression alleviated oxidative stress, apoptosis, and mitochondrial dysfunction, whereas HAO2 knockdown exerted opposite effects and further aggravated H₂O₂-induced injury. Regulatory analysis identified 14 miRNAs and four TFs potentially controlling HAO2, while downstream pathways linked HAO2 to amino acid and fatty acid metabolism, extracellular matrix organization, and immune responses. CONCLUSIONS: These findings suggest that HAO2 may serve as a functional indicator of mitochondrial metabolic capacity associated with graft vulnerability rather than being specific to IRI alone. Given the observational nature of the clinical data, further studies are required to determine whether HAO2 provides added value beyond established histopathological assessment and to clarify its potential role in guiding mitochondrial-targeted conditioning strategies, such as oxygenated machine perfusion, aimed at preserving graft function during transplantation. CLINICAL TRIAL NUMBER: Not applicable.",
+    "year": 2026,
+    "authors": [
+      "Dong Boqing",
+      "Bi Huanjing",
+      "Wang Chongfeng",
+      "Wang Jingwen",
+      "Wang Ying",
+      "Chen Zuhan",
+      "Wang Jiale",
+      "Lu Cuinan",
+      "Ma Ruiyang",
+      "Zheng Jin",
+      "Li Yang",
+      "Ding Xiaoming"
+    ],
+    "journal": "Biology direct",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/41947228/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41947228/",
+    "source": "pubmed",
+    "keyword": "mitochondria transplantation",
+    "group": "ミトコンドリア移植",
+    "ai_summary": "BACKGROUND: Ischemia–reperfusion injury (IRI) limits graft function and long-term outcomes after kidney transplantation. Proximal tubular (PT) cells are highly mitochondria-rich and metabolically acti",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.3389/fendo.2021.707584",
+    "pmid": "34733236",
+    "title": "Platelet-Rich Plasma as a Potential New Strategy in the Endometrium Treatment in Assisted Reproductive Technology.",
+    "abstract": "The success rate of assisted reproduction techniques (ART) has long been less than satisfactory albeit the great progress made in recent years, demonstrating the need for alternative options in the ART cycles. Growing evidence correlates the effect of intrauterine platelet-rich plasma (PRP) infusion on the endometrium with reassuring reproductive results. Thus, in this review, we focus on the current clinical and mechanical evidence on PRP and its effect on endometrial receptivity, and assess the features, benefits and limitations of the current studies and potential risks of PRP in ART.",
+    "year": 2021,
+    "authors": [
+      "Lin Yunying",
+      "Qi Jia",
+      "Sun Yun"
+    ],
+    "journal": "Frontiers in endocrinology",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/34733236/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/34733236/",
+    "source": "pubmed",
+    "keyword": "platelet-rich plasma",
+    "group": "PRP",
+    "ai_summary": "The success rate of assisted reproduction techniques (ART) has long been less than satisfactory albeit the great progress made in recent years, demonstrating the need for alternative options in the AR",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1111/jocd.13567",
+    "pmid": "32585768",
+    "title": "Utility of platelet-rich plasma for treatment of striae distensae: A current exploration.",
+    "abstract": "Platelet-rich plasma (PRP) has recently become a popular treatment for various skin conditions, including striae distensae, acne scars, traumatic scars, hair regrowth, and cutaneous rejuvenation. Although PRP has been utilized in orthopedics for many years, its recent entry into dermatology has been met with controversy. While the recent research has generally been limited and is often contradictory, this has differed from the persuasive marketing campaigns targeting patients and consumers. Aesthetic practitioners should be knowledgeable with the available evidence for PRP in the treatment of striae distensae. Here, we review the pertinent literature and offer additional insights.",
+    "year": 2021,
+    "authors": [
+      "Heitmiller Kerry",
+      "Wang Jordan V",
+      "Murgia Robert D",
+      "Saedi Nazanin"
+    ],
+    "journal": "Journal of cosmetic dermatology",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/32585768/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/32585768/",
+    "source": "pubmed",
+    "keyword": "platelet-rich plasma",
+    "group": "PRP",
+    "ai_summary": "Platelet-rich plasma (PRP) has recently become a popular treatment for various skin conditions, including striae distensae, acne scars, traumatic scars, hair regrowth, and cutaneous rejuvenation. Alth",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1177/19386400261458581",
+    "pmid": "42383527",
+    "title": "Concentrated Bone Marrow Aspirate in the Management of Foot and Ankle Pathologies.",
+    "abstract": "Concentrated bone marrow aspirate (cBMA) is an autologous biologic increasingly used in orthopaedic surgery for its regenerative potential. It contains mesenchymal stem cells (MSCs), growth factors, and cytokines that contribute to tissue repair and immunomodulation. Mesenchymal stem cells primarily exert their effects through paracrine signaling and macrophage reprogramming, promoting a shift from a pro-inflammatory (M1) to a reparative (M2) phenotype. Emerging evidence also suggests a role for mitochondrial transfer in this process. In foot and ankle surgery, cBMA has been investigated in the management of osteochondral lesions of the talus, fracture healing, and tendon disorders. Early clinical studies suggest potential improvements in functional outcomes, healing rates, and revision rates; however, the available evidence remains heterogeneous and is largely limited to small, non-randomized studies. Variability in cBMA preparation and reporting further limits comparability across studies. As such, while cBMA represents a promising adjunct in foot and ankle surgery, its clinical role is not yet fully defined. Future research should focus on prospective, controlled studies with standardized methodologies and explore emerging cell-free approaches, including MSC-derived extracellular vesicles, to optimize regenerative strategies.",
+    "year": 2026,
+    "authors": [
+      "Tham Alexander",
+      "Rubin Jared",
+      "Butler James J",
+      "Montgomery Samuel R",
+      "Mercer Nathaniel P",
+      "Lezak Bradley A",
+      "Mojica Edward",
+      "Charalambous Lefko",
+      "Kennedy John G"
+    ],
+    "journal": "Foot & ankle specialist",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/42383527/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42383527/",
+    "source": "pubmed",
+    "keyword": "trending",
+    "is_trending": true,
+    "ai_summary": "Concentrated bone marrow aspirate (cBMA) is an autologous biologic increasingly used in orthopaedic surgery for its regenerative potential. It contains mesenchymal stem cells (MSCs), growth factors, a",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  }
+]
