@@ -1,0 +1,159 @@
+[
+  {
+    "doi": "10.1038/s41593-026-02317-w",
+    "pmid": "42192197",
+    "title": "Microglial mitochondria transfer to astrocytes via GPNMB-enriched extracellular vesicles alleviates cognitive deficits in tauopathy mice.",
+    "abstract": "Alzheimer's disease (AD) is an irreversible neurodegenerative disease characterized by cognitive decline. The precise molecular mechanisms that underlie the pathogenesis of AD remain elusive. Here we show that glycoprotein nonmetastatic melanoma protein B (GPNMB) is produced by microglia and transferred to astrocytes through extracellular vesicles (EVs) in PS19 tau pathology mice. Tau is cleaved in microglia to generate N-terminal fragments that form a complex on mitochondria with Parkin/Nix and GPNMB, promoting the secretion of EVs containing mitochondria. Functional mitochondria transferred to astrocytes via EVs markedly improve astrocytic functions and attenuate the cognitive impairments and pathogenic features in PS19 mice. By contrast, microglial GPNMB deficiency eliminates mitochondrial EV secretion and mitochondrial transfer to astrocytes, thereby impairing astrocytic functions and exacerbating cognitive impairment in PS19-CcKO (CX3CR1 cre Gpnmb floxp) mice. GPNMB-enriched EVs from PS19 mice alleviate the pathological phenotypes of PS19 mice, offering potential insights for AD treatment.",
+    "year": 2026,
+    "authors": [
+      "Liang Chensi",
+      "Zhou Yulan",
+      "Zhuang Kai",
+      "Wang Shuzhong",
+      "Zhong Li",
+      "Can Dan",
+      "Lei Aiyu",
+      "Li Huifang",
+      "Zhang Jie",
+      "Leng Lige"
+    ],
+    "journal": "Nature neuroscience",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/42192197/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42192197/",
+    "source": "pubmed",
+    "keyword": "mitochondrial transfer",
+    "group": "ミトコンドリア移植",
+    "ai_summary": "Alzheimer's disease (AD) is an irreversible neurodegenerative disease characterized by cognitive decline. The precise molecular mechanisms that underlie the pathogenesis of AD remain elusive. Here we ",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1186/s13287-026-05059-5",
+    "pmid": "42129850",
+    "title": "Autologous bone marrow mesenchymal stem cell mitochondrial transplantation in recurrent assisted reproductive technology failure: a randomized controlled trial.",
+    "abstract": "Mitochondrial dysfunction contributes to poor embryo quality and recurrent assisted reproductive technology (ART) failure. Mitochondrial transplantation (MIT), which involves supplementing oocytes with exogenous mitochondria, has been proposed as a novel strategy to improve ART outcomes. However, both its clinical efficacy and safety remain unclear.",
+    "year": 2026,
+    "authors": [
+      "Liu Xiaoping",
+      "Wang Dandan",
+      "Jia Lei",
+      "Chen Weixi",
+      "Huang Rui",
+      "Fang Cong",
+      "Du Cijie",
+      "Yang Liang",
+      "Liu Xingguo",
+      "Liang Xiaoyan"
+    ],
+    "journal": "Stem cell research & therapy",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/42129850/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42129850/",
+    "source": "pubmed",
+    "keyword": "mitochondria transplantation",
+    "group": "ミトコンドリア移植",
+    "ai_summary": "Mitochondrial dysfunction contributes to poor embryo quality and recurrent assisted reproductive technology (ART) failure. Mitochondrial transplantation (MIT), which involves supplementing oocytes wit",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1016/j.fsc.2026.04.001",
+    "pmid": "42392651",
+    "title": "Platelet-Rich Plasma and Platelet-Rich Fibrin in Periorbital Esthetics: Systematic Review and Clinical Applications.",
+    "abstract": "This systematic review evaluates the effectiveness of platelet-rich plasma (PRP) and platelet-rich fibrin (PRF) for periorbital rejuvenation, updating a previous 2021 review. Twenty-six studies were included with notable variability in preparation methods limiting clear conclusions. Patient satisfaction was high with PRP/PRF treatment, which was only moderately effective for periorbital hyperpigmentation, and objective improvements for wrinkles and skin texture were mixed. Clinical use is described.",
+    "year": 2026,
+    "authors": [
+      "Tai Katherine",
+      "Morrissette Margareta",
+      "Li Jin Hua",
+      "Dib Michael",
+      "Schechter Ilexa",
+      "Hickner Andy",
+      "Sclafani Anthony P"
+    ],
+    "journal": "Facial plastic surgery clinics of North America",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/42392651/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42392651/",
+    "source": "pubmed",
+    "keyword": "platelet-rich plasma",
+    "group": "PRP",
+    "ai_summary": "This systematic review evaluates the effectiveness of platelet-rich plasma (PRP) and platelet-rich fibrin (PRF) for periorbital rejuvenation, updating a previous 2021 review. Twenty-six studies were i",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1097/DSS.0000000000001965",
+    "pmid": "31211715",
+    "title": "Platelet-Rich Plasma and Its Utilities in Alopecia: A Systematic Review.",
+    "abstract": "The use of platelet-rich plasma is becoming more prevalent in the field of dermatology. Variable preparation techniques and treatment methods have been described with reported success in alopecia.",
+    "year": 2020,
+    "authors": [
+      "Hesseler Michael J",
+      "Shyam Nikhil"
+    ],
+    "journal": "Dermatologic surgery : official publication for American Society for Dermatologic Surgery [et al.]",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/31211715/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/31211715/",
+    "source": "pubmed",
+    "keyword": "platelet-rich plasma",
+    "group": "PRP",
+    "ai_summary": "The use of platelet-rich plasma is becoming more prevalent in the field of dermatology. Variable preparation techniques and treatment methods have been described with reported success in alopecia.",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1083/jcb.202511211",
+    "pmid": "42412415",
+    "title": "Intercellular mitochondrial transfer and trans-mitophagy in response to protein import dysfunction.",
+    "abstract": "Mitochondrial protein import is critical for organelle biogenesis, maintenance, and regeneration-essential for cellular homeostasis. Import dysfunction compromises cellular energy supplies, which is damaging to cells, particularly those with high energetic demands like neurons. Previously, we have shown that import failure is rescued by intercellular mitochondrial transfer (IMT) via tunnelling nanotubes (TNTs) however, the fate of the transferred mitochondria and the mechanistic basis for rescue were unresolved. Here, we show that bidirectional mitochondrial trafficking between cells harboring import-defective and import-competent mitochondria is distinct in terms of their regulation and ensuing consequences. Transferred import-defective mitochondria are highly fragmented and destined for canonical lysosomal degradation. In contrast, reactive oxygen species (ROS)-producing mitochondria at the periphery of cells with import-competent mitochondria are transferred into neighboring cells undergoing import failure. These new arrivals then accumulate within previously uncharacterized \"mitochondrial degradation bodies\" (MDBs). We speculate that the cooperation of these distinct cases of TNT-mediated conventional and noncanonical \"trans-mitophagy\" instigates mitochondrial regeneration, and thereby rescues mitochondrial function.",
+    "year": 2026,
+    "authors": [
+      "Glover Emily",
+      "Wiseman Beth",
+      "Dugdale Celyn",
+      "Humphery Charlie",
+      "Sueiro Ballesteros Lorena",
+      "Hodgson Lorna",
+      "Wilkinson Kevin",
+      "Collinson Ian"
+    ],
+    "journal": "The Journal of cell biology",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/42412415/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42412415/",
+    "source": "pubmed",
+    "keyword": "trending",
+    "is_trending": true,
+    "ai_summary": "Mitochondrial protein import is critical for organelle biogenesis, maintenance, and regeneration-essential for cellular homeostasis. Import dysfunction compromises cellular energy supplies, which is d",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  }
+]
