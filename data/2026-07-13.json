@@ -1,0 +1,157 @@
+[
+  {
+    "doi": "10.1016/j.redox.2026.104143",
+    "pmid": "41911639",
+    "title": "Mitochondrial translational control in cardiovascular diseases: from mechanisms to therapies.",
+    "abstract": "Mitochondria orchestrate cardiac metabolic homeostasis, and their dysfunction constitutes a fundamental mechanism driving cardiovascular diseases (CVDs). During eukaryotic evolution, most of the mitochondrial genes required for oxidative phosphorylation (OXPHOS) function have been transferred to the nuclear genome, except for 13 genes coding for core subunits of the OXPHOS machinery. The translational regulation of these 13 genes inside mitochondria is precisely and dynamically regulated according to the external environment under diverse metabolic conditions. However, our understanding of these biological processes in CVDs remains limited. This review summarizes recent advances in the regulatory processes of mitochondrial translation, highlighting mitoribosome biogenesis, dynamic tRNA epitranscriptomic modifications, and coupling between translation and inner-membrane assembly. We additionally integrate emerging upstream regulatory mechanisms, including redox and metabolite-sensitive signaling, mitoepigenetic remodeling, and mitochondria-localized microRNA (mitomiR)-mediated control of mitochondrial RNA fate, which collectively tune translational output under stress. Moreover, this review delineates how these processes are dysregulated in major cardiovascular pathologies, including ischemia-reperfusion (I/R) injury, cardiac hypertrophy, heart failure (HF), and inherited cardiomyopathies. Emerging therapeutic strategies designed to restore translational fidelity and throughput, ranging from pharmacological interventions and metabolic tuning to precise mitochondrial gene editing, are also discussed. By repositioning mitochondrial translation from a passive marker of injury to a druggable control node, this review offers a new paradigm for targeting mitochondrial translation to preserve myocardial resilience and treat CVDs.",
+    "year": 2026,
+    "authors": [
+      "Deng Yunong",
+      "Guo Ningning",
+      "Li Die",
+      "Wang Zhihua"
+    ],
+    "journal": "Redox biology",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/41911639/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41911639/",
+    "source": "pubmed",
+    "keyword": "mitochondrial transfer",
+    "group": "ミトコンドリア移植",
+    "ai_summary": "Mitochondria orchestrate cardiac metabolic homeostasis, and their dysfunction constitutes a fundamental mechanism driving cardiovascular diseases (CVDs). During eukaryotic evolution, most of the mitoc",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1177/0271678X241300223",
+    "pmid": "39539186",
+    "title": "Molecular and cellular mechanisms of mitochondria transfer in models of central nervous system disease.",
+    "abstract": "In the central nervous system (CNS), neuronal function and dysfunction are critically dependent on mitochondrial integrity and activity. In damaged or diseased brains, mitochondrial dysfunction reduces adenosine triphosphate (ATP) levels and impairs ATP-dependent neural firing and neurotransmitter dynamics. Restoring mitochondrial capacity to generate ATP may be fundamental in restoring neuronal function. Recent studies in animals and humans have demonstrated that endogenous mitochondria may be released into the extracellular environment and transported or exchanged between cells in the CNS. Under pathological conditions in the CNS, intercellular mitochondria transfer contributes to new classes of signaling and multifunctional cellular activities, thereby triggering deleterious effects or promoting beneficial responses. Therefore, to take full advantage of the beneficial effects of mitochondria, it may be useful to transplant healthy and viable mitochondria into damaged tissues. In this review, we describe recent findings on the mechanisms of mitochondria transfer and provide an overview of experimental methodologies, including tissue sourcing, mitochondrial isolation, storage, and modification, aimed at optimizing mitochondria transplantation therapy for CNS disorders. Additionally, we examine the clinical relevance and potential strategies for the therapeutic application of mitochondria transplantation.",
+    "year": 2026,
+    "authors": [
+      "Nakano Takafumi",
+      "Irie Keiichi",
+      "Matsuo Koichi",
+      "Mishima Kenichi",
+      "Nakamura Yoshihiko"
+    ],
+    "journal": "Journal of cerebral blood flow and metabolism : official journal of the International Society of Cerebral Blood Flow and Metabolism",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/39539186/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39539186/",
+    "source": "pubmed",
+    "keyword": "intercellular mitochondria transfer",
+    "group": "ミトコンドリア移植",
+    "ai_summary": "In the central nervous system (CNS), neuronal function and dysfunction are critically dependent on mitochondrial integrity and activity. In damaged or diseased brains, mitochondrial dysfunction reduce",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1016/j.jormas.2019.07.001",
+    "pmid": "31299341",
+    "title": "Optimized centrifugation preparation of the platelet rich plasma: Literature review.",
+    "abstract": "Nowadays, the Platelet Rich Plasma (PRP) is frequently used for its therapeutic effects on wound healing, and this due to secretion of many growth factors. However, no standardized procedure has been set up. The aim of this article is to check the various preparations (centrifugation time and speed). This review recorded all the international articles published between 2007 and 2018, for which the assessment criteria were the platelet concentration and/or the growth factor release rate. A multitude of protocols has been looked at with a simple or double centrifugation. All of them have shown an increase in the platelet concentration allowing a therapeutic effect. However, when the centrifugation force is extended, platelets can possibly be altered. The diversity of methods can be linked to the use of various centrifuges. A procedure with simple centrifugation would be a good compromise for the day-to-day use of the PRP in surgery.",
+    "year": 2020,
+    "authors": [
+      "Croisé B",
+      "Paré A",
+      "Joly A",
+      "Louisy A",
+      "Laure B",
+      "Goga D"
+    ],
+    "journal": "Journal of stomatology, oral and maxillofacial surgery",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/31299341/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/31299341/",
+    "source": "pubmed",
+    "keyword": "platelet-rich plasma",
+    "group": "PRP",
+    "ai_summary": "Nowadays, the Platelet Rich Plasma (PRP) is frequently used for its therapeutic effects on wound healing, and this due to secretion of many growth factors. However, no standardized procedure has been ",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1016/j.tem.2020.10.003",
+    "pmid": "33199085",
+    "title": "Autologous Platelet-Rich Plasma for Diabetic Foot Ulcer.",
+    "abstract": "Application of autologous platelet-rich plasma (PRP), especially leukocyte- and platelet-rich fibrin (L-PRF), has emerged as a promising adjuvant therapy for the treatment of diabetic foot ulcers (DFUs). Conflicting results of PRP efficacy can be attributed to the lack of standardization in the PRP preparation process in addition to a paucity of well-designed randomized clinic trials (RCTs).",
+    "year": 2020,
+    "authors": [
+      "Shao Shiying",
+      "Pan Ruping",
+      "Chen Yong"
+    ],
+    "journal": "Trends in endocrinology and metabolism: TEM",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/33199085/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/33199085/",
+    "source": "pubmed",
+    "keyword": "platelet-rich plasma",
+    "group": "PRP",
+    "ai_summary": "Application of autologous platelet-rich plasma (PRP), especially leukocyte- and platelet-rich fibrin (L-PRF), has emerged as a promising adjuvant therapy for the treatment of diabetic foot ulcers (DFU",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1002/advs.76187",
+    "pmid": "42435424",
+    "title": "CD31+ Cell Enrichment Enhances Therapeutic Effects of Stromal Vascular Fraction in Experimental Primary Osteoarthritis: A Preclinical Study in the Dunkin Hartley Guinea Pig Model.",
+    "abstract": "Despite the growing burden of osteoarthritis (OA), effective disease-modifying treatments remain limited. Hyaluronic acid, platelet-rich plasma, and hydrogels are in clinical use, but their efficacy beyond placebo is debated. Cell-based therapies are continuously investigated for their disease-modifying potential. Stromal vascular fraction (SVF), a minimally processed and clinically accessible cell product, has shown therapeutic potential, but remains poorly characterized in respect to its pro-regenerative cell types and molecular signaling. To determine whether CD31+ cell enrichment enhances the regenerative efficacy of SVF, a comparative efficacy study was conducted using the Dunkin Hartley guinea pig model of spontaneous OA. Spatial proteomics reveals that both treatments modulate cartilage extracellular matrix (ECM) composition, reducing fibronectin and COL1A1 levels, with CD31+ SVF showing more pronounced effects. Both therapies attenuate cartilage fibrosis, increase aggrecan, suppress MMP-13, and reduce TNF-α and MCP-1 expression. Compared to SVF, CD31+ SVF shows greater and more consistent improvements in subchondral and trabecular bone integrity. These findings demonstrate that CD31+ enrichment enhances the therapeutic potential of SVF, likely through more consistent modulation of ECM remodeling and osteochondral integrity. Our results provide a preclinical rationale for the testing of CD31+-enriched SVF as a biologically refined cell therapy approach for OA, with potential disease modifying properties.",
+    "year": 2026,
+    "authors": [
+      "Zhou Sijia",
+      "Winkler Tobias",
+      "Chen Bin",
+      "Grzeski Marta",
+      "Yang Yilong",
+      "Fleckenstein Florian N",
+      "Geisel Dominik",
+      "Hildebrandt Alexander",
+      "Aschenbrenner Daniela",
+      "Mohn Marie Agatha",
+      "Claass Benjamin",
+      "Weiner January",
+      "Geissler Sven",
+      "Duda Georg N",
+      "Sheikh Søren P",
+      "Klein Oliver",
+      "Maleitzke Tazio"
+    ],
+    "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/42435424/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42435424/",
+    "source": "pubmed",
+    "keyword": "trending",
+    "is_trending": true,
+    "ai_summary": "Despite the growing burden of osteoarthritis (OA), effective disease-modifying treatments remain limited. Hyaluronic acid, platelet-rich plasma, and hydrogels are in clinical use, but their efficacy b",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  }
+]
