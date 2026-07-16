@@ -1,0 +1,165 @@
+[
+  {
+    "doi": "10.1126/sciadv.adz3266",
+    "pmid": "41811940",
+    "title": "Cytoskeletal remodeling promotes tunneling nanotube formation and drives cardiac resident cell mitochondrial transfer in sepsis.",
+    "abstract": "Sepsis-induced cardiac dysfunction arises from complex intercellular communication networks that extend beyond direct cardiomyocyte damage, yet the nanoscale mechanisms governing these interactions remain poorly understood. Here, we identify tunneling nanotubes (TNTs) as dynamic biological nanostructures facilitating intercellular mitochondrial transfer, revealing their critical role in septic cardiac remodeling. Using a murine cecal ligation and puncture (CLP) model and single-cell RNA sequencing, we demonstrate that sepsis reprograms cardiac endothelial cells, fibroblasts, and macrophages, generating metabolically impaired subpopulations with dysfunctional mitochondrial respiration. We uncover a Drp1-driven cytoskeletal remodeling process that orchestrates TNT biogenesis, wherein Drp1 interacts with Filamin and Kinesin to regulate TNT formation and extension, enabling long-range organelle trafficking. Cardiac-specific Drp1 knockout disrupts TNT-mediated mitochondrial exchange, halting metabolic deterioration and reversing cellular reprogramming. These findings establish Drp1-mediated TNT networks as nanoscale conduits of organelle communication, offering insights into biological nanotube engineering, cellular-scale nanotechnology, and potential therapeutic interventions for mitochondrial dysfunction in sepsis.",
+    "year": 2026,
+    "authors": [
+      "Song Rui",
+      "Huang Cheng",
+      "Ma Yinrui",
+      "Zhang Zhenhua",
+      "Liu Yifei",
+      "Chen Bing",
+      "Zhang Xi",
+      "Hao Shuai",
+      "Huang He",
+      "Ashrafizadeh Milad",
+      "Conde João",
+      "Duan Chenyang"
+    ],
+    "journal": "Science advances",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/41811940/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41811940/",
+    "source": "pubmed",
+    "keyword": "intercellular mitochondria transfer",
+    "group": "ミトコンドリア移植",
+    "ai_summary": "Sepsis-induced cardiac dysfunction arises from complex intercellular communication networks that extend beyond direct cardiomyocyte damage, yet the nanoscale mechanisms governing these interactions re",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1016/j.neuron.2026.04.048",
+    "pmid": "42302783",
+    "title": "Mitochondria and brain aging: From cell-specific dysfunction to intercellular cooperation.",
+    "abstract": "Mitochondria are essential for brain energy metabolism and are increasingly recognized as key contributors to brain aging. Although neurons are exceptionally vulnerable to age-related mitochondrial decline, emerging evidence reveals that glial and vascular cells also exhibit distinct mitochondrial impairments. This review synthesizes recent advances in our understanding of mitochondrial dysfunction across specific brain regions and diverse cell types, highlighting subcellular compartmentalization and metabolic rewiring. We further explore intercellular mitochondrial transfer as a novel form of metabolic cooperation, as well as the therapeutic potential of mitochondrial transplantation. Finally, we highlight recent clinical trials evaluating mitochondria-targeted interventions aimed at preserving brain function in older adults. Together, these findings reposition mitochondria as both integrators and amplifiers of brain aging processes across diverse cell populations. By broadening the focus beyond neurons and emphasizing translational efforts, we offer a comprehensive framework for understanding and therapeutically targeting mitochondrial dysfunction in age-related cognitive decline and neurodegeneration.",
+    "year": 2026,
+    "authors": [
+      "Grimm Amandine",
+      "Lang Undine",
+      "Eckert Anne"
+    ],
+    "journal": "Neuron",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/42302783/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42302783/",
+    "source": "pubmed",
+    "keyword": "intercellular mitochondria transfer",
+    "group": "ミトコンドリア移植",
+    "ai_summary": "Mitochondria are essential for brain energy metabolism and are increasingly recognized as key contributors to brain aging. Although neurons are exceptionally vulnerable to age-related mitochondrial de",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "",
+    "pmid": "33541061",
+    "title": "Platelet rich plasma grafting technique combined with trans-sinusal post-extractive implants placement in the posterior maxilla: a technical report and brief literature review.",
+    "abstract": "The atrophic posterior ridges are usually characterized by poor bone quality and quantity: this situation requires the use of bone regenerative techniques. Other alternative surgical approaches are investigated. Nowadays the use of trans-sinus implants offers some advantages due to its feasibility. Today, bone grafting may be practical, but depends on many factors, such as the type of bone graft used (autogenous, alloplastic, or xenograft), host response, age of the patient, various complications associated with grafting procedures, infection, and, most importantly, the time spent while the grafted material matures and is taken up by the bone. So, this case report describes the feasibility of an alternative surgical technique associated to PRP (Platelet Rich Plasma).",
+    "year": 2020,
+    "authors": [
+      "Gelpi F",
+      "De Santis D",
+      "Luciano U",
+      "Bertajola A",
+      "Bernardello F",
+      "Zambotti T",
+      "Causarano G",
+      "Zarantonello M",
+      "Iurlaro A",
+      "Poscolere A",
+      "Modena N",
+      "Zotti F",
+      "Alberti C",
+      "Zangani A",
+      "Capocasale G",
+      "Donadello D",
+      "Faccioni P",
+      "Finotti M"
+    ],
+    "journal": "Journal of biological regulators and homeostatic agents",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/33541061/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/33541061/",
+    "source": "pubmed",
+    "keyword": "platelet-rich plasma",
+    "group": "PRP",
+    "ai_summary": "The atrophic posterior ridges are usually characterized by poor bone quality and quantity: this situation requires the use of bone regenerative techniques. Other alternative surgical approaches are in",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "",
+    "pmid": "31584784",
+    "title": "Platelet-Rich Plasma (PRP): Current Applications in Dermatology.",
+    "abstract": "Platelet-rich plasma (PRP) is an autologous serum containing high concentrations of platelets and growth factors. PRP continues to evolve as an important treatment modality with many applications in dermatology, particularly in the areas of hair restoration, skin rejuvenation, acne scars, dermal augmentation, and striae distensae. Furthermore, combining PRP with laser therapies, microneedling, dermal fillers, and autologous fat grafting produces synergistic effects, leading to improved aesthetic results. Future studies should standardize PRP treatment protocols for specific indications. PRP holds considerable promise in dermatology with therapeutic applications continuing to expand.",
+    "year": 2019,
+    "authors": [
+      "Emer Jason"
+    ],
+    "journal": "Skin therapy letter",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/31584784/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/31584784/",
+    "source": "pubmed",
+    "keyword": "platelet-rich plasma",
+    "group": "PRP",
+    "ai_summary": "Platelet-rich plasma (PRP) is an autologous serum containing high concentrations of platelets and growth factors. PRP continues to evolve as an important treatment modality with many applications in d",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1007/s12015-026-11181-x",
+    "pmid": "42461490",
+    "title": "Human Umbilical Cord Mesenchymal Stem Cells in Metabolic Dysfunction-associated Fatty Liver Disease (MAFLD) Therapy: Mechanisms, Clinical Efficacy, and Future Perspectives.",
+    "abstract": "There is currently no approved drug treatment for metabolic dysfunction-related fatty liver disease (MAFLD). Umbilical cord-derived mesenchymal stem cells (UC-MSCs) show therapeutic potential, but their mechanism of action is remains incompletely understood. Different from previous reviews that focused on a single pathway, this article presents three important contributions: First, it constructs an integrated \"multi-target synergy network\" model, clarifying how UC-MSCs coordinate and regulate the inflammatory, metabolic and fibrotic processes through the interactions between the AMPK/mTOR, Nrf2/HO-1 and TGF-β/Smad pathways; Second, it systematically assesses recent clinical trials (2022-2025), identifying several unaddressed barriers to transformation, including the lack of histological endpoint indicators, batch-to-batch differences, and the absence of dose exploration studies; Third, we integrate the latest developments from 2024 to 2025, particularly mitochondrial transfer (mediated by tunnel nanotubes and accompanied by quantitative efficacy data) and exosome circular RNA networks [Formula: see text], which have not been covered in previous reviews. Based on the above analysis, we also propose specific suggestions for standardized GMP production, mandatory genomic stability testing, and long-term safety registration. This review provides a comprehensive analysis of elaborates on the treatment of MAFLD with UC-MSCs from a mechanistic and translational perspective, based on the extensive updates of relevant literature.",
+    "year": 2026,
+    "authors": [
+      "Jiang Hua",
+      "Wang Hui",
+      "Zhu Yankun",
+      "Yi Chunyan",
+      "Liu Jinli",
+      "Zhao Ruisi",
+      "Gao Jianpeng",
+      "Cao Anmin",
+      "Guo Yangfan"
+    ],
+    "journal": "Stem cell reviews and reports",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/42461490/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42461490/",
+    "source": "pubmed",
+    "keyword": "trending",
+    "is_trending": true,
+    "ai_summary": "There is currently no approved drug treatment for metabolic dysfunction-related fatty liver disease (MAFLD). Umbilical cord-derived mesenchymal stem cells (UC-MSCs) show therapeutic potential, but the",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  }
+]
