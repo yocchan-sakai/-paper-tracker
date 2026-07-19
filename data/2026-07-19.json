@@ -1,0 +1,151 @@
+[
+  {
+    "doi": "10.1016/j.intimp.2026.117027",
+    "pmid": "42302374",
+    "title": "Block, clear, and boost: a novel therapeutic framework for targeting intercellular mitochondrial transfer in Cancer immunotherapy.",
+    "abstract": "Intercellular mitochondrial transfer (IMT) is emerging as a critical regulator of the tumor microenvironment, reshaping bioenergetics, signaling, and therapeutic responsiveness across the tumor-immune interface. Mitochondrial material can be exchanged within the tumor microenvironment (TME) through multiple routes, including tunneling nanotubes (TNTs), extracellular vesicles (EVs), gap junction-associated exchange, and cell-cell fusion. The outcome of this exchange depends strongly on the quality of the transferred mitochondrial material: delivery of metabolically competent mitochondria may restore oxidative phosphorylation and effector function in T cells, whereas transfer of damaged mitochondrial cargo may amplify oxidative stress and promote terminal dysfunction. Mitochondrial quality-control mechanisms, including the PINK1-Parkin pathway and USP30-regulated deubiquitination, may critically influence how recipient cells process transferred mitochondrial material. Beyond adaptive immunity, IMT has also been implicated in innate immune compartments, including macrophages, natural killer cells, and dendritic cells. More broadly, cancer cells can acquire mitochondrial support from non-malignant partners, including neurons, adipose-derived stem cells, and endothelial cells, thereby enhancing metabolic flexibility, drug resistance, and metastatic potential in selected contexts. Based on these mechanisms, this review proposes \"Block, Clear, and Boost\" as a hypothesis-generating framework for organizing future studies of IMT modulation in cancer immunotherapy. The three conceptual arms refer to blocking harmful transfer, clearing damaged mitochondrial cargo, and boosting immune cells through metabolic augmentation or engineered mitochondrial donation. Importantly, this framework has not been clinically validated, and its therapeutic relevance remains to be tested in route-specific, cell-type-specific, and prospectively designed studies. To support future translational development, we discuss candidate biomarkers for patient stratification, including host mtDNA haplogroups, somatic tumor signatures (e.g., Mitochondrial Pathway Signature, MitoPS), and circulating IMT proxies. Finally, we outline challenges and future directions for evaluating IMT modulation alongside existing immunotherapies, including immune checkpoint inhibitors (ICIs) and adoptive cell therapies (ACTs).",
+    "year": 2026,
+    "authors": [
+      "Liu Ruoyan",
+      "Yang Yang",
+      "Wang Zhening",
+      "Hu Zhuopeng",
+      "Yang Lei",
+      "Guo Rui",
+      "Wang Hong"
+    ],
+    "journal": "International immunopharmacology",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/42302374/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42302374/",
+    "source": "pubmed",
+    "keyword": "mitochondrial transfer",
+    "group": "ミトコンドリア移植",
+    "ai_summary": "Intercellular mitochondrial transfer (IMT) is emerging as a critical regulator of the tumor microenvironment, reshaping bioenergetics, signaling, and therapeutic responsiveness across the tumor-immune",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.3791/71223",
+    "pmid": "42441487",
+    "title": "Exogenous Mitochondrial Transfer in Differentiating Brown Adipocytes and AGPAT2-Deficient Preadipocytes.",
+    "abstract": "Mitochondria are key signaling hubs; however, whether mitochondrial mass expansion is mechanistically required for differentiation remains an open question. AGPAT2 catalyzes the conversion of lysophosphatidic acid into phosphatidic acid, and its deficiency leads to adipose tissue deficiency and impaired adipogenesis associated with reduced mitochondrial mass. The impact of mitochondrial mass expansion on adipogenesis was assessed by transferring exogenous mitochondria into differentiating brown adipocytes. Whether mitochondrial transfer could rescue the impaired adipogenesis of AGPAT2-deficient cells was also investigated. Human and murine mitochondria were successfully transferred and incorporated into the endogenous mitochondrial network of differentiating mouse preadipocytes and persisted throughout brown adipogenesis. Adipogenic differentiation was required for the retention of transferred mitochondria. Mitochondrial transfer did not modify the expression of molecular markers of mature brown adipocytes or lipid droplet content, although it affected the relative distribution of lipid droplet size in a species-dependent manner. In Agpat2-/- preadipocytes, mitochondrial transfer failed to rescue adipogenesis, indicating that mitochondrial mass expansion alone is insufficient to reverse the mechanisms leading to lipodystrophy in this model. These results indicate that, although exogenous human and murine mitochondria can be incorporated into the mitochondrial network of differentiating adipocytes, they do not directly influence the adipogenic program.",
+    "year": 2026,
+    "authors": [
+      "Moreno Antonio",
+      "Parra-Ruiz Claudia",
+      "Stolzenbach Francisca",
+      "Cortés Víctor"
+    ],
+    "journal": "Journal of visualized experiments : JoVE",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/42441487/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42441487/",
+    "source": "pubmed",
+    "keyword": "mitochondrial transfer",
+    "group": "ミトコンドリア移植",
+    "ai_summary": "Mitochondria are key signaling hubs; however, whether mitochondrial mass expansion is mechanistically required for differentiation remains an open question. AGPAT2 catalyzes the conversion of lysophos",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1016/j.csm.2018.08.001",
+    "pmid": "30466721",
+    "title": "Platelet-Rich Plasma.",
+    "abstract": "Platelet-rich plasma (PRP) is a promising treatment for musculoskeletal maladies and clinical data to date have shown that PRP is safe. However, evidence of its efficacy has been mixed and highly variable depending on the specific indication. Additional future high-quality large clinical trials will be critical in shaping our perspective of this treatment option. The heterogeneity of PRP preparations, both presently and historically, leads sweeping recommendations about its utility impossible to make. This heterogeneity has also made interpreting existing literature more complicated.",
+    "year": 2019,
+    "authors": [
+      "Le Adrian D K",
+      "Enweze Lawrence",
+      "DeBaun Malcolm R",
+      "Dragoo Jason L"
+    ],
+    "journal": "Clinics in sports medicine",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/30466721/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/30466721/",
+    "source": "pubmed",
+    "keyword": "platelet-rich plasma",
+    "group": "PRP",
+    "ai_summary": "Platelet-rich plasma (PRP) is a promising treatment for musculoskeletal maladies and clinical data to date have shown that PRP is safe. However, evidence of its efficacy has been mixed and highly vari",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.3390/ijms20020277",
+    "pmid": "30641957",
+    "title": "Platelet-Rich Plasma in Treatment of Temporomandibular Joint Dysfunctions: Narrative Review.",
+    "abstract": "The aims of this narrative review were to examine up-to-date literature in order to evaluate the effectiveness of arthrocentesis or injections with platelet-rich plasma in temporomandibular affections and to compare them to arthrocentesis alone or with hyaluronic acid (HA) or to hyaluronic acid injections.",
+    "year": 2019,
+    "authors": [
+      "Zotti Francesca",
+      "Albanese Massimo",
+      "Rodella Luigi Fabrizio",
+      "Nocini Pier Francesco"
+    ],
+    "journal": "International journal of molecular sciences",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/30641957/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/30641957/",
+    "source": "pubmed",
+    "keyword": "platelet-rich plasma",
+    "group": "PRP",
+    "ai_summary": "The aims of this narrative review were to examine up-to-date literature in order to evaluate the effectiveness of arthrocentesis or injections with platelet-rich plasma in temporomandibular affections",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.2147/IJN.S616690",
+    "pmid": "42471993",
+    "title": "Regulation of Mitochondrial Homeostasis: Applications of Nanobiomaterials in Age-Related Bone Diseases.",
+    "abstract": "Age-related bone diseases are a heterogeneous group of metabolic disorders characterized by progressive degenerative changes. Although nanobiomaterials have emerged as a promising means of regulation at the cellular level, their therapeutic efficacy remains very limited due to the lack of treatment strategies that directly target mitochondrial pathology. In recent years, nanobiomaterial therapies centered on mitochondria have attracted widespread attention. This review aims to critically evaluate the latest advances in this emerging field and categorize them into four main strategies: enhancing mitochondrial autophagy, optimizing the mitochondrial microenvironment, repairing mitochondrial structure, and implementing mitochondrial transfer therapy. Based on existing research, we have preliminarily established a multi-level intervention framework ranging from the clearance of dysfunctional mitochondria to the regulation of the microenvironment, and from the repair of structural components to the transplantation of healthy mitochondria, which has demonstrated encouraging proof-of-concept results in vitro and in animal models. However, this field remains in the preclinical exploration phase: the vast majority of studies are based on rodent models, the efficiency of mitochondrial-targeted delivery is generally low, and long-term biosafety and the feasibility of large-scale production have not yet been systematically evaluated. This review discusses the latest advances in mitochondrial-based nanobiomaterial therapies for age-related bone diseases. Furthermore, this review explores potential drugs and targets for the development of more effective nanobiomaterials, focusing on the key challenges facing the transition from the laboratory to clinical applications in this field, and is expected to provide novel insights into the future development of mitochondria-based nanobiomaterial therapies.",
+    "year": 2026,
+    "authors": [
+      "Wang Zheng",
+      "Sun Lingxiang",
+      "Ping Yilin",
+      "Han Wenze",
+      "Deng Xuedong",
+      "Chen Xi",
+      "Bai Mingyu",
+      "Zhao Yifan",
+      "Wu Xiuping",
+      "Li Bing"
+    ],
+    "journal": "International journal of nanomedicine",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/42471993/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42471993/",
+    "source": "pubmed",
+    "keyword": "trending",
+    "is_trending": true,
+    "ai_summary": "Age-related bone diseases are a heterogeneous group of metabolic disorders characterized by progressive degenerative changes. Although nanobiomaterials have emerged as a promising means of regulation ",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  }
+]
