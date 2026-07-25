@@ -1,0 +1,165 @@
+[
+  {
+    "doi": "10.1126/science.adn2804",
+    "pmid": "40638754",
+    "title": "ROS transfer at peroxisome-mitochondria contact regulates mitochondrial redox.",
+    "abstract": "",
+    "year": 2025,
+    "authors": [
+      "Laura F DiGiovanni",
+      "Prabhsimran K Khroud",
+      "Ruth E. Carmichael",
+      "Tina A. Schrader",
+      "Shivneet K Gill",
+      "Kyla Germain",
+      "Robert Y Jomphe",
+      "Christoph Wiesinger",
+      "Maxime Boutry",
+      "Maki Kamoshita",
+      "Daniel Snider",
+      "Garret Stubbings",
+      "Rong Hua",
+      "Noel Garber",
+      "Christian Hacker",
+      "AD Rutenberg",
+      "R. Melnyk",
+      "Johannes Berger",
+      "Michael Schrader",
+      "B. Raught",
+      "Peter K. Kim"
+    ],
+    "journal": "Science",
+    "citation_count": 91,
+    "open_access_url": "https://figshare.com/articles/journal_contribution/ROS_transfer_at_peroxisome-mitochondria_contact_regulates_mitochondrial_redox/29814605",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40638754/",
+    "semantic_url": "https://www.semanticscholar.org/paper/8db930e86c043a1a46c1a31d9ab86e348acdda2f",
+    "source": "semantic_scholar",
+    "keyword": "mitochondrial transfer",
+    "group": "ミトコンドリア移植",
+    "ai_summary": "",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1016/j.molmed.2025.04.002",
+    "pmid": "40335384",
+    "title": "Targeting mitochondrial transfer as a promising therapeutic strategy.",
+    "abstract": "Despite the primary impression of mitochondria as energy factories, these organelles are increasingly recognized for their multifaceted roles beyond energy production. Intriguingly, mitochondria can transfer between cells, influencing physiological and pathological processes through intercellular trafficking termed 'mitochondrial transfer.' This phenomenon is important in maintaining metabolic homeostasis, enhancing tissue regeneration, exacerbating cancer progression, and facilitating immune modulation, depending on the cell type and microenvironment. Recently, mitochondrial transfer has emerged as a promising therapeutic target for tissue repair and antitumor therapy. Here, we summarize and critically review recent advances in this field. We aim to provide an updated overview of the mechanisms and potential therapeutic avenues associated with mitochondrial transfer in various diseases from the perspective of different donor cells.",
+    "year": 2025,
+    "authors": [
+      "Bo Li",
+      "Bingzhi Li",
+      "Xianghe Qiao",
+      "Wanrong Meng",
+      "Yuhang Xie",
+      "Jiajing Gong",
+      "Yi Fan",
+      "Zhihe Zhao",
+      "Longjiang Li"
+    ],
+    "journal": "Trends in Molecular Medicine",
+    "citation_count": 33,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/40335384/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40335384/",
+    "semantic_url": "https://www.semanticscholar.org/paper/70791d7968cd481547d484d560204defc2496813",
+    "source": "semantic_scholar",
+    "keyword": "mitochondrial transfer",
+    "group": "ミトコンドリア移植",
+    "ai_summary": "Despite the primary impression of mitochondria as energy factories, these organelles are increasingly recognized for their multifaceted roles beyond energy production. Intriguingly, mitochondria can t",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1016/j.jaad.2018.11.029",
+    "pmid": "30742878",
+    "title": "Platelet-rich plasma and its utility in the treatment of acne scars: A systematic review.",
+    "abstract": "The field of dermatology has seen numerous therapeutic innovations in the past decade, with platelet-rich plasma recently garnering significant interest in acne scarring. This review consolidates the available evidence on platelet-rich plasma for the practicing dermatologist and evaluates the current evidence up to May 31, 2018. A search was conducted in the PubMed database for the terms platelet-rich plasma or platelet releasate or platelet gel or PRP and dermatology or skin or acne or scar or cutaneous, with 13 articles meeting the inclusion criteria. The quality of each individual study was evaluated, and levels of evidence were assigned according to the Centre for Evidence-Based Medicine, Oxford, United Kingdom. This review reveals that activated, leukocyte- and platelet-rich plasma in combination with fractional ablative laser treatment administered in 2 or 3 sequential sessions 1 month apart improves the appearance of acne scars. The evidence for the use of platelet-rich plasma with microneedling is less supportive. Because of the heterogeneity of the studies and widely variable outcome measures, comparison between platelet-rich plasma treatments and subsequent statistical analysis could not be performed. Although these studies use various subjective and objective evaluation methods, the addition of platelet-rich plasma provides improvements in acne scarring, higher patient satisfaction, and decreased postprocedure downtime.",
+    "year": 2019,
+    "authors": [
+      "Hesseler Michael J",
+      "Shyam Nikhil"
+    ],
+    "journal": "Journal of the American Academy of Dermatology",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/30742878/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/30742878/",
+    "source": "pubmed",
+    "keyword": "platelet-rich plasma",
+    "group": "PRP",
+    "ai_summary": "The field of dermatology has seen numerous therapeutic innovations in the past decade, with platelet-rich plasma recently garnering significant interest in acne scarring. This review consolidates the ",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1097/DSS.0000000000001651",
+    "pmid": "30277897",
+    "title": "Platelet-Rich Plasma Therapy for Male and Female Pattern Hair Loss.",
+    "abstract": "",
+    "year": 2019,
+    "authors": [
+      "Avram Marc R",
+      "Finney Robert"
+    ],
+    "journal": "Dermatologic surgery : official publication for American Society for Dermatologic Surgery [et al.]",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/30277897/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/30277897/",
+    "source": "pubmed",
+    "keyword": "platelet-rich plasma",
+    "group": "PRP",
+    "ai_summary": "",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1111/os.70389",
+    "pmid": "42500814",
+    "title": "The High-Intensity Zone: A Dynamic Inflammatory Hub in Lumbar Disc Degeneration.",
+    "abstract": "The lumbar intervertebral disc high-intensity zone (HIZ), a focal hyperintensity within the annulus fibrosus on T2-weighted magnetic resonance imaging, has garnered significant attention as a critical imaging biomarker in the pathological cascade of lumbar disc degeneration (LDD). This review systematically delineates the pathological basis of the HIZ and provides a comprehensive dissection of the molecular pathways it shares with LDD. while also summarizing recent advancements in artificial intelligence and multimodal imaging for enhancing HIZ detection and characterization. The HIZ is positioned as a \"dynamic inflammatory hub\" characterized by vascularized granulation tissue infiltration, nerve ingrowth, and a localized chronic inflammatory response following annular fissures. The molecular pathology involves a self-perpetuating \"inflammation-matrix degradation\" vicious cycle driven by cytokines (e.g., TNF-α, IL-1β) and matrix-degrading enzymes (e.g., MMPs, ADAMTS), underscoring its central role in the chronicization of discogenic low back pain (DLBP). Although the HIZ exhibits high specificity for diagnosing DLBP, its utility is constrained by limited sensitivity, false positives, and a notable dissociation from clinical symptoms. Furthermore, a stratified and diversified therapeutic blueprint is outlined, ranging from physical ablation and nucleus pulposus replacement to biologic agents (e.g., platelet-rich plasma), regenerative medicine (e.g., stem cell therapy), and cutting-edge nanotechnologies. Moving beyond conventional morphology to integrate advanced diagnostic technologies is imperative. Looking forward, integrating molecular imaging, single-cell omics, and precision medicine strategies to target the HIZ microenvironment offers a promising new paradigm for disrupting the \"inflammation-degeneration-pain\" cycle, restoring disc homeostasis, and achieving precise diagnosis and treatment of DLBP.",
+    "year": 2026,
+    "authors": [
+      "Zhou Qi",
+      "Cai Jingyi",
+      "Zhu Weijian",
+      "Zhou Sirui",
+      "Zhou Liling",
+      "Pei Yiyao",
+      "Wu Gang"
+    ],
+    "journal": "Orthopaedic surgery",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/42500814/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42500814/",
+    "source": "pubmed",
+    "keyword": "trending",
+    "is_trending": true,
+    "ai_summary": "The lumbar intervertebral disc high-intensity zone (HIZ), a focal hyperintensity within the annulus fibrosus on T2-weighted magnetic resonance imaging, has garnered significant attention as a critical",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  }
+]
