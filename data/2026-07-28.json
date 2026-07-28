@@ -1,0 +1,143 @@
+[
+  {
+    "doi": "10.1186/s12964-025-02589-y",
+    "pmid": "41366438",
+    "title": "Transcellular mitochondrial transfer from hypermetabolic astrocytes to neurons during cocaine and HIV-1 exposure.",
+    "abstract": "HIV-associated neurocognitive disorders (HAND) are exacerbated by comorbid substance abuse, particularly cocaine use. However, the mechanisms by which HIV-1 proteins and cocaine synergize to induce neuronal dysfunction remain poorly understood. Emerging evidence suggests that astrocytes regulate neuronal health through metabolic and mitochondrial communication. Primary rat astrocytes were exposed to HIV-1 Tat protein and cocaine to assess changes in metabolic phenotype and mitochondrial dynamics. Mitochondrial morphology was evaluated via confocal microscopy, while extracellular vesicles (EVs) were isolated and characterized. Cell-type-specific mitochondrial labeling and live-cell imaging were used to track mitochondrial transfer from astrocytes to neurons. Neuronal viability, mitochondrial function, and bioenergetic profiles were assessed following exposure to astrocyte-derived EVs. Astrocytic mitochondrial fragmentation was inhibited using a GTPase-inactive Drp1 mutant or dominant-negative Orai1 to test rescue effects. Tat and cocaine co-exposure induced a hypermetabolic shift and mitochondrial fragmentation in astrocytes. Fragmented mitochondria were incorporated into astrocyte-derived extracellular vesicles (AEVs) and transferred to neurons. Neuronal uptake of these AEVs led to impaired mitochondrial function and reduced viability. Inhibition of astrocytic mitochondrial fission significantly decreased mitochondrial transfer and preserved neuronal bioenergetics and health. These findings identify a novel mechanism of transcellular mitochondrial transfer from astrocytes to neurons under pathological conditions. Mitochondria contained within AEVs act as neurotoxic agents in the context of HIV-1 Tat and cocaine exposure. Targeting astrocytic mitochondrial dynamics may provide a promising therapeutic approach for preventing or mitigating neurodegeneration in HAND and substance use disorders.",
+    "year": 2025,
+    "authors": [
+      "Shanmughapriya Santhanam",
+      "Ahooyi Taha Mohseni",
+      "Torkzaban Bahareh",
+      "Garikipati Venkata Naga Srikanth",
+      "Kishore Raj",
+      "Khallili Kamel",
+      "Langford Dianne",
+      "Natarajaseenivasan Kalimuthusamy"
+    ],
+    "journal": "Cell communication and signaling : CCS",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/41366438/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41366438/",
+    "source": "pubmed",
+    "keyword": "mitochondrial transfer",
+    "group": "ミトコンドリア移植",
+    "ai_summary": "HIV-associated neurocognitive disorders (HAND) are exacerbated by comorbid substance abuse, particularly cocaine use. However, the mechanisms by which HIV-1 proteins and cocaine synergize to induce ne",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.3760/cma.j.cn112144-20240926-00360",
+    "pmid": "39743364",
+    "title": "[Mitochondrial transfer contributes to the odontogenic differentiation of dental mesenchymal stem cells].",
+    "abstract": "Objective: To investigate whether there is mitochondrial transfer in dental mesenchymal stem cells (MSCs) and its significance for the odontogenic differentiation. Methods: Flow cytometry and immunohistochemical staining were used to isolate dental mesenchymal stem cells. Immunofluorescence staining and live cell imaging were applied to determine whether there is mitochondrial transfer in dental MSCs. Transcriptome sequencing data re-analysis of human dental pulp stem cells (DPSCs) and bone marrow mesenchymal stem cells (BMSCs) from gene expression omnibus (GEO) data base demonstrated the importance of mitochondrial transfer in dental MSCs. Cells were managed with mitochondrial transfer inhibitor ML141 with dimethyl sulfoxide as the control. Immunofluorescence staining, senescence-associated β-galactosidase (SA-β-gal) staining, reactive oxygen species (ROS) assay, 5-ethynyl-2'-deoxyuridine(EdU) labelling, cell counting kit-8 (CCK-8) assay, Western blotting, live cell imaging and transmission electron microscope were used to investigate cell morphology, ROS level, cellular senescence, cell proliferation, MSCs marker paired related homeobox 1 (Prrx1) and Sp7 transcription factor (Sp7) expression, mitochondrial transfer and mitochondrial morphology, respectively. Further, after using ML141 during the induction of odontogenic differentiation, alkaline phosphatase (ALP) chromogenic kit was used to detect ALP activity and real-time fluorescence quantitative PCR (RT-qPCR) was used to detect the expression of odontogenic differentiation-related genes Alp, Sp7, dentin matrix protein 1 (Dmp1), and dentin salivary phosphoprotein (Dspp), which were applied to investigate the effect of mitochondrial transfer on odontogenic differentiation. Results: An ultrafine tunneling nanotubes (TNTs) structure labelled with F-actin existed between dental MSCs, and the presence of transferring mitochondria in this structure was also confirmed. Transcriptome sequencing data suggested that the gene expression profiles were significantly different between DPSCs and BMSCs. Genes related to mitochondrial transfer and mitochondrial dynamic were significantly increased in DPSCs compared to BMSCs. Compared with the control group, treatment with 1, 5, 10 μmol/L ML141, the mitochondrial transfer inhibitor, had little significant effects on the cell morphology, cytoskeleton and ROS level. SA-β-gal activity and the proportion of SA-β-gal positive cells in the ML141-treated groups [(3.93±0.21)%, (3.23±0.42)%, (4.06±0.84)%] had no significant differences with the control group [(3.83±0.28)%] (all P>0.05). In the cell proliferation assay, the proportion of EdU positive cells in the ML141-treated groups [(20.00±3.82)%, (19.48±1.96)%, (12.55±2.86)%] had no significant differences (all P>0.05) with the control group [(18.57±0.87)%], whereas the CCK-8 assay showed similar results in ML141-treated group of 1, 5 μmol/L (all P>0.05). Western blotting results showed that the protein expression levels of PRRX1 and SP7 in the ML141-treated group had no significant differences with the control group. Live cell imaging showed that compared with the control group [(31.42±4.01)%], the proportion of TNTs and mitochondrial transfer in the ML141-treated groups [(13.45±1.46)%, (10.36±3.47)%, (9.32±1.11)%] were significantly decreased in dental MSCs (all P<0.001). Scanning electron microscope showed that the mitochondrial morphology of dental MSCs in the ML141-treated group was similar to the control group, with globular and short-rod shape. After 7 days of odontogenic differentiation, the ALP staining intensity of the ML141-treated group was significantly lower than the control group. After 21 days of induction, RT-qPCR results showed that compared with control group, the relative mRNA expressions of Alp, Sp7, Dmp1 and Dspp were significantly decreased in the ML141-treated group (all P<0.05), indicating that the suppression of mitochondrial transfer in dental MSCs inhibited the odontogenic differentiation. Conclusions: Mitochondrial transfer exists between dental MSCs, and inhibition of mitochondrial transfer impairs the odontogenic differentiation.",
+    "year": 2025,
+    "authors": [
+      "Li X Y",
+      "Zhang L",
+      "Sun Y"
+    ],
+    "journal": "Zhonghua kou qiang yi xue za zhi = Zhonghua kouqiang yixue zazhi = Chinese journal of stomatology",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/39743364/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39743364/",
+    "source": "pubmed",
+    "keyword": "mitochondrial transfer",
+    "group": "ミトコンドリア移植",
+    "ai_summary": "Objective: To investigate whether there is mitochondrial transfer in dental mesenchymal stem cells (MSCs) and its significance for the odontogenic differentiation. Methods: Flow cytometry and immunohi",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1016/j.jaad.2019.04.037",
+    "pmid": "31009668",
+    "title": "Platelet-rich plasma and its utility in medical dermatology: A systematic review.",
+    "abstract": "The field of dermatology has seen numerous therapeutic innovations in the past decade with platelet-rich plasma (PRP), recently garnering significant interest in alopecia, acne scarring, and skin rejuvenation. In other conditions of dermatology, such as chronic wounds and vitiligo, PRP has been investigated but has received less attention. The objective of this literature review was to focus on conditions of medical dermatology and to consolidate the available evidence on PRP for the practicing dermatologist. This review evaluates the literature up to October 31, 2018, and a search was conducted in the PubMed database for \"platelet-rich plasma,\" \"platelet releasate,\" \"platelet gel,\" \"platelet-rich fibrin\" or \"PRP\" and \"dermatology,\" \"skin,\" \"cutaneous,\" \"wound,\" or \"ulcer.\" In total, 14 articles met the inclusion criteria for this review. In studies representing Levels of Evidence 1b-4 according to the Centre for Evidence-Based Medicine, Oxford, PRP significantly improved wound healing in chronic diabetic ulcers, venous ulcers, pressure ulcers, leprosy ulcers, acute traumatic wounds, and ulcers of multifactorial etiologies. Two studies also documented benefits of adjunctive PRP in stable vitiligo. In chronic wounds of multiple etiologies and vitiligo, PRP warrants further investigation because it represents a potential therapeutic adjunct or alternative with a favorable side effect profile.",
+    "year": 2019,
+    "authors": [
+      "Hesseler Michael J",
+      "Shyam Nikhil"
+    ],
+    "journal": "Journal of the American Academy of Dermatology",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/31009668/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/31009668/",
+    "source": "pubmed",
+    "keyword": "platelet-rich plasma",
+    "group": "PRP",
+    "ai_summary": "The field of dermatology has seen numerous therapeutic innovations in the past decade with platelet-rich plasma (PRP), recently garnering significant interest in alopecia, acne scarring, and skin reju",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1016/j.transci.2019.102675",
+    "pmid": "31735653",
+    "title": "Platelet rich plasma in treatment of musculoskeletal pathologies.",
+    "abstract": "Over the past two decades, platelet rich plasma (PRP) has been available as a biological treatment for healing or regeneration of impaired or non-functional tissues. This manuscript highlights PRP application in the treatment of musculoskeletal pathologies. Data in relation to PRP were gathered using PubMed and Medline database from 1994 to 2019, including in vivo animal experiments and clinical studies. PRP appears to promote pain relief and improvement in joint function and it usage has gained popularity for the treatment of musculoskeletal diseases. Nevertheless, limitations in current studies also need to be taken into account in view of the short term effects of PRP therapy and follow-up studies are needed to confirm the long-term efficacy of PRP. Growing interest in the use of this therapeutic modality for the treatment of musculoskeletal diseases gives new opportunities for further clinical studies on the efficacy of this bioproduct, including the more standardised PRP lysate which contains all the active principles of native PRP, and will become highly popular in regenerative medicine.",
+    "year": 2019,
+    "authors": [
+      "Mehrabani Davood",
+      "Seghatchian Jerard",
+      "Acker Jason P"
+    ],
+    "journal": "Transfusion and apheresis science : official journal of the World Apheresis Association : official journal of the European Society for Haemapheresis",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/31735653/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/31735653/",
+    "source": "pubmed",
+    "keyword": "platelet-rich plasma",
+    "group": "PRP",
+    "ai_summary": "Over the past two decades, platelet rich plasma (PRP) has been available as a biological treatment for healing or regeneration of impaired or non-functional tissues. This manuscript highlights PRP app",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.18502/ijrm.v24i5.21291",
+    "pmid": "42516816",
+    "title": "The effect of intratesticular autologous platelet-rich plasma injection on sperm DNA fragmentation in men with oligoasthenoteratozoospermia: An RCT.",
+    "abstract": "Oligoasthenoteratozoospermia (OAT) is one of the most common multifactorial causes of male infertility. Platelet-rich plasma (PRP), a biological product, has emerged as a promising regenerative therapy in various fields of medicine, including reproductive health. Therefore, we investigated the effect of PRP administration on sperm DNA fragmentation in OAT men.",
+    "year": 2026,
+    "authors": [
+      "Pilehvari Shamim",
+      "Ghorbani Marzieh",
+      "Babalhavaeji Hooshang",
+      "Talebi-Ghane Elaheh",
+      "Fazli Faezeh"
+    ],
+    "journal": "International journal of reproductive biomedicine",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/42516816/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42516816/",
+    "source": "pubmed",
+    "keyword": "trending",
+    "is_trending": true,
+    "ai_summary": "Oligoasthenoteratozoospermia (OAT) is one of the most common multifactorial causes of male infertility. Platelet-rich plasma (PRP), a biological product, has emerged as a promising regenerative therap",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  }
+]
