@@ -1,0 +1,152 @@
+[
+  {
+    "doi": "10.1002/advs.202412621",
+    "pmid": "39887937",
+    "title": "Osteoblast-Derived Mitochondria Formulated with Cationic Liposome Guide Mesenchymal Stem Cells into Osteogenic Differentiation.",
+    "abstract": "While mitochondria are known to be essential for intracellular energy production and overall function, emerging evidence highlights their role in influencing cell behavior through mitochondrial transfer. This phenomenon provides a potential basis for the development of treatment strategies for tissue damage and degeneration. This study aims to evaluate whether mitochondria isolated from osteoblasts can promote osteogenic differentiation in mesenchymal stem cells (MSCs). Mitochondria from MSCs, which primarily utilize glycolysis, are compared with those from MG63 cells, which depend on oxidative phosphorylation. Mitochondria from both cell types are then encapsulated in cationic liposomes and transferred to MSCs, and their impact on differentiation is assessed. Mitochondria delivery from MG63 cells to MSCs grown in both two- and three-dimensional cultures results in increased expression of osteogenic markers, including Runt-related transcription factor 2, Osterix, and Osteopontin, and upregulation of genes involved in Bone morphogenetic protein 2 signaling and calcium import. This is accompanied by increased calcium influx and regulated by the Wnt/β-catenin signaling pathway. Transplantation of spheroids containing MSCs with MG63-derived mitochondria in bone defect animal models improves bone regeneration. The results suggest that delivery of MG63-derived mitochondria effectively guides MSCs toward osteogenesis, paving the way for the development of mitochondria-transplantation therapies.",
+    "year": 2025,
+    "authors": [
+      "Kim Hye-Ryoung",
+      "Woo Seonjeong",
+      "Cho Hui Bang",
+      "Lee Sujeong",
+      "Cho Chae Won",
+      "Park Ji-In",
+      "Youn Seulki",
+      "So Gyuwon",
+      "Kang Sumin",
+      "Hwang Sohyun",
+      "Kim Hye Jin",
+      "Park Keun-Hong"
+    ],
+    "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/39887937/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39887937/",
+    "source": "pubmed",
+    "keyword": "mitochondrial transfer",
+    "group": "ミトコンドリア移植",
+    "ai_summary": "While mitochondria are known to be essential for intracellular energy production and overall function, emerging evidence highlights their role in influencing cell behavior through mitochondrial transf",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1186/s12964-025-02497-1",
+    "pmid": "41233822",
+    "title": "Hypoxia-preconditioning human bone marrow-derived mesenchymal stem cells induce high-quality mitochondrial transfer through gap junctions to alleviate ischemia-reperfusion injury in liver graft.",
+    "abstract": "Amid the widespread scarcity of donor livers, mitigating ischemia-reperfusion injury (IRI) of liver grafts is vital for ensuring early recovery of post-transplant liver function. Human bone marrow-derived mesenchymal stem cells (hBMSCs) have shown potential in alleviating IRI damage by regulating mitochondrial function. Hypoxia-preconditioning hBMSCs (hypo-hBMSCs) have shown considerable promise in enhancing therapeutic efficacy, yet the underlying mechanism remain to be elucidated. Therefore, this study aims to explore the role of hypo-hBMSCs in alleviating hepatic IRI and uncover their potential mechanisms, with the goal of offering new strategies for the application of hBMSCs in liver protection after transplantation.",
+    "year": 2025,
+    "authors": [
+      "Luo Xinling",
+      "Zeng Weiqi",
+      "Xiong Erfeng",
+      "Wang Ziming",
+      "Huang Jingsheng",
+      "Luo Meiqi",
+      "He Zhongxian",
+      "Liu Jinyu",
+      "Yuan Dongdong"
+    ],
+    "journal": "Cell communication and signaling : CCS",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/41233822/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41233822/",
+    "source": "pubmed",
+    "keyword": "mitochondrial transfer",
+    "group": "ミトコンドリア移植",
+    "ai_summary": "Amid the widespread scarcity of donor livers, mitigating ischemia-reperfusion injury (IRI) of liver grafts is vital for ensuring early recovery of post-transplant liver function. Human bone marrow-der",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1007/s11916-026-01524-1",
+    "pmid": "42490022",
+    "title": "Platelet-Rich Plasma in Chronic Joint Pain: An Autologous Alternative to Steroids.",
+    "abstract": "Chronic joint pain, most caused by osteoarthritis, is one of the leading causes of disability worldwide. When conservative management fails, interventional therapies are introduced, with corticosteroid injections being one of the most utilized. However, its clinical utility is limited by its short-term efficacy and by potential structural adverse effects. Platelet-rich plasma has emerged as a compelling alternative, providing both anti-inflammatory and regenerative properties. This review will evaluate platelet-rich plasma as an autologous alternative to corticosteroid injections for the treatment of chronic joint pain due to osteoarthritis.",
+    "year": 2026,
+    "authors": [
+      "Abril Marlou",
+      "Alonso Bruno",
+      "Ku Jun Beom",
+      "Pak Ray",
+      "Rosenblum David"
+    ],
+    "journal": "Current pain and headache reports",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/42490022/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42490022/",
+    "source": "pubmed",
+    "keyword": "platelet-rich plasma",
+    "group": "PRP",
+    "ai_summary": "Chronic joint pain, most caused by osteoarthritis, is one of the leading causes of disability worldwide. When conservative management fails, interventional therapies are introduced, with corticosteroi",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1016/j.fsc.2019.04.006",
+    "pmid": "31280855",
+    "title": "Platelet-Rich Plasma for Skin Rejuvenation: Facts, Fiction, and Pearls for Practice.",
+    "abstract": "Platelet-rich plasma (PRP) has gained popularity in facial plastic surgery because of its role in wound healing. PRP, having a higher concentration of platelets, allows for greater release of growth factors and biologically active proteins, which in turn activates the wound-healing cascade stimulating neoangiogenesis and collagen production. One of the most popular uses for PRP is for facial skin rejuvenation in the form of dermal injections and topical application during microneedling. The promising nature of PRP makes using it for injection and/or in conjunction with microneedling a good addition to any practice that deals with skin rejuvenation.",
+    "year": 2019,
+    "authors": [
+      "Peng Grace Lee"
+    ],
+    "journal": "Facial plastic surgery clinics of North America",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/31280855/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/31280855/",
+    "source": "pubmed",
+    "keyword": "platelet-rich plasma",
+    "group": "PRP",
+    "ai_summary": "Platelet-rich plasma (PRP) has gained popularity in facial plastic surgery because of its role in wound healing. PRP, having a higher concentration of platelets, allows for greater release of growth f",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1177/15533506261473957",
+    "pmid": "42533534",
+    "title": "Coatings on Absorbable Meshes Used for Hernia Repair: A Scoping Review.",
+    "abstract": "IntroductionPermanent meshes are used to reduce recurrences in abdominal hernia repair, yet recurrence rates remain high, and permanent meshes may be associated with chronic pain. Absorbable meshes may reduce mesh-related complications but are associated with an increased recurrence risk. Mesh coatings may improve biocompatibility and outcomes. We aimed to provide an overview of coatings applied to absorbable meshes and to report beneficial and adverse effects.MethodsAll studies including humans or animals investigating non-commercially coated absorbable meshes in abdominal hernia repair were included. PubMed, Embase, Cochrane Central, LILACS, and CNKI were searched without language constraints.ResultsOf 3409 studies screened, 46 were included. All were conducted on animals (n = 1641) with surgically induced hernias. Median follow-up was 45 days (range 14-252). The 22 studied coatings were mesenchymal stem cells, platelet-rich plasma, different growth factors, fibroblasts, amniotic fluid, amniotic membrane, skeletal muscle cells, fibrinogen, zinc and citric acid, extracellular matrix, chitosan and/or ibuprofen, ibuprofen, dexamethasone, licorice extract, Royal Jelly honey, astragalus extract, silk fibroin, alginate, cyclic arginine-glycine-aspartic acid peptide, and CuSO4 (copper). Mesenchymal stem cells and platelet-rich plasma were most studied. Mesenchymal stem cells and platelet-rich plasma increased cell ingrowth, collagen deposition, neovascularization, and increased tensile strength, while reducing inflammation; however, platelet-rich plasma showed variable effects on inflammation. In addition, platelet-rich plasma reduced recurrences.ConclusionWe identified 22 different coatings used on absorbable meshes, with variable results. Mesenchymal stem cells and platelet-rich plasma were most studied, the latter with promising preclinical findings on recurrence reduction, requiring clinical confirmation.",
+    "year": 2026,
+    "authors": [
+      "Hvidt Sophus",
+      "Rosenberg Jacob",
+      "Baker Jason Joe"
+    ],
+    "journal": "Surgical innovation",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/42533534/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42533534/",
+    "source": "pubmed",
+    "keyword": "trending",
+    "is_trending": true,
+    "ai_summary": "IntroductionPermanent meshes are used to reduce recurrences in abdominal hernia repair, yet recurrence rates remain high, and permanent meshes may be associated with chronic pain. Absorbable meshes ma",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  }
+]
