@@ -1,0 +1,166 @@
+[
+  {
+    "doi": "10.1111/jnc.70003",
+    "pmid": "39902645",
+    "title": "Transcript and Lipid Profile Alterations in Astrocyte-Neuron Mitochondrial Transfer Under Lipopolysaccharide Exposure: An In Vitro Study.",
+    "abstract": "Sepsis-associated encephalopathy (SAE) is a brain dysfunction for which no effective therapy currently exists. Recent studies suggest that transferring mitochondria from astrocytes to neurons may benefit SAE patients, though the underlying mechanism remains unclear. We cultured astrocytes and neurons from mice in vitro. Astrocytes were stimulated with lipopolysaccharide (LPS) for 24 h, and the astrocyte-conditioned medium (ACM) was collected. Neuronal cultures were then treated with ACM or mitochondria-depleted ACM (mdACM) for further analysis. Mitochondrial transfer was examined under a fluorescence microscope. Western blotting analyzed the protein expression of genes related to apoptosis and mitochondrial metabolism. RNA sequencing and mass spectrometry were employed to investigate the mechanisms underlying mitochondrial transfer. Astrocyte-derived mitochondria migrated toward and connected with LPS-exposed neurons. The addition of ACM significantly attenuated LPS-induced alterations in the proteins linked to apoptosis and mitochondrial dynamics. RNA sequencing revealed notable alterations in the transcript profile of neurons upon ACM treatment, highlighting the involvement of mitochondria metabolism, inflammation, and apoptosis-related factors. Additionally, mitochondrial transfer modified the lipid composition of neurons, increasing phosphatidylserine levels, which correlated with neuroinflammation and enriched pathways related to cytokine and MAPK signaling. Our findings suggest that astrocyte-neuron mitochondrial transfer holds therapeutic potential for alleviating SAE, possibly through the anti-inflammatory effects of lipids, particularly phosphatidylserine.",
+    "year": 2025,
+    "authors": [
+      "Kan Yufei",
+      "Wang Hong",
+      "Lin Huaying",
+      "Li Yongfa",
+      "Pei Shuaijie",
+      "Cui Yan",
+      "Xie Keliang",
+      "Chen Hongguang",
+      "Yu Yonghao"
+    ],
+    "journal": "Journal of neurochemistry",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/39902645/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39902645/",
+    "source": "pubmed",
+    "keyword": "mitochondrial transfer",
+    "group": "ミトコンドリア移植",
+    "ai_summary": "Sepsis-associated encephalopathy (SAE) is a brain dysfunction for which no effective therapy currently exists. Recent studies suggest that transferring mitochondria from astrocytes to neurons may bene",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1016/bs.mcb.2024.05.001",
+    "pmid": "40058954",
+    "title": "Labeling of mitochondria for detection of intercellular mitochondrial transfer.",
+    "abstract": "The phenomenon of intercellular transfer of mitochondria has been reported and has attracted significant interest in recent years. The phenomena involve a range of physiological and pathological conditions, such as tumor growth, immunoregulation, and tissue regeneration. There is speculation on the potential restoration of cellular energy status through the transfer of healthy mitochondria from donor cells to cells with impaired mitochondria. Multiple mechanisms and routes of mitochondria transfer have been suggested, including direct cell-to-cell connections, extracellular vesicles, and cell fusion. However, there is limited understanding regarding the precise mechanisms behind mitochondrial transfer, particularly the initiation signals and the associated processes. In order to explore these fundamental mechanisms of mitochondrial transfer, it is imperative to employ techniques that enable direct labeling of mitochondria. Here, we present a detailed methodology utilizing fluorescent protein tagging to visualize mitochondria. The molecular biological techniques applied in this study entail the precise localization of mitochondria with reduced cytotoxicity. This approach facilitates the direct observation of transferred mitochondria through fluorescent and confocal microscopy. The described method can be readily implemented in other mammalian cell types with few modifications, enabling the continuous monitoring of mitochondrial trafficking processes over an extended period.",
+    "year": 2025,
+    "authors": [
+      "Taiko Isamu",
+      "Takano Chika",
+      "Hayashida Shingo",
+      "Kanemaru Kazunori",
+      "Miki Toshio"
+    ],
+    "journal": "Methods in cell biology",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/40058954/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40058954/",
+    "source": "pubmed",
+    "keyword": "mitochondrial transfer",
+    "group": "ミトコンドリア移植",
+    "ai_summary": "The phenomenon of intercellular transfer of mitochondria has been reported and has attracted significant interest in recent years. The phenomena involve a range of physiological and pathological condi",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1016/j.rdc.2019.04.010",
+    "pmid": "31277753",
+    "title": "Should Platelet-Rich Plasma or Stem Cell Therapy Be Used to Treat Osteoarthritis?",
+    "abstract": "Osteoarthritis is the most common form of arthritis and unfortunately lacks disease-modifying treatments. This has led to a growing demand for more effective nonoperative treatment options. Platelet-rich plasma and mesenchymal stem cell therapy offer the potential to modify the natural course of knee osteoarthritis using cell-based technology. Because of the lack of high-quality evidence and the large degree of heterogeneity, in terms of study designs and measured outcomes, the use of platelet-rich plasma or mesenchymal stem cell therapy to treat knee osteoarthritis cannot be recommended at this time.",
+    "year": 2019,
+    "authors": [
+      "Rashid Hani",
+      "Kwoh C Kent"
+    ],
+    "journal": "Rheumatic diseases clinics of North America",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/31277753/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/31277753/",
+    "source": "pubmed",
+    "keyword": "platelet-rich plasma",
+    "group": "PRP",
+    "ai_summary": "Osteoarthritis is the most common form of arthritis and unfortunately lacks disease-modifying treatments. This has led to a growing demand for more effective nonoperative treatment options. Platelet-r",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.2217/rme-2019-0102",
+    "pmid": "31960759",
+    "title": "Platelet-rich plasma for the treatment of coccydynia: a case report and review of regenerative medicine for coccydynia.",
+    "abstract": "Aim: To describe the successful treatment of coccydynia using ultrasound-guided injection of platelet-rich plasma. Setting: Outpatient orthopedic practice. Patient: 17-year-old female with BMI of 42.6. Case description: The patient presented with 6 months of nontraumatic coccygeal pain exacerbated by sitting. Physical exam was significant for point-tenderness over the sacral hiatus and coccyx. A corticosteroid injection around the sacrococcygeal ligament was administered with immediate resolution of her pain following the injection with the anesthetic. The patient reported significant pain relief for 1 week. The superficial sacrococcygeal ligament was then treated with a platelet-rich plasma injection under US guidance. Results: The patient reported a 70% improvement in pain and sitting tolerance at 6 weeks. By 6 months post injection, her pain was 100% resolved, and she remained pain free at the 12-month follow-up. Conclusion: Platelet-rich plasma may be considered as a treatment option in patients with refractory coccydynia.",
+    "year": 2019,
+    "authors": [
+      "Sussman Walter I",
+      "Jerome Mairin A",
+      "Foster Lisa"
+    ],
+    "journal": "Regenerative medicine",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/31960759/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/31960759/",
+    "source": "pubmed",
+    "keyword": "platelet-rich plasma",
+    "group": "PRP",
+    "ai_summary": "Aim: To describe the successful treatment of coccydynia using ultrasound-guided injection of platelet-rich plasma. Setting: Outpatient orthopedic practice. Patient: 17-year-old female with BMI of 42.6",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.5534/wjmh.250421",
+    "pmid": "42533481",
+    "title": "Global Andrology Forum Position Statements on Regenerative Therapies for Erectile Dysfunction.",
+    "abstract": "Phosphodiesterase type 5 inhibitors (PDE5i) are widely used to treat erectile dysfunction (ED). However, a subset of men does not respond to these agents or seek restoration of natural erections. Regenerative therapies (RT), including low-intensity shock wave therapy (LiSWT), platelet-rich plasma (PRP) therapy, and stem cell therapy (SCT), have emerged as potential alternative treatment options. This article reviews the available evidence and presents the Global Andrology Forum (GAF) graded statements and recommendations for the use of RT in ED.",
+    "year": 2026,
+    "authors": [
+      "Hamoda Taha",
+      "Çayan Selahittin",
+      "Al Hashimi Manaf",
+      "Chung Eric",
+      "Ragab Maged",
+      "Raheem Omer",
+      "Mostafa Taymour",
+      "Tsujimura Akira",
+      "Toprak Tuncay",
+      "Pinggera Germar-Michael",
+      "Falcone Marco",
+      "Nguyen Manh Truong",
+      "Le Tan V",
+      "Hegde Abheesh Varma",
+      "Martinez Marlon Pedrozo",
+      "Böcü Kadir",
+      "Arafa Mohamed",
+      "Kosgi Raghavender",
+      "Boeri Luca",
+      "Elbardisi Haitham",
+      "Shatylko Taras",
+      "Konstantinidis Charalampos",
+      "Alipour Hiva",
+      "Shah Rupin",
+      "Agarwal Ashok"
+    ],
+    "journal": "The world journal of men's health",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/42533481/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42533481/",
+    "source": "pubmed",
+    "keyword": "trending",
+    "is_trending": true,
+    "ai_summary": "Phosphodiesterase type 5 inhibitors (PDE5i) are widely used to treat erectile dysfunction (ED). However, a subset of men does not respond to these agents or seek restoration of natural erections. Rege",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  }
+]
