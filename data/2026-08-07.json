@@ -1,0 +1,171 @@
+[
+  {
+    "doi": "10.1007/s10495-026-02370-7",
+    "pmid": "42387204",
+    "title": "Microglial tunneling nanotubes: an intercellular transfer facilitating mitochondrial dysfunction and neuroinflammation in experimental cerebral malaria.",
+    "abstract": "Cerebral malaria (CM), the most severe neurological manifestation of Plasmodium infection, is characterized by microglial activation that plays a pivotal role in initiating pathogenic neuroinflammatory cascades. Tunneling nanotubes (TNTs) are dynamic F-actin-based intercellular connections which transfer mitochondria and pathogenic factors. Although TNTs have been implicated in various neuropathological conditions, their precise involvement in CM pathogenesis, particularly in relation to microglial activation, remains undefined. In this study, single-cell RNA-sequencing (scRNA-seq) revealed significant dysregulation of TNT-associated genes and actin cytoskeleton pathway remodeling in microglia of ECM model. In vitro studies demonstrated that Plasmodium-infected red blood cells (pRBCs)-stimulated primary microglia formed extensive F-actin-rich tunneling nanotubes, which mediated the bidirectional transfer for mitochondria and facilitated intercellular trafficking of lysosomal contents and malarial pigment. These TNT-mediated intercellular communication amplified microglial activation, as evidenced by: (i) lipid peroxidation, (ii) mitochondrial dysfunction, and (iii) autophagosome (LC3+) accumulation. This process further amplifies neuroinflammation through TNFα/IL-6 secretion and expansion of CD45high microglial populations. Pharmacological TNT inhibition restores microglial homeostasis in ECM model. In conclusion, TNTs mediate neuroinflammation in the ECM model by transferring mitochondria and malarial pigment between microglia. Although mitochondrial transfer may transiently support cellular homeostasis, progressive malarial pigment accumulation triggers lipid metabolism dysregulation and amplified neuroinflammation. Inhibiting TNTs formation attenuates microglial hyperactivation, highlighting targeted regulation of TNT-mediated intercellular communication as a potential therapeutic approach for CM-associated neuropathology.",
+    "year": 2026,
+    "authors": [
+      "Shen Yan",
+      "Wang Yi",
+      "Yang Chao",
+      "Wang Jun",
+      "Huang Yuxiao",
+      "Zhu Qinghao",
+      "Li Ganze",
+      "Li Tong",
+      "Sun Jiayi",
+      "Ren Jie",
+      "Chen Xiaolin",
+      "Xing Shuhan",
+      "Wen Sijia",
+      "Li Yinghui",
+      "Liang Jiao",
+      "Zhao Ya"
+    ],
+    "journal": "Apoptosis : an international journal on programmed cell death",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/42387204/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42387204/",
+    "source": "pubmed",
+    "keyword": "mitochondrial transfer",
+    "group": "ミトコンドリア移植",
+    "ai_summary": "Cerebral malaria (CM), the most severe neurological manifestation of Plasmodium infection, is characterized by microglial activation that plays a pivotal role in initiating pathogenic neuroinflammator",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1038/s41467-026-73136-7",
+    "pmid": "42140967",
+    "title": "α-Synuclein aggregates induce mitochondrial damage and trigger innate immunity to drive neuron-microglia communication.",
+    "abstract": "Tunneling nanotubes (TNTs) enable direct intercellular transfer of macromolecules, organelles, and pathogenic protein aggregates. While α-synuclein (α-Syn) aggregates are known to promote TNT formation, the underlying mechanisms remain poorly defined. Here, using human neuronal and microglial cell lines, as well as iPSC-derived dopaminergic neurons and microglia, we show that α-Syn aggregates induce severe mitochondrial damage, leading to cytosolic release of mitochondrial DNA (mtDNA) and activation of the cGAS-STING-NF-κB-IRF3 pathway. This innate immune response drives actin cytoskeleton remodeling and the formation of TNT-like structures, promoting intercellular transfer of α-Syn from neurons to microglia. Additionally, neuronal cells transfer damaged mitochondria to microglia, where they undergo lysosome-mediated degradation. Neuron-to-microglia communication under α-Syn-induced stress also triggers a bystander inflammatory response in microglia, suggesting a neuroimmune activation. Our findings identify mitochondrial damage and STING-mediated inflammation as key drivers of TNT formation and α-Syn propagation, highlighting potential targets to modulate disease progression in Synucleinopathies.",
+    "year": 2026,
+    "authors": [
+      "Chakraborty Ranabir",
+      "Maya Stephanie",
+      "Testa Veronica",
+      "Montero-Muñoz Jara",
+      "Nonaka Takashi",
+      "Hasegawa Masato",
+      "Consiglio Antonella",
+      "Zurzolo Chiara"
+    ],
+    "journal": "Nature communications",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/42140967/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42140967/",
+    "source": "pubmed",
+    "keyword": "intercellular mitochondria transfer",
+    "group": "ミトコンドリア移植",
+    "ai_summary": "Tunneling nanotubes (TNTs) enable direct intercellular transfer of macromolecules, organelles, and pathogenic protein aggregates. While α-synuclein (α-Syn) aggregates are known to promote TNT formatio",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1093/burnst/tkaa028",
+    "pmid": "32821743",
+    "title": "Platelet-rich plasma accelerates skin wound healing by promoting re-epithelialization",
+    "abstract": "",
+    "year": 2020,
+    "authors": [
+      "P. Xu",
+      "Yaguang Wu",
+      "Lina Zhou",
+      "Zengjun Yang",
+      "Xiao-rong Zhang",
+      "Xiaohong Hu",
+      "Jiacai Yang",
+      "Mingying Wang",
+      "Binjie Wang",
+      "G. Luo",
+      "Weifeng He",
+      "B. Cheng"
+    ],
+    "journal": "Burns & Trauma",
+    "citation_count": 179,
+    "open_access_url": "https://academic.oup.com/burnstrauma/article-pdf/doi/10.1093/burnst/tkaa028/33651389/tkaa028.pdf",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/32821743/",
+    "semantic_url": "https://www.semanticscholar.org/paper/44ccf3b7023851f20738d758b2882e75ccba6c44",
+    "source": "semantic_scholar",
+    "keyword": "platelet-rich plasma",
+    "group": "PRP",
+    "ai_summary": "",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1186/s12929-017-0324-1",
+    "pmid": "28241824",
+    "title": "Treatment of chronic non-healing ulcers using autologous platelet rich plasma: a case series",
+    "abstract": "",
+    "year": 2017,
+    "authors": [
+      "Manish Suthar",
+      "Saniya Gupta",
+      "S. Bukhari",
+      "Venkatesh Ponemone"
+    ],
+    "journal": "Journal of Biomedical Sciences",
+    "citation_count": 245,
+    "open_access_url": "https://jbiomedsci.biomedcentral.com/track/pdf/10.1186/s12929-017-0324-1",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/28241824/",
+    "semantic_url": "https://www.semanticscholar.org/paper/8ddd95c7e3c80b10f21cd94733e7cf0181d36238",
+    "source": "semantic_scholar",
+    "keyword": "platelet-rich plasma",
+    "group": "PRP",
+    "ai_summary": "",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1007/s10006-026-01613-w",
+    "pmid": "42566042",
+    "title": "The use of biologic adjuncts in tooth autotransplantation: a scoping review.",
+    "abstract": "To summarize the available clinical evidence on biological adjuncts in tooth autotransplantation, including adjunct types, application protocols, procedural variables, reported outcomes, and evidence gaps.",
+    "year": 2026,
+    "authors": [
+      "Vargas-Quiroga Edgar Daniel",
+      "Pattigno-Forero Brenda Carolina",
+      "Firmino Ana Carolina Duarte",
+      "Sávio Débora S F",
+      "Freiria de Oliveira Carolina Alves",
+      "Faustino Isabel Schausltz Pereira",
+      "Novaes Arthur Belém"
+    ],
+    "journal": "Oral and maxillofacial surgery",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/42566042/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42566042/",
+    "source": "pubmed",
+    "keyword": "trending",
+    "is_trending": true,
+    "ai_summary": "To summarize the available clinical evidence on biological adjuncts in tooth autotransplantation, including adjunct types, application protocols, procedural variables, reported outcomes, and evidence ",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  }
+]
