@@ -1,0 +1,150 @@
+[
+  {
+    "doi": "10.1073/pnas.2417252121",
+    "pmid": "39752523",
+    "title": "Mitochondrial DNA lineages determine tumor progression through T cell reactive oxygen signaling.",
+    "abstract": "Mitochondrial DNA (mtDNA) is highly polymorphic, and host mtDNA variation has been associated with altered cancer severity. To determine the basis of this mtDNA-cancer association, we analyzed conplastic mice with the C57BL/6J (B6) nucleus but two naturally occurring mtDNA lineages, mtDNAB6 and mtDNANZB, where mtDNANZB mitochondria generate more oxidative phosphorylation (OXPHOS)-derived reactive oxygen species (mROS). In a cardiac transplant model, mtDNAB6 Foxp3+ T regulatory (Treg) cells supported long-term allograft survival, whereas mtDNANZB Treg cells failed to suppress host T effector (Teff) cells, leading to acute rejection. When challenged with melanoma or colon cancer cells, the mtDNANZB mice exhibited strikingly impaired tumor growth while mtDNAB6 mice showed Treg-dependent inhibition of Teff cells and allowed rapid tumor growth. Transcriptional analysis showed that activation of mtDNANZB Teff cells increased mitochondrial gene expression while activation of mtDNANZB Treg cells impaired mitochondrial gene expression and resulted in mtDNANZB Treg cell exhaustion. Induction of the mitochondrially targeted catalytic antioxidant, mCAT, in hematopoietic cells normalized mtDNANZB Treg function in both transplant and tumor models, indicating a key role for mROS in promoting Treg dysfunction. Anti-PD-L1 therapy did not modulate these effects, indicating that modulation of host mitochondrial function provides an independent approach for enhancing tumor cell destruction.",
+    "year": 2025,
+    "authors": [
+      "Yardeni Tal",
+      "Olali Arnold Z",
+      "Chen Hsiao-Wen",
+      "Wang Liqing",
+      "Haltom Jeffrey A",
+      "Zenab Angi",
+      "Morrow Ryan",
+      "Butic Arrienne",
+      "Murdock Deborah G",
+      "Waymire Katrina G",
+      "MacGregor Grant R",
+      "Boursi Ben",
+      "Beier Ulf H",
+      "Hancock Wayne W",
+      "Wallace Douglas C"
+    ],
+    "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/39752523/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39752523/",
+    "source": "pubmed",
+    "keyword": "mitochondrial transfer",
+    "group": "ミトコンドリア移植",
+    "ai_summary": "Mitochondrial DNA (mtDNA) is highly polymorphic, and host mtDNA variation has been associated with altered cancer severity. To determine the basis of this mtDNA-cancer association, we analyzed conplas",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1016/j.ymthe.2024.12.047",
+    "pmid": "39741406",
+    "title": "Autologous transplantation of mitochondria/rAAV IGF-I platforms in human osteoarthritic articular chondrocytes to treat osteoarthritis.",
+    "abstract": "Despite various available treatments, highly prevalent osteoarthritis (OA) cannot be cured in patients. In light of evidence showing mitochondria dysfunction during the disease progression, our goal was to develop a novel therapeutic concept based on the transplantation of mitochondria as a platform to deliver recombinant adeno-associated virus (rAAV) gene vectors with potency for OA. For the first time, to our best knowledge, we report the successful creation of a safe mitochondria/rAAV system effectively promoting the overexpression of a candidate insulin-like growth factor I (IGF-I) by administration to autologous human osteoarthritic articular chondrocytes versus control conditions (reporter mitochondria/rAAV lacZ system, rAAV-free system, absence of mitochondria transplantation; up to 8.4-fold difference). The candidate mitochondria/rAAV IGF-I system significantly improved key activities in the transplanted cells (proliferation/survival, extracellular matrix production, mitochondria functions) relative to the control conditions (up to a 9.5-fold difference), including when provided in a pluronic F127 (PF127) hydrogel for reinforced delivery (up to a 5.9-fold difference). Such effects were accompanied by increased levels of cartilage-specific SOX9 and Mfn-1 (mitochondria fusion) and decreased levels of Drp-1 (mitochondria fission) and proinflammatory tumor necrosis factor alpha (TNF-α; up to 4.5-fold difference). This study shows the potential of combining the use of mitochondria with rAAV as a promising approach for human OA.",
+    "year": 2025,
+    "authors": [
+      "Zhong Gang",
+      "Liu Wei",
+      "Venkatesan Jagadeesh K",
+      "Wang Dan",
+      "Madry Henning",
+      "Cucchiarini Magali"
+    ],
+    "journal": "Molecular therapy : the journal of the American Society of Gene Therapy",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/39741406/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/39741406/",
+    "source": "pubmed",
+    "keyword": "mitochondria transplantation",
+    "group": "ミトコンドリア移植",
+    "ai_summary": "Despite various available treatments, highly prevalent osteoarthritis (OA) cannot be cured in patients. In light of evidence showing mitochondria dysfunction during the disease progression, our goal w",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1016/j.rx.2018.08.006",
+    "pmid": "30274850",
+    "title": "Platelet-rich plasma: myth or reality?",
+    "abstract": "Platelet-rich plasma (PRP) is a preparation for therapeutic purposes that is increasingly accepted for various musculoskeletal disorders, due to its theoretical potential to repair tissues with poor healing capacity. Several randomised clinical trials have investigated the capacity of PRP to repair tendons, ligaments, muscles and cartilage, and to date there is level 1a evidence to support its use for lateral epicondylitis, osteoarthritis of the knee, plantar fasciitis and rotator cuff tendinopathy; and level 1b for patellar tendinopathy and osteoarthritis of the hip. Retrospective cohort studies and case series describe promising results with PRP for treating other musculoskeletal disorders. Since its side effects are fewer than those of the control groups, the treatment is considered practically harmless and is being increasingly used. Further randomised clinical trials are necessary to establish future indications, and to confirm effectiveness and safety.",
+    "year": 2018,
+    "authors": [
+      "Martínez-Martínez A",
+      "Ruiz-Santiago F",
+      "García-Espinosa J"
+    ],
+    "journal": "Radiologia",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/30274850/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/30274850/",
+    "source": "pubmed",
+    "keyword": "platelet-rich plasma",
+    "group": "PRP",
+    "ai_summary": "Platelet-rich plasma (PRP) is a preparation for therapeutic purposes that is increasingly accepted for various musculoskeletal disorders, due to its theoretical potential to repair tissues with poor h",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1007/s11684-017-0551-6",
+    "pmid": "29058255",
+    "title": "Platelet-rich plasma: combinational treatment modalities for musculoskeletal conditions.",
+    "abstract": "Current research on common musculoskeletal problems, including osteoarticular conditions, tendinopathies, and muscle injuries, focuses on regenerative translational medicine. Platelet-rich plasma therapies have emerged as a potential approach to enhance tissue repair and regeneration. Platelet-rich plasma application aims to provide supraphysiological concentrations of platelets and optionally leukocytes at injured/pathological tissues mimicking the initial stages of healing. However, the efficacy of platelet-rich plasma is controversial in chronic diseases because patients' outcomes show partial improvements. Platelet-rich plasma can be customized to specific conditions by selecting the most appropriate formulation and timing for application or by combining platelet-rich plasma with synergistic or complementary treatments. To achieve this goal, researchers should identify and enhance the main mechanisms of healing. In this review, the interactions between platelet-rich plasma and healing mechanisms were addressed and research opportunities for customized treatment modalities were outlined. The development of combinational platelet-rich plasma treatments that can be used safely and effectively to manipulate healing mechanisms would be valuable and would provide insights into the processes involved in physiological healing and pathological failure.",
+    "year": 2018,
+    "authors": [
+      "Andia Isabel",
+      "Abate Michele"
+    ],
+    "journal": "Frontiers of medicine",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/29058255/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/29058255/",
+    "source": "pubmed",
+    "keyword": "platelet-rich plasma",
+    "group": "PRP",
+    "ai_summary": "Current research on common musculoskeletal problems, including osteoarticular conditions, tendinopathies, and muscle injuries, focuses on regenerative translational medicine. Platelet-rich plasma ther",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.7759/cureus.112350",
+    "pmid": "42571583",
+    "title": "Maximising and Maintaining Fertility in Suspected or Confirmed Endometriosis: A Structured Narrative Review for Clinical Practice.",
+    "abstract": "Endometriosis affects a substantial proportion of women of reproductive age and is a common, often under-recognised contributor to subfertility. Its effects on fertility are multifactorial, and both the disease and its treatment, particularly ovarian surgery, can reduce ovarian reserve. Clinicians are frequently required to balance pain control, restoration of anatomy, assisted reproduction, and the protection of future fertility, often with imperfect evidence. The objective of this review was to synthesise current evidence and guideline recommendations on the interventions and care pathways that most effectively maximise the chance of pregnancy while minimising avoidable loss of ovarian reserve for women who are trying to conceive and those wishing to preserve future fertility. We searched PubMed/MEDLINE (Medical Literature Analysis and Retrieval System Online), the Cochrane Library and, where accessible, Embase and Scopus, from January 2010 to June 2026, supplemented by landmark earlier trials and by guidelines from the European Society of Human Reproduction and Embryology (ESHRE), National Institute for Health and Care Excellence (NICE), and American Society for Reproductive Medicine (ASRM). Clinical guidelines, systematic reviews, meta-analyses, randomised controlled trials and large prospective cohort studies addressing endometriosis, ovarian reserve, endometrioma surgery, assisted reproduction and fertility preservation were prioritised. This was a structured narrative review and not a systematic review; no formal risk-of-bias scoring or quantitative meta-analysis was undertaken. Age, ovarian reserve, and duration of infertility are the dominant prognostic factors and should drive timing. Excisional surgery for minimal-to-mild disease produces a modest absolute increase in spontaneous conception, whereas ovarian endometrioma cystectomy consistently lowers anti-Müllerian hormone and is the principal iatrogenic threat to ovarian reserve. Assisted reproduction outcomes in women with endometrioma are broadly comparable to those without, and surgery before in vitro fertilisation does not reliably improve live birth; routine cystectomy before treatment is therefore not supported. Medical hormonal therapy controls pain and reduces recurrence, but suppresses ovulation and is not a fertility treatment during attempts to conceive. Oocyte and embryo cryopreservation are reasonable options before bilateral or repeat ovarian surgery and for women delaying conception, but success is age-dependent and not guaranteed. Emerging or investigational approaches-oral gonadotrophin-releasing hormone antagonists, reserve-sparing ethanol sclerotherapy of endometrioma, the Endometriosis Fertility Index as a counselling tool, intraovarian platelet-rich plasma and artificial-intelligence-assisted imaging-are reviewed with appropriate caution. Fertility should be discussed early, at suspicion, not only at confirmation. An individualised pathway that protects ovarian reserve, avoids unnecessary or repeated ovarian surgery, integrates assisted reproduction without delay in higher-risk women, and offers timely fertility preservation is most likely to maximise reproductive outcomes. Access inequities make pragmatic, resource-sensitive pathways a global priority.",
+    "year": 2026,
+    "authors": [
+      "Nandi Mouli",
+      "Mondal Rana"
+    ],
+    "journal": "Cureus",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/42571583/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42571583/",
+    "source": "pubmed",
+    "keyword": "trending",
+    "is_trending": true,
+    "ai_summary": "Endometriosis affects a substantial proportion of women of reproductive age and is a common, often under-recognised contributor to subfertility. Its effects on fertility are multifactorial, and both t",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  }
+]
