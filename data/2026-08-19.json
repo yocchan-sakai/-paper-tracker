@@ -1,0 +1,148 @@
+[
+  {
+    "doi": "10.1111/cas.70342",
+    "pmid": "41684271",
+    "title": "Mitochondrial Transfer in the Tumor Microenvironment.",
+    "abstract": "Mitochondria are not merely energy-producing organelles but also regulate metabolism, apoptosis, and inflammation. Recent studies have reported that mitochondria can be transferred between cells, and accumulating evidence suggests that this phenomenon is functionally relevant in the tumor context. Mitochondrial transfer is mediated by multiple routes such as tunneling nanotubes and extracellular vesicles. These pathways are regulated by Miro1/2, connexin 43, ICAM-1, VCAM-1, and intracellular reactive oxygen species. Within the tumor microenvironment, mitochondrial transfer from surrounding cells to tumor cells may serve as a mechanism by which tumor cells adapt to hostile metabolic conditions and evade therapeutic pressure. Furthermore, mitochondrial transfer from tumor cells to T cells in the tumor microenvironment reportedly impairs antitumor immunity. Based on these findings, novel therapeutic strategies targeting mitochondrial transfer are under investigation. Future challenges include the development of specific and safe methods to manipulate mitochondrial transfer in vivo. Understanding mitochondrial transfer and its regulation may offer new avenues to overcome resistance and improve cancer outcomes.",
+    "year": 2026,
+    "authors": [
+      "Omae Ryo",
+      "Ishino Takamasa",
+      "Togashi Yosuke"
+    ],
+    "journal": "Cancer science",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/41684271/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41684271/",
+    "source": "pubmed",
+    "keyword": "mitochondrial transfer",
+    "group": "ミトコンドリア移植",
+    "ai_summary": "Mitochondria are not merely energy-producing organelles but also regulate metabolism, apoptosis, and inflammation. Recent studies have reported that mitochondria can be transferred between cells, and ",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1161/CIRCRESAHA.125.326984",
+    "pmid": "41955327",
+    "title": "Mitochondrial Transfer: From Bench to Bedside.",
+    "abstract": "Intercellular mitochondrial transfer has emerged as a fundamental mechanism of tissue adaptation and repair in the cardiovascular system, with major implications for cardiovascular, neurological, metabolic, and inflammatory diseases. Once thought to be static, mitochondria are now recognized as mobile organelles that move between cells via tunneling nanotubes, extracellular vesicles, and free mitochondria. These pathways support 2 complementary axes of mitochondrial communication: Rescue by Replenish, in which healthy mitochondria or mitochondrial components restore bioenergetics and stress resistance in recipient cells, and Relief by Release, in which damaged mitochondria are exported for degradation to preserve homeostasis and limit inflammation. We summarize the molecular machinery governing tunneling nanotube formation, mitochondria-derived vesicle biogenesis, extracellular vesicle sorting, and free mitochondrial release and uptake, and discuss how these processes shape organ function. Building on these mechanistic insights, we outline 4 translational strategies: (1) cell-based therapies that donate healthy mitochondria or scavenge damaged ones; cell-free approaches using (2) mitochondria-containing extracellular vesicles or (3) purified mitochondria; (4) pharmacological, nutritional, and lifestyle interventions that augment endogenous mitochondrial turnover and intercellular exchange. Finally, we discuss key barriers to clinical translation, including inflammatory and oncogenic risks, mitonuclear incompatibility, incomplete understanding of the fate and durability of transferred mitochondria, and the lack of standardized manufacturing, potency assays, and long-term storage methods. Continued integration of mechanistic biology with bioengineering and regulatory science will be essential to safely move mitochondrial transfer-based therapies from bench to bedside in cardiovascular medicine.",
+    "year": 2026,
+    "authors": [
+      "Ikeda Gentaro",
+      "Li Jiwen",
+      "Wang Alyssa",
+      "Paleru Amogha Medha",
+      "Yang Phillip C"
+    ],
+    "journal": "Circulation research",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/41955327/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41955327/",
+    "source": "pubmed",
+    "keyword": "mitochondrial transfer",
+    "group": "ミトコンドリア移植",
+    "ai_summary": "Intercellular mitochondrial transfer has emerged as a fundamental mechanism of tissue adaptation and repair in the cardiovascular system, with major implications for cardiovascular, neurological, meta",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1016/j.actbio.2025.07.050",
+    "pmid": "40712724",
+    "title": "Platelet-rich plasma - A comprehensive review of isolation, activation, and application.",
+    "abstract": "Platelets and platelet enriched products have been widely studied for their roles in promoting cell proliferation, migration, and tissue regeneration, making them highly interesting for clinical applications such as traumatology, dental, orthopaedic, and plastic surgery. However, their clinical adoption remains limited, partly due to fragmented and inconsistent data. Previous reviews have explored various applications of PRP therapies, but no comprehensive work has systematically mapped their processing methods, treatment modalities, and applications alongside clinical outcomes. This review thus aims to provide a thorough analysis of platelet-rich products, including platelet-rich plasma and platelet lysate, critically assessing their therapeutic potential. Variability in factors such as platelet and leukocyte content, red blood cell contamination, and activation methods complicates the clinical implementation and standardization of platelet-rich products. Herein, we examine platelet structure, function, and growth factors (e.g., PDGF, VEGF, and TGF-β) essential for tissue repair and regeneration, alongside manufacturing processes and isolation techniques impacting product quality. Additionally, we explore platelet recovery, activation strategies (chemical, physical, enzymatic), application forms, patient-related variables, and the immune-modulatory roles of platelets in inflammation, wound healing, and immune response regulation. Our findings highlight the urgent need for standardized protocols to improve consistency and efficacy of platelet-derived products, providing a framework to guide readers in selecting adequate procedures for specific clinical indications or research applications. STATEMENT OF SIGNIFICANCE: Platelet-rich plasma (PRP) has gained widespread attention for its regenerative potential, but its clinical outcomes remain inconsistent due to variability in preparation and application methods. This comprehensive review critically synthesizes the full PRP pipeline-from donor selection and processing to activation strategies and delivery modalities-highlighting key sources of heterogeneity. By integrating current evidence across disciplines, we provide a unified framework for optimizing PRP use in musculoskeletal repair and beyond. This work addresses a major knowledge gap and offers a timely resource for clinicians and researchers aiming to harness PRP more effectively.",
+    "year": 2025,
+    "authors": [
+      "Rath Matthias",
+      "Spinnen Jacob",
+      "Kuhrt Leonard D",
+      "Priglinger Eleni",
+      "Seika Philippa",
+      "Runge Domenique",
+      "Schubring Stephan",
+      "Laue Dominik",
+      "Wickert Maryam",
+      "Erdem Mehmet",
+      "Ertel Wolfgang",
+      "Shopperly Lennard K"
+    ],
+    "journal": "Acta biomaterialia",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/40712724/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40712724/",
+    "source": "pubmed",
+    "keyword": "platelet-rich plasma",
+    "group": "PRP",
+    "ai_summary": "Platelets and platelet enriched products have been widely studied for their roles in promoting cell proliferation, migration, and tissue regeneration, making them highly interesting for clinical appli",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1016/j.enfcle.2025.502161",
+    "pmid": "40118148",
+    "title": "Efficacy of platelet-rich plasma in facial rejuvenation: A systematic review.",
+    "abstract": "To evaluate the effects of Platelet-Rich Plasma (PRP) in facial rejuvenation.",
+    "year": 2025,
+    "authors": [
+      "Rodríguez-Castro María José",
+      "Cortés-Rodríguez Alda Elena"
+    ],
+    "journal": "Enfermeria clinica",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/40118148/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40118148/",
+    "source": "pubmed",
+    "keyword": "platelet-rich plasma",
+    "group": "PRP",
+    "ai_summary": "To evaluate the effects of Platelet-Rich Plasma (PRP) in facial rejuvenation.",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1177/19386400261472524",
+    "pmid": "42615463",
+    "title": "Which Injectable Technology Is Best in the Non-surgical Management of Ankle Osteoarthritis: A Systematic Review.",
+    "abstract": "ObjectiveTo compare the efficacy and safety of different intra-articular injections in the non-surgical management of ankle osteoarthritis (AOA) in adults.MethodsCINAHL, Medline, PubMed, Embase, and the Cochrane Library were used as our databases from conception to May 2025 using the following string ((Ankle joint) AND (osteoarthritis)) AND (injection OR injectable technology OR intraarticular injection OR stem cell OR MSC OR mesenchymal STEM cell OR PRP OR corticosteroid OR botulinum toxin A) searching for randomized control trials which were manually screened for eligibility and then risk of bias. Eight studies were included, 4 placebo trials (3 comparing hyaluronic acid (HA) with saline, 1 comparing platelet-rich plasma (PRP) with saline) and 4 randomized comparative trials (comparing differing HA regimens, HA with exercise, botulinum toxin type-A (BoNT-A) with exercise + HA and corticosteroids (CS) with CS + HA, respectively).ResultsHA seems to be an effective form of management for AOA, either alone as multiple small doses or combined with either CS or exercise therapy. BoNT-A also seems effective (compared with the current recommended treatment); however, PRP and CS alone do not have any evidence of being effective.ConclusionHA seems to be the most effective in managing AOA symptoms. However, this could not be very objective due to how little research there is on the other forms of injectable technologies.Level of Evidence:Level II: Systematic review of all relevant RCTs (of varying quality).",
+    "year": 2026,
+    "authors": [
+      "Bertwistle Jacob",
+      "Kafagi Abdul-Hadi",
+      "Mooteeram Justin",
+      "Pillai Anand"
+    ],
+    "journal": "Foot & ankle specialist",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/42615463/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42615463/",
+    "source": "pubmed",
+    "keyword": "trending",
+    "is_trending": true,
+    "ai_summary": "ObjectiveTo compare the efficacy and safety of different intra-articular injections in the non-surgical management of ankle osteoarthritis (AOA) in adults.MethodsCINAHL, Medline, PubMed, Embase, and t",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  }
+]
