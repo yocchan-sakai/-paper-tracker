@@ -1,0 +1,160 @@
+[
+  {
+    "doi": "10.1073/pnas.2512592123",
+    "pmid": "41642981",
+    "title": "Mitochondrial transfer in the HSC-HCC-macrophage network shapes hepatocellular carcinoma progression.",
+    "abstract": "Mitochondrial crosstalk between tumor cells and components of the tumor microenvironment (TME) is a critical yet underexplored mechanism driving hepatocellular carcinoma (HCC) progression. Here, we demonstrate that in HCC, mitochondria can be transferred from hepatic stellate cells to cancer cells via tunneling nanotubes (TNTs), supplying essential energy for tumor growth. Simultaneously, cancer cells offload damaged mitochondria to macrophages through extracellular vesicles (EVs), facilitating their clearance and promoting tumor development. To disrupt this mitochondrial exchange, we developed a responsive liposomal nanocarrier (L&G@LipoPPV) coencapsulating L-778123 and GW4869 to simultaneously inhibit TNT-mediated and vesicle-mediated mitochondrial transfer. This work provides the first comprehensive evidence of mitochondrial transfer dynamics in the TME, with tumor cells as the central hub, and highlights L&G@LipoPPV as an innovative and effective strategy to block mitochondrial crosstalk. Our findings address critical challenges of drug solubility and delivery, offering a rational approach to reprogram the TME and suppress liver cancer progression.",
+    "year": 2026,
+    "authors": [
+      "Zhang La",
+      "Ren Cong",
+      "He Miao",
+      "Chen Xinyu",
+      "Liu Hongqing",
+      "Liu Yilin",
+      "Luo Jing",
+      "Li Zhenghang",
+      "Wang Jianwei",
+      "Miao Wenjun",
+      "Peng Qiling",
+      "Jiang Ning"
+    ],
+    "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/41642981/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41642981/",
+    "source": "pubmed",
+    "keyword": "mitochondrial transfer",
+    "group": "ミトコンドリア移植",
+    "ai_summary": "Mitochondrial crosstalk between tumor cells and components of the tumor microenvironment (TME) is a critical yet underexplored mechanism driving hepatocellular carcinoma (HCC) progression. Here, we de",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1111/cas.70342",
+    "pmid": "41684271",
+    "title": "Mitochondrial Transfer in the Tumor Microenvironment.",
+    "abstract": "Mitochondria are not merely energy-producing organelles but also regulate metabolism, apoptosis, and inflammation. Recent studies have reported that mitochondria can be transferred between cells, and accumulating evidence suggests that this phenomenon is functionally relevant in the tumor context. Mitochondrial transfer is mediated by multiple routes such as tunneling nanotubes and extracellular vesicles. These pathways are regulated by Miro1/2, connexin 43, ICAM-1, VCAM-1, and intracellular reactive oxygen species. Within the tumor microenvironment, mitochondrial transfer from surrounding cells to tumor cells may serve as a mechanism by which tumor cells adapt to hostile metabolic conditions and evade therapeutic pressure. Furthermore, mitochondrial transfer from tumor cells to T cells in the tumor microenvironment reportedly impairs antitumor immunity. Based on these findings, novel therapeutic strategies targeting mitochondrial transfer are under investigation. Future challenges include the development of specific and safe methods to manipulate mitochondrial transfer in vivo. Understanding mitochondrial transfer and its regulation may offer new avenues to overcome resistance and improve cancer outcomes.",
+    "year": 2026,
+    "authors": [
+      "Omae Ryo",
+      "Ishino Takamasa",
+      "Togashi Yosuke"
+    ],
+    "journal": "Cancer science",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/41684271/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41684271/",
+    "source": "pubmed",
+    "keyword": "mitochondrial transfer",
+    "group": "ミトコンドリア移植",
+    "ai_summary": "Mitochondria are not merely energy-producing organelles but also regulate metabolism, apoptosis, and inflammation. Recent studies have reported that mitochondria can be transferred between cells, and ",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1016/j.actbio.2025.07.050",
+    "pmid": "40712724",
+    "title": "Platelet-rich plasma - A comprehensive review of isolation, activation, and application.",
+    "abstract": "Platelets and platelet enriched products have been widely studied for their roles in promoting cell proliferation, migration, and tissue regeneration, making them highly interesting for clinical applications such as traumatology, dental, orthopaedic, and plastic surgery. However, their clinical adoption remains limited, partly due to fragmented and inconsistent data. Previous reviews have explored various applications of PRP therapies, but no comprehensive work has systematically mapped their processing methods, treatment modalities, and applications alongside clinical outcomes. This review thus aims to provide a thorough analysis of platelet-rich products, including platelet-rich plasma and platelet lysate, critically assessing their therapeutic potential. Variability in factors such as platelet and leukocyte content, red blood cell contamination, and activation methods complicates the clinical implementation and standardization of platelet-rich products. Herein, we examine platelet structure, function, and growth factors (e.g., PDGF, VEGF, and TGF-β) essential for tissue repair and regeneration, alongside manufacturing processes and isolation techniques impacting product quality. Additionally, we explore platelet recovery, activation strategies (chemical, physical, enzymatic), application forms, patient-related variables, and the immune-modulatory roles of platelets in inflammation, wound healing, and immune response regulation. Our findings highlight the urgent need for standardized protocols to improve consistency and efficacy of platelet-derived products, providing a framework to guide readers in selecting adequate procedures for specific clinical indications or research applications. STATEMENT OF SIGNIFICANCE: Platelet-rich plasma (PRP) has gained widespread attention for its regenerative potential, but its clinical outcomes remain inconsistent due to variability in preparation and application methods. This comprehensive review critically synthesizes the full PRP pipeline-from donor selection and processing to activation strategies and delivery modalities-highlighting key sources of heterogeneity. By integrating current evidence across disciplines, we provide a unified framework for optimizing PRP use in musculoskeletal repair and beyond. This work addresses a major knowledge gap and offers a timely resource for clinicians and researchers aiming to harness PRP more effectively.",
+    "year": 2025,
+    "authors": [
+      "Rath Matthias",
+      "Spinnen Jacob",
+      "Kuhrt Leonard D",
+      "Priglinger Eleni",
+      "Seika Philippa",
+      "Runge Domenique",
+      "Schubring Stephan",
+      "Laue Dominik",
+      "Wickert Maryam",
+      "Erdem Mehmet",
+      "Ertel Wolfgang",
+      "Shopperly Lennard K"
+    ],
+    "journal": "Acta biomaterialia",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/40712724/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40712724/",
+    "source": "pubmed",
+    "keyword": "platelet-rich plasma",
+    "group": "PRP",
+    "ai_summary": "Platelets and platelet enriched products have been widely studied for their roles in promoting cell proliferation, migration, and tissue regeneration, making them highly interesting for clinical appli",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1016/j.enfcle.2025.502161",
+    "pmid": "40118148",
+    "title": "Efficacy of platelet-rich plasma in facial rejuvenation: A systematic review.",
+    "abstract": "To evaluate the effects of Platelet-Rich Plasma (PRP) in facial rejuvenation.",
+    "year": 2025,
+    "authors": [
+      "Rodríguez-Castro María José",
+      "Cortés-Rodríguez Alda Elena"
+    ],
+    "journal": "Enfermeria clinica",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/40118148/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40118148/",
+    "source": "pubmed",
+    "keyword": "platelet-rich plasma",
+    "group": "PRP",
+    "ai_summary": "To evaluate the effects of Platelet-Rich Plasma (PRP) in facial rejuvenation.",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1016/j.bioactmat.2026.08.004",
+    "pmid": "42620350",
+    "title": "A multifunctional DECM/PLMA hydrogel incorporated with engineered PRP-derived exosomes enabling PHD2 silencing for skin wound repair.",
+    "abstract": "Skin defect repair remains a formidable clinical challenge, characterized by persistent infection risk, compromised angiogenesis, and dysregulated inflammatory responses. Existing hydrogel-based wound dressings fail to simultaneously address structural integrity, antimicrobial efficacy, and spatiotemporal coordination of tissue regeneration. Here, we report the development of a multifunctional bioactive hydrogel system fabricated by integrating decellularized tendon extracellular matrix (DECM) with Poly-L-lysine Methacryloyl (PLMA), and further functionalized with engineered platelet-rich plasma exosomes (PRP-Exos) loaded with siRNA targeting prolyl hydroxylase domain protein 2 (PHD2) via electroporation. The inherent cationic nature of PLMA confers robust, broad-spectrum antibacterial activity, while the sustained release of siRNA-PHD2-laden PRP-Exos achieves efficient PHD2 silencing, thereby stabilizing hypoxia-inducible factor-1α (HIF-1α) and potentiating downstream pro-angiogenic signaling. Concurrently, bioactive cues released from the DECM-based matrix promote fibroblast-to-myofibroblast differentiation and type I collagen biosynthesis, fostering a regeneration-permissive microenvironment. In both normal and diabetic murine full-thickness skin defect models, DEPL@E-SI significantly accelerated wound closure by promoting angiogenesis, inflammation resolution, and extracellular matrix remodeling. These findings establish DEPL@E-SI as a promising therapeutic platform with translational potential for skin tissue engineering and clinical wound management.",
+    "year": 2027,
+    "authors": [
+      "Du Xiangyu",
+      "Li Danmei",
+      "He Hongpu",
+      "Yuan Guangxun",
+      "Liu Pengju",
+      "Ma Binbin",
+      "Yuan Chengjie",
+      "Zhang Yijun",
+      "Xu Jian"
+    ],
+    "journal": "Bioactive materials",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/42620350/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42620350/",
+    "source": "pubmed",
+    "keyword": "trending",
+    "is_trending": true,
+    "ai_summary": "Skin defect repair remains a formidable clinical challenge, characterized by persistent infection risk, compromised angiogenesis, and dysregulated inflammatory responses. Existing hydrogel-based wound",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  }
+]
