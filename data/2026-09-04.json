@@ -1,0 +1,154 @@
+[
+  {
+    "doi": "10.1038/s41586-023-06537-z",
+    "pmid": "37938702",
+    "title": "The power and potential of mitochondria transfer.",
+    "abstract": "Mitochondria are believed to have originated through an ancient endosymbiotic process in which proteobacteria were captured and co-opted for energy production and cellular metabolism. Mitochondria segregate during cell division and differentiation, with vertical inheritance of mitochondria and the mitochondrial DNA genome from parent to daughter cells. However, an emerging body of literature indicates that some cell types export their mitochondria for delivery to developmentally unrelated cell types, a process called intercellular mitochondria transfer. In this Review, we describe the mechanisms by which mitochondria are transferred between cells and discuss how intercellular mitochondria transfer regulates the physiology and function of various organ systems in health and disease. In particular, we discuss the role of mitochondria transfer in regulating cellular metabolism, cancer, the immune system, maintenance of tissue homeostasis, mitochondrial quality control, wound healing and adipose tissue function. We also highlight the potential of targeting intercellular mitochondria transfer as a therapeutic strategy to treat human diseases and augment cellular therapies.",
+    "year": 2023,
+    "authors": [
+      "Borcherding Nicholas",
+      "Brestoff Jonathan R"
+    ],
+    "journal": "Nature",
+    "citation_count": 462,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/37938702/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/37938702/",
+    "source": "pubmed",
+    "keyword": "mitochondrial transfer",
+    "group": "ミトコンドリア移植",
+    "semantic_url": "https://www.semanticscholar.org/paper/b40ea5960955c2ad2a56493afdec0cdf8caaed16",
+    "ai_summary": "Mitochondria are believed to have originated through an ancient endosymbiotic process in which proteobacteria were captured and co-opted for energy production and cellular metabolism. Mitochondria seg",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1038/s41392-020-00440-z",
+    "pmid": "33589598",
+    "title": "Intercellular mitochondrial transfer as a means of tissue revitalization.",
+    "abstract": "As the crucial powerhouse for cell metabolism and tissue survival, the mitochondrion frequently undergoes morphological or positional changes when responding to various stresses and energy demands. In addition to intracellular changes, mitochondria can also be transferred intercellularly. Besides restoring stressed cells and damaged tissues due to mitochondrial dysfunction, the intercellular mitochondrial transfer also occurs under physiological conditions. In this review, the phenomenon of mitochondrial transfer is described according to its function under both physiological and pathological conditions, including tissue homeostasis, damaged tissue repair, tumor progression, and immunoregulation. Then, the mechanisms that contribute to this process are summarized, such as the trigger factors and transfer routes. Furthermore, various perspectives are explored to better understand the mysteries of cell-cell mitochondrial trafficking. In addition, potential therapeutic strategies for mitochondria-targeted application to rescue tissue damage and degeneration, as well as the inhibition of tumor progression, are discussed.",
+    "year": 2021,
+    "authors": [
+      "Liu Delin",
+      "Gao Youshui",
+      "Liu Jiao",
+      "Huang Yigang",
+      "Yin Junhui",
+      "Feng Yuyao",
+      "Shi Linjing",
+      "Meloni Bruno P",
+      "Zhang Changqing",
+      "Zheng Minghao",
+      "Gao Junjie"
+    ],
+    "journal": "Signal transduction and targeted therapy",
+    "citation_count": 353,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/33589598/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/33589598/",
+    "source": "pubmed",
+    "keyword": "mitochondrial transfer",
+    "group": "ミトコンドリア移植",
+    "semantic_url": "https://www.semanticscholar.org/paper/5c86d8cb4d8bc2069719d23bc2b62ae8fad37b1b",
+    "ai_summary": "As the crucial powerhouse for cell metabolism and tissue survival, the mitochondrion frequently undergoes morphological or positional changes when responding to various stresses and energy demands. In",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1097/MD.0000000000048052",
+    "pmid": "42071804",
+    "title": "Global trends in platelet-rich plasma research: A bibliometric review with hotspot visualization.",
+    "abstract": "Platelet-rich plasma is a hot topic in medicine and has received increasing attention in related research areas. we use VOSviewer software to visualize and analyze the research field of platelet-rich plasma at home and abroad in the past 5 years, and use the visual network map generated by the software to analyze and explore the current research status in this field.",
+    "year": 2026,
+    "authors": [
+      "Zhang Zhe",
+      "Zhao Shiyao",
+      "Hei Peng"
+    ],
+    "journal": "Medicine",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/42071804/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42071804/",
+    "source": "pubmed",
+    "keyword": "platelet-rich plasma",
+    "group": "PRP",
+    "ai_summary": "Platelet-rich plasma is a hot topic in medicine and has received increasing attention in related research areas. we use VOSviewer software to visualize and analyze the research field of platelet-rich ",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1016/j.actbio.2025.07.050",
+    "pmid": "40712724",
+    "title": "Platelet-rich plasma - A comprehensive review of isolation, activation, and application.",
+    "abstract": "Platelets and platelet enriched products have been widely studied for their roles in promoting cell proliferation, migration, and tissue regeneration, making them highly interesting for clinical applications such as traumatology, dental, orthopaedic, and plastic surgery. However, their clinical adoption remains limited, partly due to fragmented and inconsistent data. Previous reviews have explored various applications of PRP therapies, but no comprehensive work has systematically mapped their processing methods, treatment modalities, and applications alongside clinical outcomes. This review thus aims to provide a thorough analysis of platelet-rich products, including platelet-rich plasma and platelet lysate, critically assessing their therapeutic potential. Variability in factors such as platelet and leukocyte content, red blood cell contamination, and activation methods complicates the clinical implementation and standardization of platelet-rich products. Herein, we examine platelet structure, function, and growth factors (e.g., PDGF, VEGF, and TGF-β) essential for tissue repair and regeneration, alongside manufacturing processes and isolation techniques impacting product quality. Additionally, we explore platelet recovery, activation strategies (chemical, physical, enzymatic), application forms, patient-related variables, and the immune-modulatory roles of platelets in inflammation, wound healing, and immune response regulation. Our findings highlight the urgent need for standardized protocols to improve consistency and efficacy of platelet-derived products, providing a framework to guide readers in selecting adequate procedures for specific clinical indications or research applications. STATEMENT OF SIGNIFICANCE: Platelet-rich plasma (PRP) has gained widespread attention for its regenerative potential, but its clinical outcomes remain inconsistent due to variability in preparation and application methods. This comprehensive review critically synthesizes the full PRP pipeline-from donor selection and processing to activation strategies and delivery modalities-highlighting key sources of heterogeneity. By integrating current evidence across disciplines, we provide a unified framework for optimizing PRP use in musculoskeletal repair and beyond. This work addresses a major knowledge gap and offers a timely resource for clinicians and researchers aiming to harness PRP more effectively.",
+    "year": 2025,
+    "authors": [
+      "Rath Matthias",
+      "Spinnen Jacob",
+      "Kuhrt Leonard D",
+      "Priglinger Eleni",
+      "Seika Philippa",
+      "Runge Domenique",
+      "Schubring Stephan",
+      "Laue Dominik",
+      "Wickert Maryam",
+      "Erdem Mehmet",
+      "Ertel Wolfgang",
+      "Shopperly Lennard K"
+    ],
+    "journal": "Acta biomaterialia",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/40712724/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/40712724/",
+    "source": "pubmed",
+    "keyword": "platelet-rich plasma",
+    "group": "PRP",
+    "ai_summary": "Platelets and platelet enriched products have been widely studied for their roles in promoting cell proliferation, migration, and tissue regeneration, making them highly interesting for clinical appli",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1007/s11916-026-01558-5",
+    "pmid": "42696062",
+    "title": "Playing by the Rules: A Review of the Modern Regulatory Framework for Regenerative Medicine.",
+    "abstract": "This review provides the reader with an up-to-date summary of the U.S. regulatory framework as it relates to regenerative medicine therapies used in pain management. This includes relevant historical background, legal discussion, prevailing evidence for the discussed therapies, and expert opinion on potential pathways forward that promote safety alongside innovation.",
+    "year": 2026,
+    "authors": [
+      "Rothkrug Alexander Schnabel",
+      "Robinson Christopher L"
+    ],
+    "journal": "Current pain and headache reports",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/42696062/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42696062/",
+    "source": "pubmed",
+    "keyword": "trending",
+    "is_trending": true,
+    "ai_summary": "This review provides the reader with an up-to-date summary of the U.S. regulatory framework as it relates to regenerative medicine therapies used in pain management. This includes relevant historical ",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  }
+]
