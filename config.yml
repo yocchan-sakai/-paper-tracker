@@ -12,7 +12,7 @@ keyword_groups:
     top_n: 2
 
 report_hour: 6        # 何時に実行するか（JST = UTC+9）
-report_interval_days: 3  # 何日に1回実行するか
+report_interval_days: 7  # 週1回（毎週月曜朝）
 max_results: 100      # 各キーワードで取得する最大件数
 reported_expiry_days: 90  # 報告済み論文の有効期限（日）。経過後は再候補に
 

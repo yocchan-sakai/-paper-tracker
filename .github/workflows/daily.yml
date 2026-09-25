@@ -2,8 +2,8 @@ name: Daily Paper Report
 
 on:
   schedule:
-    # 3日に1回 6:00 JST = 21:00 UTC
-    - cron: "0 21 */3 * *"
+    # 毎週月曜 6:00 JST = 日曜 21:00 UTC
+    - cron: "0 21 * * 0"
   # 手動実行も可能（テスト用）
   workflow_dispatch:
 
