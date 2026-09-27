@@ -1,0 +1,152 @@
+[
+  {
+    "doi": "10.1007/s12035-026-06224-w",
+    "pmid": "42764323",
+    "title": "Intercellular Mitochondrial Transfer in the Nervous System: Roles of Tunneling Nanotubes, Mitochondrial Extracellular Vesicles, and Neuroimmune Bioenergetic Interactions.",
+    "abstract": "Mitochondria are essential organelles that maintain neuronal bioenergetics, redox homeostasis, calcium signaling, and immune regulation. Traditionally, mitochondrial dysfunction has been primarily considered as an intracellular event associated with neuronal injury and neurodegeneration. However, accumulating evidence indicates that mitochondria and mitochondrial components can be transferred between cells, forming an intercellular communication network that dynamically regulates tissue homeostasis and disease progression. Intercellular mitochondrial transfer occurs through contact-dependent pathways, mainly mediated by tunneling nanotubes (TNTs), and contact-independent pathways involving mitochondrial extracellular vesicles (MitoEVs), mitochondria-derived extracellular vesicles (MDEVs), and extracellular mitochondria. In the nervous system, these pathways establish functional interactions among neurons, astrocytes, microglia, satellite glial cells, endothelial cells, and stem cells. Transferred functional mitochondria can restore bioenergetic deficits, whereas damaged mitochondria or mitochondrial components may act as danger-associated molecular patterns (DAMPs) to amplify neuroinflammation. Here, we summarize the molecular mechanisms and biological functions of intercellular mitochondrial transfer in the nervous system, emphasizing its dual roles in bioenergetic rescue, mitochondrial quality control, and neuroimmune regulation. Understanding these processes may provide new insights into neurological disease mechanisms and therapeutic strategies targeting mitochondrial communication.",
+    "year": 2026,
+    "authors": [
+      "Wei Xing",
+      "Liu Fuxian",
+      "Yao Jingxi",
+      "Feng Peng",
+      "Xue Fuchun",
+      "Shi Zhenggang"
+    ],
+    "journal": "Molecular neurobiology",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/42764323/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42764323/",
+    "source": "pubmed",
+    "keyword": "mitochondrial transfer",
+    "group": "ミトコンドリア移植",
+    "ai_summary": "Mitochondria are essential organelles that maintain neuronal bioenergetics, redox homeostasis, calcium signaling, and immune regulation. Traditionally, mitochondrial dysfunction has been primarily con",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1016/j.celrep.2026.117057",
+    "pmid": "41811849",
+    "title": "Mitochondrial transfer to granulocytic myeloid-derived suppressor cells augments immunosuppressive activity.",
+    "abstract": "The anti-inflammatory properties of granulocytic myeloid-derived suppressor cells (G-MDSCs) promote Staphylococcus aureus (S. aureus) biofilm persistence. Evidence suggests that G-MDSC activity is shaped not only by S. aureus products but also by intrinsic metabolic programs. This study explores whether G-MDSC activity can be modulated by increasing mitochondrial abundance using a co-culture paradigm with macrophages as a mitochondrial donor. Macrophages transfer mitochondria directly to G-MDSCs via tunneling nanotubes, enhancing G-MDSC respiration, as reflected by increased basal, maximal, and spare respiratory capacity. Augmenting mitochondrial abundance in G-MDSCs enhances T cell-suppressive activity and reduces tumor necrosis factor (TNF) and interleukin 6 (IL-6) production. In a mouse model of S. aureus prosthetic joint infection, adoptively transferred macrophages deliver mitochondria to G-MDSCs, enhancing their suppressive activity and increasing bacterial burden, which is reversed when macrophages with non-functional mitochondria are introduced. These findings support the theory that G-MDSCs exploit mitochondria to augment their anti-inflammatory properties in response to S. aureus biofilm.",
+    "year": 2026,
+    "authors": [
+      "Arumugam Prabhakar",
+      "Heim Cortney E",
+      "Fallet Rachel W",
+      "Shinde Dhananjay D",
+      "Thomas Vinai C",
+      "Argüello Rafael J",
+      "Kielian Tammy"
+    ],
+    "journal": "Cell reports",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/41811849/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41811849/",
+    "source": "pubmed",
+    "keyword": "mitochondrial transfer",
+    "group": "ミトコンドリア移植",
+    "ai_summary": "The anti-inflammatory properties of granulocytic myeloid-derived suppressor cells (G-MDSCs) promote Staphylococcus aureus (S. aureus) biofilm persistence. Evidence suggests that G-MDSC activity is sha",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.3390/ijms27167393",
+    "pmid": "42653397",
+    "title": "Toward Standardized Platelet-Rich Plasma Therapy in Tendon Healing: Integrating Biological Characterization with Clinical Translation.",
+    "abstract": "Platelet-rich plasma (PRP) has emerged as one of the most extensively investigated orthobiologic therapies for tendon disorders because of its potential to modulate inflammation, enhance extracellular matrix remodeling, and promote tissue regeneration through the delivery of concentrated platelets and bioactive molecules. However, despite compelling biological rationale and encouraging preclinical evidence, clinical outcomes remain inconsistent across different tendon pathologies. This narrative review critically examines the principal biological and methodological factors underlying this variability, including differences in cellular composition, growth factor and cytokine profiles, activation strategies, and current PRP classification systems. We further synthesize the available clinical evidence across major tendon disorders, highlighting the influence of disease-specific biology, product heterogeneity, and procedural variability on treatment response. In addition, the emerging role of quantitative imaging biomarkers in objectively evaluating tendon regeneration is discussed as a complementary tool for biological outcome assessment. Based on the evidence reviewed, we propose the quantifiable platelet-rich plasma (Q-PRP) framework, a practical reporting model that integrates cellular, molecular, procedural, and clinical variables into a standardized approach for biologically meaningful PRP characterization. Rather than replacing existing classification systems, the proposed framework aims to improve reproducibility, facilitate cross-study comparison, and support the transition toward precision regenerative medicine. Standardized biological characterization, combined with objective outcome assessment, may represent a critical step toward optimizing PRP research and clinical application in tendon healing.",
+    "year": 2026,
+    "authors": [
+      "Alghishan Jeries Issa",
+      "Andor Bogdan"
+    ],
+    "journal": "International journal of molecular sciences",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/42653397/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42653397/",
+    "source": "pubmed",
+    "keyword": "platelet-rich plasma",
+    "group": "PRP",
+    "ai_summary": "Platelet-rich plasma (PRP) has emerged as one of the most extensively investigated orthobiologic therapies for tendon disorders because of its potential to modulate inflammation, enhance extracellular",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1177/10556656261417033",
+    "pmid": "42318688",
+    "title": "Implantation of Infant Platelet-Rich Plasma/Fibrin with Gingivoperiosteoplasty in Patients with Unilateral Cleft Lip and Alveolus.",
+    "abstract": "ObjectiveNo studies have examined the effectiveness of platelet-rich plasma (PRP) alone and platelet-rich fibrin (PRF) without alveolar bone grafting or other bone substitutes for alveolar cleft repair during infancy. This study evaluated the effectiveness of autologous PRP/PRF on alveolar regeneration in infantile unilateral cleft lip and alveolus.DesignRetrospective study.SettingPatients, Participants: A total of 56 patients with alveolar clefts were classified into the no PRP/PRF (which received gingivoperiosteoplasty [GPP] without PRP/PRF), PRP (which received GPP with PRP), and PRF (which received GPP with PRF) groups.InterventionsRegarding preparation, 5 mL of blood was withdrawn, and 1 mL each of PRP and PRF was prepared via centrifugal separation. PRP was implanted in the alveolar cleft after loading it into a commercially available gelatin sponge, while PRF was implanted directly.Main Outcome MeasuresPostoperative bone formation was assessed using computed tomography and radiography for qualitative analysis.ResultsThe new alveolar bone volume was higher in the PRF group than in the other groups; however, no differences were observed between the PRP, PRF, and control groups.ConclusionThis study was performed without complication. However, no significant difference in bone formation was found between the PRP, PRF, and control groups.",
+    "year": 2026,
+    "authors": [
+      "Kobayashi Shinji",
+      "Yabuki Yuichiro",
+      "Sugiyama Madoka",
+      "Fukui Atuko",
+      "Hirakawa Takashi"
+    ],
+    "journal": "The Cleft palate-craniofacial journal : official publication of the American Cleft Palate-Craniofacial Association",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/42318688/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42318688/",
+    "source": "pubmed",
+    "keyword": "platelet-rich plasma",
+    "group": "PRP",
+    "ai_summary": "ObjectiveNo studies have examined the effectiveness of platelet-rich plasma (PRP) alone and platelet-rich fibrin (PRF) without alveolar bone grafting or other bone substitutes for alveolar cleft repai",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1002/advs.77713",
+    "pmid": "42801582",
+    "title": "Mitochondria-Targeted Nanotherapeutics: A Promising Strategy in Modulating Mitochondrial Function, Transfer, and Transplantation.",
+    "abstract": "Mitochondria, as organelles with a critical role in maintaining cellular activities, are also vulnerable to dysfunction, which contributes substantially to the pathogenesis of various systemic diseases. Nanomaterials, owing to their tunable physicochemical properties and precise bio-interfacial capabilities, offer innovative platforms not only for delivering general mitochondria-targeted therapy but also for enabling-with promising potential-the emerging paradigms of mitochondrial transfer and transplantation. Nevertheless, a dedicated review systematically summarizing progress in this specific subfield is lacking. To fill this knowledge gap, this review provides a structured synthesis that spans from the biological basis of mitochondrial function and transfer to the broad applications of nanomaterials in mitochondria-targeted therapies, with a dedicated analysis of their roles in mitochondrial targeting, functional modulation, and gene editing. A key topic of this review is the emerging role of nanomaterials in assisting mitochondrial transplantation and transfer. By integrating these insights, this work bridges nanotechnology and mitochondrial medicine, offering a valuable resource for developing organelle-specific therapeutics.",
+    "year": 2026,
+    "authors": [
+      "Su Yuanyuan",
+      "Gong Zhiyan",
+      "Mu Jiao",
+      "Huang Lili",
+      "Yang Pengfei",
+      "Zhang Chenli",
+      "Zhao Lingshan",
+      "Yang Liling",
+      "Deng Jun",
+      "Liao Xiaohui"
+    ],
+    "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/42801582/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42801582/",
+    "source": "pubmed",
+    "keyword": "trending",
+    "is_trending": true,
+    "ai_summary": "Mitochondria, as organelles with a critical role in maintaining cellular activities, are also vulnerable to dysfunction, which contributes substantially to the pathogenesis of various systemic disease",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  }
+]
