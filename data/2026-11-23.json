@@ -1,0 +1,154 @@
+[
+  {
+    "doi": "10.1161/CIRCRESAHA.125.326984",
+    "pmid": "41955327",
+    "title": "Mitochondrial Transfer: From Bench to Bedside.",
+    "abstract": "Intercellular mitochondrial transfer has emerged as a fundamental mechanism of tissue adaptation and repair in the cardiovascular system, with major implications for cardiovascular, neurological, metabolic, and inflammatory diseases. Once thought to be static, mitochondria are now recognized as mobile organelles that move between cells via tunneling nanotubes, extracellular vesicles, and free mitochondria. These pathways support 2 complementary axes of mitochondrial communication: Rescue by Replenish, in which healthy mitochondria or mitochondrial components restore bioenergetics and stress resistance in recipient cells, and Relief by Release, in which damaged mitochondria are exported for degradation to preserve homeostasis and limit inflammation. We summarize the molecular machinery governing tunneling nanotube formation, mitochondria-derived vesicle biogenesis, extracellular vesicle sorting, and free mitochondrial release and uptake, and discuss how these processes shape organ function. Building on these mechanistic insights, we outline 4 translational strategies: (1) cell-based therapies that donate healthy mitochondria or scavenge damaged ones; cell-free approaches using (2) mitochondria-containing extracellular vesicles or (3) purified mitochondria; (4) pharmacological, nutritional, and lifestyle interventions that augment endogenous mitochondrial turnover and intercellular exchange. Finally, we discuss key barriers to clinical translation, including inflammatory and oncogenic risks, mitonuclear incompatibility, incomplete understanding of the fate and durability of transferred mitochondria, and the lack of standardized manufacturing, potency assays, and long-term storage methods. Continued integration of mechanistic biology with bioengineering and regulatory science will be essential to safely move mitochondrial transfer-based therapies from bench to bedside in cardiovascular medicine.",
+    "year": 2026,
+    "authors": [
+      "Ikeda Gentaro",
+      "Li Jiwen",
+      "Wang Alyssa",
+      "Paleru Amogha Medha",
+      "Yang Phillip C"
+    ],
+    "journal": "Circulation research",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/41955327/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41955327/",
+    "source": "pubmed",
+    "keyword": "mitochondrial transfer",
+    "group": "ミトコンドリア移植",
+    "ai_summary": "Intercellular mitochondrial transfer has emerged as a fundamental mechanism of tissue adaptation and repair in the cardiovascular system, with major implications for cardiovascular, neurological, meta",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1073/pnas.2512592123",
+    "pmid": "41642981",
+    "title": "Mitochondrial transfer in the HSC-HCC-macrophage network shapes hepatocellular carcinoma progression.",
+    "abstract": "Mitochondrial crosstalk between tumor cells and components of the tumor microenvironment (TME) is a critical yet underexplored mechanism driving hepatocellular carcinoma (HCC) progression. Here, we demonstrate that in HCC, mitochondria can be transferred from hepatic stellate cells to cancer cells via tunneling nanotubes (TNTs), supplying essential energy for tumor growth. Simultaneously, cancer cells offload damaged mitochondria to macrophages through extracellular vesicles (EVs), facilitating their clearance and promoting tumor development. To disrupt this mitochondrial exchange, we developed a responsive liposomal nanocarrier (L&G@LipoPPV) coencapsulating L-778123 and GW4869 to simultaneously inhibit TNT-mediated and vesicle-mediated mitochondrial transfer. This work provides the first comprehensive evidence of mitochondrial transfer dynamics in the TME, with tumor cells as the central hub, and highlights L&G@LipoPPV as an innovative and effective strategy to block mitochondrial crosstalk. Our findings address critical challenges of drug solubility and delivery, offering a rational approach to reprogram the TME and suppress liver cancer progression.",
+    "year": 2026,
+    "authors": [
+      "Zhang La",
+      "Ren Cong",
+      "He Miao",
+      "Chen Xinyu",
+      "Liu Hongqing",
+      "Liu Yilin",
+      "Luo Jing",
+      "Li Zhenghang",
+      "Wang Jianwei",
+      "Miao Wenjun",
+      "Peng Qiling",
+      "Jiang Ning"
+    ],
+    "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/41642981/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/41642981/",
+    "source": "pubmed",
+    "keyword": "mitochondrial transfer",
+    "group": "ミトコンドリア移植",
+    "ai_summary": "Mitochondrial crosstalk between tumor cells and components of the tumor microenvironment (TME) is a critical yet underexplored mechanism driving hepatocellular carcinoma (HCC) progression. Here, we de",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1016/j.det.2026.02.002",
+    "pmid": "42303354",
+    "title": "Platelet-Rich Plasma Devices in Dermatology.",
+    "abstract": "Platelet-rich plasma (PRP) has become an important therapeutic tool in dermatology, with expanding applications in both medical and cosmetic practice. This article highlights the wide variety of PRP preparation and delivery devices, emphasizing how centrifugation protocols, device design, and administration techniques influence platelet concentration, safety, and clinical outcomes. Options such as microneedling, mesotherapy, needleless systems, and supportive anesthetic devices allow for individualized treatment approaches, while emerging technologies like artificial intelligence promise more objective monitoring. Understanding these differences enables dermatologists to optimize PRP quality, enhance patient comfort, and achieve reproducible results in practice.",
+    "year": 2026,
+    "authors": [
+      "Williams Kimberly N",
+      "Tosti Antonella"
+    ],
+    "journal": "Dermatologic clinics",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/42303354/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42303354/",
+    "source": "pubmed",
+    "keyword": "platelet-rich plasma",
+    "group": "PRP",
+    "ai_summary": "Platelet-rich plasma (PRP) has become an important therapeutic tool in dermatology, with expanding applications in both medical and cosmetic practice. This article highlights the wide variety of PRP p",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1177/19386400261465086",
+    "pmid": "42454426",
+    "title": "Platelet-Rich Plasma in the Management of Foot and Ankle Pathologies.",
+    "abstract": "Platelet-rich plasma (PRP) has emerged as a regenerative treatment option for various foot and ankle pathologies, containing growth factors and anti-inflammatory proteins to promote tissue healing. The most consistent clinical evidence supports PRP use for plantar fasciitis and osteochondral lesions of the talus, with significant improvements in pain and function observed. In contrast, outcomes for Achilles tendon pathologies and ankle osteoarthritis are mixed, demonstrating heterogeneity in PRP preparation and implementation. Future high-quality, standardized studies are necessary to determine the efficacy, optimal protocols, and long-term outcomes of PRP in foot and ankle pathologies.",
+    "year": 2026,
+    "authors": [
+      "Rubin Jared",
+      "Tham Alexander",
+      "Rutherford Ryan",
+      "Butler James J",
+      "Montgomery Samuel R",
+      "Mercer Nathaniel P",
+      "Lezak Bradley A",
+      "Donnelly Megan",
+      "Kennedy John G"
+    ],
+    "journal": "Foot & ankle specialist",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/42454426/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/42454426/",
+    "source": "pubmed",
+    "keyword": "platelet-rich plasma",
+    "group": "PRP",
+    "ai_summary": "Platelet-rich plasma (PRP) has emerged as a regenerative treatment option for various foot and ankle pathologies, containing growth factors and anti-inflammatory proteins to promote tissue healing. Th",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  },
+  {
+    "doi": "10.1016/j.jhsg.2026.101197",
+    "pmid": "43065798",
+    "title": "Scar Treatments in Hand Surgery.",
+    "abstract": "Scar formation after hand surgery poses unique functional and aesthetic challenges because of the hand's complex anatomy, dense sensory innervation, and reliance on supple skin and tendon glide. Hypertrophic scars, keloids, adherent scars, and contractures can cause pain, hypersensitivity, restricted motion, and impaired activities of daily living, yet evidence guiding scar management in hand surgery remains limited and largely extrapolated from burn and general surgical populations. This review synthesizes current evidence on the biology, classification, prevention, and treatment of scars as they pertain to hand surgery. Nonoperative management, including silicone gel sheeting, compression therapy, intralesional corticosteroid injection, laser therapy, and hand therapy, forms the foundation of care. Operative interventions, ranging from scar excision and Z-plasty to skin grafting, local flap reconstruction, dermal substitutes, and tenolysis, address established contracture and adhesion when conservative measures fail. Emerging therapies, such as autologous fat grafting, growth factor modulation, platelet-rich plasma, and botulinum toxin A, show early promise but require validation in hand-specific trials. Optimal outcomes depend on a collaborative, individualized approach integrating patient risk stratification, meticulous surgical technique, and close coordination with hand therapy throughout the care continuum.",
+    "year": 2027,
+    "authors": [
+      "Chi Hannah M",
+      "Smith Lacey M",
+      "Schroeder Nicole S",
+      "Lalchandani Gopal R"
+    ],
+    "journal": "Journal of hand surgery global online",
+    "citation_count": 0,
+    "open_access_url": "https://pubmed.ncbi.nlm.nih.gov/43065798/",
+    "pubmed_url": "https://pubmed.ncbi.nlm.nih.gov/43065798/",
+    "source": "pubmed",
+    "keyword": "trending",
+    "is_trending": true,
+    "ai_summary": "Scar formation after hand surgery poses unique functional and aesthetic challenges because of the hand's complex anatomy, dense sensory innervation, and reliance on supple skin and tendon glide. Hyper",
+    "ai_points": [
+      "情報を取得できませんでした。",
+      "",
+      ""
+    ],
+    "ai_mermaid": "flowchart LR\n    A[\"論文\"] --> B[\"詳細は原著を参照\"]",
+    "ai_importance": "medium"
+  }
+]
